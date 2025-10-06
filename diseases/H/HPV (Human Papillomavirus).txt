@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/11901-hpv-human-papilloma-virus
 
 Overview
 --------
-Although there are different types of warts, all result from a human papillomavirus (HPV) infection.
-
 What is human papillomavirus (HPV)?
 
 Human papillomavirus (HPV) is a common virus that can affect different parts of your body. There are over 100 types of HPV, including strains of HPV that cause warts on your hands, feet and face. About 30 HPV strains can affect your genitals, including your vulva, vagina, cervix, penis and scrotum, as well as your rectum and anus. This includes the type of HPV that causes genital warts.
@@ -24,6 +22,14 @@ Getting regular Pap smears to screen for cervical cancer is important (usually b
 How long does it take for HPV to turn into cancer?
 
 The virus itself doesn’t turn into cancer. But high-risk strains of HPV infection can cause precancerous cell changes. These cell changes can eventually lead to cancer if they aren’t managed. This process, though, can take years or decades to happen. Screenings, like Pap smears, can help detect these precancerous cells before they turn to cancer.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

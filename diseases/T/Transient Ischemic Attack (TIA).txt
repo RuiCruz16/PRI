@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14173-transient-ischemic-attack-t
 
 Overview
 --------
-Transient ischemic attack is like a stroke, but the effects are temporary. It’s often a warning sign that a stroke is possible or likely.
-
 What is a transient ischemic attack?
 
 A transient ischemic attack is like a temporary stroke. It means there’s a temporary (transient) lack of blood flow to part of your brain. Without blood flow, the brain cells malfunction and start to die (ischemia).
@@ -20,6 +18,14 @@ TIA vs. mini-stroke — which is the correct name?
 A common nickname for TIAs is “mini-strokes.” But that’s not an accurate name. A TIA isn’t necessarily “mini” or smaller, and TIAs can easily affect large brain areas. Importantly, a stroke may occur after a TIA, within a matter of minutes, hours or days.
 
 There are also two critical differences between strokes and TIAs. The first is that a TIA stops on its own. A stroke doesn’t, and it needs treatment to stop and reverse the effects. A stroke also leaves behind evidence on a magnetic resonance imaging (MRI) scan. The changes remain even if your symptoms go away.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

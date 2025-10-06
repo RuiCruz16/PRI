@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21485-rheumatic-heart-disease
 
 Overview
 --------
-Rheumatic heart disease can make the mitral or aortic valves in your heart unable to work well.
-
 What is rheumatic heart disease?
 
 Rheumatic heart disease is heart valve damage from rheumatic fever. Bacterial infections called group A streptococcal (GAS) infections can cause rheumatic fever. An infection like strep throat or scarlet fever triggers your body’s immune response, causing inflammation throughout your body, including in your heart.
@@ -16,6 +14,14 @@ How common is rheumatic heart disease?
 Rheumatic heart disease is rare in the U.S. It’s more common in low-income or developing parts of the world where people can’t get antibiotics for bacterial infections. About 300,000 people worldwide die of rheumatic heart disease each year. More than 40 million people in the world have the disease.
 
 Children and teenagers with untreated strep infections are the most likely to get rheumatic fever, often between ages 5 and 15. Signs of heart damage can develop years after the infection and fever are gone. People often show signs of rheumatic heart disease as young adults.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

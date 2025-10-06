@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24634-lymphocytic-colitis
 
 Overview
 --------
-Certain foods can trigger diarrhea with lymphocytic colitis.
-
 What is lymphocytic colitis?
 
 Lymphocytic colitis is a type of microscopic colitis, which is a type of inflammatory bowel disease. Inflammatory bowel diseases are chronic diseases that cause ongoing inflammation in your intestines. Colitis means inflammation of the large intestine (colon). Microscopic colitis is colitis that can only be seen under a microscope. Scientists recognize the different types of microscopic colitis by analyzing the cells in your intestinal lining.
@@ -31,6 +29,14 @@ Rheumatoid arthritis.
 Celiac disease.
 Type 1 diabetes.
 Thyroid disease.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

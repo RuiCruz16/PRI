@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/increased-intracranial-pressure-i
 
 Overview
 --------
-Increased intracranial pressure (ICP) happens when there’s a rise in the pressures within your cranial vault.
-
 What is increased intracranial pressure?
 
 Increased intracranial pressure (ICP) happens when there’s a rise in the pressure within your cranial vault. It can be sudden (acute) or develop slowly over time (chronic) and has several possible causes.
@@ -18,6 +16,14 @@ Blood.
 Any increase in the volume of one of these three components will increase the overall pressure within your cranial vault.
 
 Increased intracranial pressure typically leads to a decrease in blood flow in your brain, or to brain herniation (when brain tissue moves). Both of these are serious, life-threatening conditions.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

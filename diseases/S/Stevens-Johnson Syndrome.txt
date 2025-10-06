@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17656-stevens-johnson-syndrome
 
 Overview
 --------
-Stevens-Johnson syndrome (SJS)
-
 What is Stevens-Johnson syndrome (SJS)?
 
 Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are serious skin conditions that cause your skin to develop rashes, blisters, and then peel. Your mucus membranes, including your eyes, genitalia and mouth, are also affected. If you get this condition, you’ll likely be admitted to a hospital.
@@ -22,6 +20,14 @@ Many cases of SJS happen in children and adults younger than 30 years old, but a
 What are the risk factors for developing Stevens-Johnson syndrome?
 
 A combination of factors is likely involved in developing these disorders, including a genetic bias. Environmental factors might cause the gene to be triggered. One of these genetic factors include specific human leukocyte antigens (HLAs) that may increase one’s risk of developing SJS or TEN.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -5,6 +5,60 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Color blindness (color vision deficiency) is what happens when you see colors differently than usual. It’s a fairly common vision issue, especially in males.
+
+Your vision is a complex process that happens when your eyes and brain work together to translate light into the images you see. Special nerve cells in your retinas called photoreceptors turn light into nerve signals your brain uses to create your vision.
+
+Cones (one type of photoreceptor) help you see and tell colors apart. Even though it doesn’t look like it, light is made of tiny, colored waves. There are three types of cones that each sense a different color (wavelength) of light:
+
+Red-sensing cones (L cones)
+Green-sensing cones (M cones)
+Blue-sensing cones (S cones)
+
+Usually, your eyes use all three cones to sense and put together information that tells your brain what color something is. They use each of these colors together to make every other possible color. Color vision deficiency happens when you’re born without enough cones, or they don’t work like they should.
+
+Most people are familiar with the idea of color blindness. But this is a bit of an outdated term. Color vision deficiency is more accurate. And it’s probably what your healthcare provider or eye doctor will use when you visit them.
+
+Color blindness implies that you can’t see any colors. And that’s not usually correct, even if you have color vision deficiency. Instead, you’ll see some colors differently from most people. Your eye doctor might call this an altered perception of color.
+
+Types of color blindness
+
+There are several types of color vision deficiency. The type you have depends on which of your cones are missing or don’t work properly.
+
+Red-green color deficiency
+
+Red-green color blindness is the most common type. If you have it, you’ll have trouble seeing colors or shades that have red or green. Red-green color deficiency is more common in males. Subtypes include:
+
+Protanomaly: You have all three cones, but your red-sensing cones don’t work as well as they should. Red may appear as dark gray, and every color that contains red may be less bright.
+Deuteranomaly: You have all three cones, but your green-sensing cones don’t work correctly. You’ll see mostly blues and yellows, and most colors will look muted or softer than they should. Deuteranomaly is the most common subtype of color blindness.
+Protanopia: You’re missing red-sensing cones. You won’t be able to see red. Most colors will look like a shade of blue or gold. You’ll probably have a hard time telling the difference between red and black. Other dark colors (like brown) may look green or orange.
+Deuteranopia: You don’t have green-sensing cones. You’ll mostly see blue and gold. It might be hard to tell the difference between red and green. It might also be hard to tell the difference between green and yellow.
+Blue-yellow color deficiency
+
+Blue-yellow color blindness happens when your blue cones are missing or don’t work correctly. It’s rarer than red-green. Subtypes include:
+
+Tritanopia: Your retinas are missing blue cones. You won’t be able to see any blue. You’ll mostly see red, pink and lavender.
+Tritanomaly: You have all the cones, but the blue-sensing ones don’t work completely. Blues will look green, and you probably won’t be able to see yellows well.
+Blue cone monochromacy
+
+This is the rarest type of color vision deficiency. It happens when you’re missing both green- and red-sensing cones. Because your retinas only have blue cones, it will be hard to tell the difference between any colors. Everything might look like a shade of gray.
+
+If you have blue cone monochromacy, you’ll probably have other eye and vision issues, including:
+
+Amblyopia (lazy eye)
+Light sensitivity
+Nearsightedness
+Uncontrollable eye movements
+Rod monochromacy (achromatopsia)
+
+Achromatopsia is when you don’t have any cones. This is true color blindness. You won’t see any colors, and will probably have reduced or low vision and other complications.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of color blindness

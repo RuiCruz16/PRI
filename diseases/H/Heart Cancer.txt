@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16840-heart-cancer
 
 Overview
 --------
-Although it’s rare, people can get heart cancer. Most often, it spreads from an organ nearby.
-
 What is heart cancer?
 
 Heart cancer occurs when diseased cells grow out of control on or near your heart. These cells form a tumor. Cancer can begin in your heart (primary heart cancer) or spread there from somewhere else (secondary heart cancer).
@@ -26,6 +24,14 @@ Why is heart cancer rare?
 Your heart contains connective tissue and muscle cells that don’t renew themselves very fast. This makes them very resistant to becoming cancerous. Cancer cells grow and multiply more vigorously in epithelial tissue. This kind of tissue tends to turn over more quickly and so is more susceptible to a mutation (error in replication) occurring that can lead to cancer.
 
 Epithelial tissue lines most organs. Breasts also have this tissue. For this reason, cancer more commonly affects tissue in the breasts and organs like the colon, pancreas, lungs and skin.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

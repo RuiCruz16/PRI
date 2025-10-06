@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/12120-hypothyroidism
 
 Overview
 --------
-Learn the difference between hypothyroidism and hyperthyroidism.
-
 What is hypothyroidism?
 
 Hypothyroidism (underactive thyroid disease) is a condition that happens when your thyroid gland doesn’t make or release enough hormone into your bloodstream. As a result, your metabolism slows down. This can cause unintentional weight gain and make you feel exhausted all the time.
@@ -27,10 +25,16 @@ How common is hypothyroidism?
 
 Hypothyroidism can affect anyone. It’s most common among females over age 60, particularly after menopause.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Hypothyroidism can cause varying symptoms and may mimic other conditions. Tell your provider if something doesn’t feel right.
-
 What are the symptoms of hypothyroidism?
 
 Hypothyroidism symptoms usually develop slowly over time. In some cases, it can take years. Some possible symptoms include:

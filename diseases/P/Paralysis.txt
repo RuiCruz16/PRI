@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15345-paralysis
 
 Overview
 --------
-Paralysis occurs when you’re unable to make voluntary muscle movements.
-
 What is paralysis?
 
 Paralysis occurs when you’re unable to make voluntary muscle movements. A nervous system problem causes paralysis. Nerves send signals to your muscles. Those signals make your muscles move. When you’re paralyzed, or have paralysis, you can’t move certain parts of your body.
@@ -37,6 +35,14 @@ Hemiplegia: Paralysis affects one side of your body (an arm and a leg on the sam
 Monoplegia: You can’t move one limb (arm or leg).
 Paraplegia: Paralysis affects both legs and sometimes your torso.
 Quadriplegia (tetraplegia): Paralysis involves all limbs and the torso. People with quadriplegia may have little or no movement from the neck down.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

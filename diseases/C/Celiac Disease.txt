@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14240-celiac-disease
 
 Overview
 --------
-Celiac disease erodes the lining of your small intestine.
-
 What is celiac disease?
 
 Celiac disease is an inherited autoimmune disorder that causes a reaction in your body to the protein, gluten. Gluten in your digestive system triggers your immune system to produce antibodies against it. These antibodies damage the lining of your small intestine (the mucosa). Damage to the mucosa in your small intestine impairs its ability to absorb nutrients from your food, causing nutritional deficiencies.
@@ -35,6 +33,14 @@ Have a relative who has it.
 Have a chromosomal disorder such as Turner syndrome, Williams syndrome or Down syndrome.
 Have another autoimmune disease, such as Type 1 diabetes, rheumatoid arthritis, microscopic colitis or Addison’s disease.
 Are female.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

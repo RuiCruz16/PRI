@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14129-hyperthyroidism
 
 Overview
 --------
-Learn the difference between hypothyroidism and hyperthyroidism.
-
 What is hyperthyroidism?
 
 Hyperthyroidism, also called overactive thyroid, is a condition where your thyroid makes and releases high levels of thyroid hormone. It has multiple possible causes. The main thyroid hormones are triiodothyronine (T3), thyroxine (T4) and thyroid stimulating hormone (TSH).
@@ -15,10 +13,16 @@ How common is hyperthyroidism?
 
 Hyperthyroidism is relatively rare. Approximately 1.3% of people in the United States have it.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Symptoms of hyperthyroidism (overactive thyroid) can start suddenly or develop slowly over time.
-
 What are the symptoms of hyperthyroidism?
 
 Hyperthyroidism can impact your entire body, so there are many symptoms. You may experience some of these symptoms and not others, or many of them at the same time. Symptoms of hyperthyroidism can include:

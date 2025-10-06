@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/strabismus-eye-misalignment
 
 Overview
 --------
-Strabismus (eye misalignment) types include an eye turned in (esotropia), out (exotropia), up (hypertropia) or down (hypotropia).
-
 What is strabismus (eye misalignment)?
 
 Strabismus (eye misalignment) is a condition in which your eyes don’t line up with one another. In other words, one eye is turned in a direction that’s different from your other eye.
@@ -36,6 +34,14 @@ Providers might also classify strabismus based on the nerves that aren’t worki
 How common is strabismus?
 
 An estimated 4% of the U.S. population — or about 13 million people — have crossed eyes.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

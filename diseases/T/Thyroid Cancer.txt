@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/12210-thyroid-cancer
 
 Overview
 --------
-Thyroid cancer starts in your thyroid, a small gland at the base of your neck, just above your trachea (windpipe).
-
 What is thyroid cancer?
 
 Thyroid cancer develops in your thyroid, a small, butterfly-shaped gland at the base of your neck. This gland produces hormones that regulate your metabolism (how your body uses energy). Thyroid hormones also help control your body temperature, blood pressure and heart rate. Thyroid cancer, a type of endocrine cancer, is generally highly treatable, with an excellent cure rate.
@@ -28,6 +26,14 @@ What are the thyroid cancer stages?
 Healthcare providers use a staging system to determine if and how far thyroid cancer has spread. Generally, when cancer cells in your thyroid metastasize, they spread to your nearby structures and lymph nodes first. After that, the cancer can spread to distant lymph nodes, organs and bones.
 
 Thyroid cancer stages range from 1 (I) to 4 (IV). In simple terms, the higher the number, the more the cancer has spread. To learn more about cancer staging and how it applies to your specific diagnosis, talk to your healthcare provider.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

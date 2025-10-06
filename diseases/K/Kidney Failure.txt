@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17689-kidney-failure
 
 Overview
 --------
-The early stages of chronic kidney disease may not have symptoms, but kidney failure symptoms may include feeling sick, confusion, swelling and peeing a lot.
-
 What is kidney failure?
 
 Kidney failure (renal failure) means one or both of your kidneys no longer function well on their own. Kidney failure is sometimes temporary and develops quickly (acute kidney failure). Other times, it’s a long-term condition that slowly gets worse over time (chronic kidney failure).
@@ -36,6 +34,14 @@ Stage II. Your GFR may be as low as 60 or as high as 89. You have more damage to
 Stage III. Your GFR may be as low as 30 or as high as 59. You may have mild or severe loss of kidney function.
 Stage IV. Your GFR may be as low as 15 or as high as 29. You have severe loss of kidney function.
 Stage V. Your GFR is below 15. Your kidneys are nearing or at complete failure. Generally, this is when you would start to have symptoms.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21881-tumor
 
 Overview
 --------
-Unlike benign tumors, cancerous tumors can use routes like your bloodstream and lymphatic system to spread to distant organs.
-
 What is a tumor?
 
 A tumor, or neoplasm, is a mass of abnormal cells that form in your body. Tumors can affect tissues, glands, organs, skin and bone. They can be big or small. You can have a single tumor or more than one.
@@ -21,6 +19,14 @@ Precancerous tumors: This type can become cancerous if it isn’t treated. Healt
 Tumors vs. cysts
 
 It’s easy to confuse tumors and cysts because they’re both unexpected growths. But they’re not the same. A tumor is a solid mass of tissue. It may or may not be cancerous. A cyst is a small sac that may contain fluid, air or other tissue. Most cysts aren’t cancerous.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

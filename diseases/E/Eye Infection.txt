@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/25000-eye-infection
 
 Overview
 --------
-Microorganisms cause infections in one or both eyes, with pink eye (conjunctivitis) being the most common eye infection.
-
 What is an eye infection?
 
 An eye infection is a disease of the eye that you get because of a microorganism like a bacterium, a virus or a fungus. The most common eye infection is pink eye (conjunctivitis).
@@ -27,6 +25,14 @@ Pink eye.
 Endophthalmitis.
 Stye.
 Uveitis.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

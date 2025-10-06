@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14432-barretts-esophagus
 
 Overview
 --------
-Barret's esophagus is a change in the structure of the cells lining your esophagus.
-
 What is Barrett’s esophagus?
 
 Barrett’s esophagus is a change in the cellular structure of your esophagus lining. Your esophagus is the swallowing tube that carries food from your mouth to your stomach. Like all of your gastrointestinal (GI) tract, your esophagus has a protective mucous lining on the inside. But if something irritates this lining for a long time, it can damage the tissues. Sometimes, this damage actually reprograms the cells.
@@ -14,6 +12,14 @@ These changes affect the structure and appearance of your esophagus lining. To s
 How serious is Barrett’s esophagus?
 
 Because of the small chance it might progress to esophageal cancer, healthcare providers like to keep an eye on Barrett’s esophagus. But the risk is only about half a percent per year. Cellular changes happen slowly, and metaplasia passes through another precancerous stage (dysplasia) before progressing to cancer. If your provider notices any dysplasia, they’ll remove it to stop it from progressing further.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

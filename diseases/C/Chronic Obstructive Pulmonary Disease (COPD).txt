@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/8709-chronic-obstructive-pulmonar
 
 Overview
 --------
-Features of COPD include loss of elasticity, inflamed and narrowed airways, enlarged and damaged alveoli, and thick mucus.
-
 What is chronic obstructive pulmonary disease (COPD)?
 
 “Chronic obstructive pulmonary disease” (COPD) is a term for certain types of irreversible lung and airway damage that block (obstruct) your airways and make it hard to breathe. If you’re diagnosed with either emphysema or chronic bronchitis, you have COPD.
@@ -27,10 +25,16 @@ COPD includes both emphysema and chronic bronchitis. People with COPD often have
 Emphysema is when your alveoli become damaged and enlarged. The most common symptom is shortness of breath (dyspnea).
 Chronic bronchitis is inflammation in your large airways. This narrows your airways and makes lots of mucus. Cough is the most common symptom.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Learn more about COPD.
-
 What are the symptoms of COPD?
 
 Symptoms of COPD include:

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24811-histoplasmosis
 
 Overview
 --------
-The fungus that causes histoplasmosis is more likely to be found in soil where there’s bird or bat poop.
-
 What is histoplasmosis?
 
 Histoplasmosis is a type of fungal infection in your lungs. You get it from breathing in the fungus Histoplasma capsulatum (H. capsulatum). The fungus lives in the soil in many parts of the world, including the U.S. It’s most commonly found where there are bird or bat droppings (poop) in the soil.
@@ -36,6 +34,14 @@ The fungus H. capsulatum gets into your lungs when you breathe it in from the so
 If you’re exposed to a lot of H. capsulatum at once, it can overwhelm your immune system and cause mild or severe flu-like symptoms and breathing problems.
 If you have certain lung diseases, like COPD, it can cause ongoing damage to your lungs.
 If you have a compromised immune system, it can use your immune cells to spread to other parts of your body. This can cause life-threatening complications.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/thiamine-deficiency
 
 Overview
 --------
-Low thiamine levels can cause a range of symptoms, including fatigue, loss of appetite and behavioral changes.
-
 What is a thiamine deficiency?
 
 A thiamine deficiency means your body doesn’t have enough thiamine (vitamin B1) to function properly. Your body needs thiamine to stay healthy. Specifically, thiamine helps with cell function, growth, development and converting food into energy.
@@ -14,6 +12,14 @@ Consistently low thiamine levels can negatively impact your heart, immune system
 Thiamine deficiency is rare in areas with regular access to food and supplements. But certain conditions can cause low thiamine even if you have access to these things. In the United States, most people with thiamine deficiency experience it as a symptom of another health condition.
 
 The term “beriberi” refers to severe thiamine deficiency.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21878-ventricular-fibrillation
 
 Overview
 --------
-Electrocardiogram from a patient with ventricular fibrillation.
-
 What is ventricular fibrillation?
 
 Ventricular fibrillation (v-fib or VF, for short) is the most common deadly arrhythmia. With this irregular heart rhythm, your heart’s lower chambers (ventricles) beat in an erratic way. They quiver or twitch instead of expanding and squeezing. This means they can’t pump blood as they should.
@@ -12,6 +10,14 @@ Ventricular fibrillation (v-fib or VF, for short) is the most common deadly arrh
 When blood stops flowing for this reason, you typically have just a few seconds before you pass out. This is called cardiac arrest, which is usually fatal in a few minutes without immediate care.
 
 If you see someone collapse, you might feel scared and not know what to do. The best way to help them is to call 911 or your local emergency number.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

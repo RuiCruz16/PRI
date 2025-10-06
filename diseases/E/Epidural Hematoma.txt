@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22034-epidural-hematoma
 
 Overview
 --------
-Epidural hematoma is blood that collects between your skull and dura mater.
-
 What is an epidural hematoma (EDH)?
 
 An epidural hematoma (EDH) is a collection of blood between your skull and the dura mater, the thick membrane that covers your brain.
@@ -28,6 +26,14 @@ Although anyone who has a head injury can develop an epidural hematoma (EDH), th
 How common are epidural hematomas (EDHs)?
 
 Epidural hematomas (EDHs) occur in up to 10% of people with head injuries. About 75% of EDHs in adults happen in the temporal area of the brain (side of your head over your ear).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -73,8 +79,6 @@ Pregnancy.
 
 Diagnosis and Tests
 -------------------
-Scan confirms epidural hematoma as blood collects and pushes brain tissue away from skull.
-
 How is an epidural hematoma (EDH) diagnosed?
 
 An epidural hematoma (EDH) is diagnosed using computed tomography (CT) or magnetic resonance imaging (MRI) of your head or spine. In the head, a hematoma appears as a dense mass that pushes the brain away from the skull.

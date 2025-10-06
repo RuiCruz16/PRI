@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21995-radiation-burns
 
 Overview
 --------
-Radiation therapy can cause burns at the treatment site. Depending on your skin tone, radiation burns may look like areas of darkened or reddened skin.
-
 What is radiation burn?
 
 Radiation burn, or radiation dermatitis, is a side effect of radiation therapy to treat cancer. Each year, an estimated 4 million people in the United States receive radiation therapy, and more than 90% will develop radiation burn.
@@ -16,6 +14,14 @@ Your healthcare provider understands the ways that radiation therapy may impact 
 What does radiation burn look like?
 
 A radiation burn may look like a sunburn or blotchy patches of skin that are red (on light skin) or darker than the surrounding skin tone (on dark skin). Sometimes, what starts as itchy, dry skin may progress to what looks like a sunburn and then a moist or wet patch of skin.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

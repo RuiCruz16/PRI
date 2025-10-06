@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4875-lupus
 
 Overview
 --------
-Everyone with lupus experiences a different combination and severity of symptoms, but these are some of the most common.
-
 What is lupus?
 
 Lupus is a condition that causes inflammation throughout your body. It’s an autoimmune disease, which means your immune system damages your body instead of protecting it. You may experience symptoms throughout your body depending on where your autoimmune system damages tissue, including in your:
@@ -26,6 +24,14 @@ Healthcare providers sometimes call lupus systemic lupus erythematosus (SLE). It
 Cutaneous lupus erythematous: Lupus that only affects your skin.
 Drug-induced lupus: Some medications trigger lupus symptoms as a side effect. It’s usually temporary and might go away after you stop taking the medication that caused it.
 Neonatal lupus: Babies are sometimes born with lupus. Babies born to biological parents with lupus aren’t certain to have lupus, but they might have an increased risk.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -83,8 +89,6 @@ People with a biological parent who has lupus.
 
 Diagnosis and Tests
 -------------------
-Learn what lupus is and how it’s diagnosed.
-
 How is lupus diagnosed?
 
 A healthcare provider will diagnose lupus with a physical exam and some tests. They’ll examine your symptoms and talk to you about what you’re experiencing. Tell your provider when you first noticed symptoms or changes in your body. Your provider will ask about your medical history, including conditions you may have now and how you’re treating or managing them.

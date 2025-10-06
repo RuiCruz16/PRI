@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/12419-vitiligo
 
 Overview
 --------
-Vitiligo causes your skin to lose its color or pigment.
-
 What is vitiligo?
 
 Vitiligo (pronounced “vit-il-EYE-go”) is a skin condition that causes your skin to lose its color or pigment. This causes your skin to appear lighter than your natural skin tone or turn white. Areas of your skin that lose their pigment are called macules if they’re less than 1 centimeter wide, or patches if they’re larger than 1 centimeter. If you have vitiligo on a part of your body that has hair, your hair may turn white or silver.
@@ -46,6 +44,14 @@ Mucosal: Mucosal vitiligo affects mucous membranes of your mouth and/or genitals
 Focal: Focal vitiligo is a rare type where the macules develop in a small area and don’t spread in a certain pattern within one to two years.
 Trichome: This type causes a bullseye with a white or colorless center, then an area of lighter pigmentation, and an area of your natural skin tone.
 Universal: This rare type of vitiligo causes more than 80% of your skin to not have pigment.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

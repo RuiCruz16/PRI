@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17730-typhoid-fever
 
 Overview
 --------
-Typhoid fever starts with a fever that gets progressively higher over a few days. Other symptoms follow as the bacteria spreads in your body.
-
 What is typhoid fever?
 
 Typhoid fever is an illness caused by the bacterium Salmonella Typhi (S. Typhi). It infects your small intestines (gut) and causes high fever, stomach pain and other symptoms. Typhoid fever is also called enteric fever.
@@ -31,6 +29,14 @@ What’s the difference between typhoid and typhus?
 Learn the difference between typhoid and typhus.
 
 While the names sound the same, typhoid and typhus are different illnesses, caused by different bacteria. The symptoms are similar — so much so that doctors used to think they were the same illness. We now know they’re different illnesses, but the similar name stuck (and so did the confusion it causes).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

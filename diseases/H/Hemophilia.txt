@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14083-hemophilia
 
 Overview
 --------
-Hemophilia happens when you don’t have enough clotting factors to help control how much you bleed. People with hemophilia may bleed for no apparent reason. They may bleed more than normal after being injured or having surgery. Clotting factors are proteins in your blood that work with your platelets (top) to stop or slow bleeding. Without clotting factors, you may have excessive or uncontrollable bleeding.
-
 What is hemophilia?
 
 Hemophilia is a rare, inherited blood disorder that causes your blood to clot less, which results in an increased risk of bleeding and bruising.
@@ -33,6 +31,14 @@ Hemophilia C: Hemophilia C is also known as factor 11 (factor XI) deficiency. Th
 Is hemophilia a serious illness?
 
 It can be. People with severe hemophilia may develop life-threatening bleeding (hemorrhage), but they’re more likely to develop bleeding in their muscles and joints.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

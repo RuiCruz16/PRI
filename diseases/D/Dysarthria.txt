@@ -3,8 +3,10 @@ https://my.clevelandclinic.org/health/diseases/17653-dysarthria
 
 Overview
 --------
-What is dysarthria?
+(Not available)
 
+What is
+-------
 Dysarthria (pronounced “dis-AR-three-uh”) is a motor speech disorder that makes it difficult to form and pronounce words. Motor speech disorders occur when damage to your nervous system prevents you from fully controlling parts of your body that control speech, like your tongue, voice box (larynx) and jaw. Dysarthria makes it challenging to speak so that others can understand you.
 
 Dysarthria can be developmental or acquired:
@@ -14,25 +16,20 @@ Acquired dysarthria happens as a result of brain damage later in life. For examp
 
 People with dysarthria understand language. They know what they want to say and how to say it. It’s just that muscle weakness makes speaking difficult.
 
-What are the types of dysarthria?
+What are the six types of dysarthria?
 
 There are six categories of dysarthria. They’re grouped based on the specific part of your nervous system affected. Dysarthria may result from damage to various parts of your nervous system, including your brain and spinal cord (central nervous system) and the network of nerves that carry signals throughout your body (peripheral nervous system).
 
-Flaccid dysarthria results from damage to the lower motor neurons. The lower motor neurons are part of your peripheral nervous system. With flaccid dysarthria, your speaking may sound breathy and nasal.
-Spastic dysarthria results from damage to the upper neurons on one or both sides of your brain. The upper neurons are part of your central nervous system. Your speaking may sound strained or harsh.
+Flaccid dysarthria results from damage to the lower motor neurons. The lower motor neurons are part of your peripheral nervous system. With flaccid dysarthria, your speech may sound breathy and nasal.
+Spastic dysarthria results from damage to the upper neurons on one or both sides of your brain. The upper neurons are part of your central nervous system. Your speech may sound strained or harsh.
 Ataxic dysarthria results from damage to the part of your brain called the cerebellum. Your cerebellum helps coordinate muscle movement. You may have trouble pronouncing vowels and consonants, and you may have difficulty placing emphasis on the right parts of a word when you’re speaking.
-Hypokinetic dysarthria results from damage to the part of your brain called the basal ganglia. The basal ganglia is a structure inside your brain that helps your muscles move. Hypokinetic dysarthria is associated with slow (“hypo”), monotone, rigid-sounding speech.
-Hyperkinetic dysarthria also results from damage to your basal ganglia. It’s associated with fast (“hyper”) sounding and often unpredictable speech.
+Hypokinetic dysarthria results from damage to the parts of your brain called the basal ganglia. A basal ganglion (singular) is a structure inside your brain that helps your muscles move. Hypokinetic dysarthria is associated with slow (“hypo-”), monotone, rigid-sounding speech.
+Hyperkinetic dysarthria also results from damage to your basal ganglia. It’s associated with fast (“hyper-”) sounding and often unpredictable speech.
 Mixed dysarthria includes a mix of two or more of the other five types. It’s the most common type of dysarthria.
-How common is dysarthria?
 
-Dysarthria is more common in people with certain neurological conditions, such as:
-
-Amyotrophic lateral sclerosis (ALS): Up to 30% of people with ALS (Lou Gehrig’s disease) have dysarthria.
-Multiple sclerosis (MS): Around 25% to 50% of people with MS get dysarthria at some point.
-Parkinson’s disease: Dysarthria affects 70% to 100% of people with Parkinson’s disease.
-Stroke: About 8% to 60% of people with stroke have dysarthria.
-Traumatic brain injury: Some 10% to 65% of people with traumatic brain injury have dysarthria.
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -42,40 +39,49 @@ The main sign of dysarthria is that you have trouble speaking so that others und
 
 Dysarthria symptoms include:
 
-Slurred speech or mumbling when you talk.
-Speaking too quickly or more slowly than intended.
-Speaking quieter or louder than intended.
-Sounding hoarse, harsh, strained, breathy, nasal, robotic or monotone.
-Speaking in short, choppy bursts with several pauses, instead of in complete sentences.
+Slurred speech or mumbling when you talk
+Speaking too quickly or more slowly than intended
+Speaking quieter or louder than intended
+Sounding hoarse, harsh, strained, breathy, nasal, robotic or monotone
+Speaking in short, choppy bursts with several pauses, instead of in complete sentences
 
 The lack of muscle control may also make swallowing difficult (dysphagia).
 
 What causes dysarthria?
 
-Dysarthria occurs when there’s damage to the parts of your nervous system that control the muscles that help you speak. This includes muscles in your face, throat and muscles that help you breathe. Injuries, illnesses and neuromuscular conditions (diseases that affect the nerves controlling your muscles) can all cause dysarthria.
+Dysarthria occurs when there’s damage to the parts of your nervous system that control the muscles that help you speak. This includes muscles in your face and throat, and those that help you breathe. Injuries, illnesses and neuromuscular conditions (diseases that affect the nerves controlling your muscles) can all cause dysarthria.
 
 Common causes include:
 
-Amyotrophic lateral sclerosis (ALS or Lou Gehrig’s disease).
-Brain tumors.
-Cerebral palsy.
-Dementia.
-Huntington’s disease.
-Lyme disease.
-Multiple sclerosis (MS).
-Muscular dystrophy.
-Myasthenia gravis.
-Parkinson’s disease.
-Stroke.
-Traumatic brain injury.
-Trauma to your face or mouth.
-Trauma to your head, neck, tongue or voice box.
+Amyotrophic lateral sclerosis (ALS or Lou Gehrig’s disease)
+Brain tumors
+Cerebral palsy
+Dementia
+Huntington’s disease
+Lyme disease
+Multiple sclerosis (MS)
+Muscular dystrophy
+Myasthenia gravis
+Parkinson’s disease
+Stroke
+Traumatic brain injury
+Trauma to your face or mouth
+Trauma to your head, neck, tongue or voice box
 
-Dysarthria-like symptoms are sometimes a side effect of certain medications, such as sedatives and antiseizure drugs.
+Dysarthria-like symptoms are sometimes a side effect of certain medications, such as sedatives and anti-seizure drugs.
 
+Risk factors
+
+Dysarthria is more common in people with certain neurological conditions, such as:
+
+Amyotrophic lateral sclerosis (ALS): Up to 30% of people with ALS (Lou Gehrig’s disease) have dysarthria.
+Multiple sclerosis (MS): Around 25% to 50% of people with MS get dysarthria at some point.
+Parkinson’s disease: Dysarthria affects 70% to 100% of people with Parkinson’s disease.
+Stroke: About 8% to 60% of people with stroke have dysarthria.
+Traumatic brain injury: Some 10% to 65% of people with traumatic brain injury have dysarthria.
 What are the complications of dysarthria?
 
-Speech problems can cause difficulties in social situations. Struggling to communicate and be understood can cause strain at work, school and in your relationships in general. The stress can lead to mental health issues, like depression.
+Speech problems can cause difficulties in social situations. In general, struggling to communicate and be understood can cause strain at work, school and in your relationships. The stress can lead to mental health issues, like depression.
 
 Getting treatments that can help you communicate and maintain meaningful connections with others is important.
 
@@ -83,26 +89,26 @@ Diagnosis and Tests
 -------------------
 How is dysarthria diagnosed?
 
-Your healthcare provider will ask about your medical history and do a physical exam. A speech-language pathologist (SLP) may evaluate you to determine how severe your dysarthria is. They’ll check your ability to coordinate your breathing, voice and the quality of your voice. And they’ll check your ability to move your lips, tongue and face.
+Your healthcare provider will ask about your medical history and do a physical exam. A speech-language pathologist (SLP) may evaluate you to determine how severe your dysarthria is. They’ll check your ability to coordinate your breathing and voice as well as move your lips, tongue and face. They’ll also inspect the quality of your voice.
 
 They may ask you to:
 
-Stick out your tongue.
-Smile, pucker or lick your lips.
-Count or say the alphabet out loud.
-Read a paragraph.
-Repeat sounds, words and sentences, and talk in conversation.
+Smile
+Stick out your tongue
+Count or say the alphabet out loud
+Read a paragraph
+Repeat sounds, words and sentences and talk in conversation
 What tests might I need to diagnose dysarthria?
 
 Other tests may include:
 
-MRI or CT scans of your brain, head and neck to check for abnormalities that may affect your speech.
-Electroencephalogram (EEG) to check for abnormalities in your brain activity related to dysarthria.
-Electromyographyto test the electrical function of your muscles and nerves.
-Blood or urine tests to see if an infection or inflammation is causing speech issues.
-Spinal tap (lumbar puncture) to see if an infection or tumor is causing dysarthria.
+MRI or CT scans of your brain, head and neck to check for abnormalities that may affect your speech
+Electroencephalogram (EEG) to check for abnormalities in your brain activity related to dysarthria
+Electromyography to test the electrical function of your muscles and nerves
+Blood or urine tests to see if an infection or inflammation is causing speech issues
+Spinal tap (lumbar puncture) to see if an infection or tumor is causing dysarthria
 
-Your healthcare provider may perform a modified barium swallow study or videofluoroscopic swallow study (VFSS) to test for problems with swallowing, which sometimes occur with dysarthria.
+Your healthcare provider may perform a modified barium swallow study to test for swallowing problems, which sometimes occur with dysarthria.
 
 Management and Treatment
 ------------------------
@@ -112,26 +118,24 @@ People with dysarthria often benefit from speech therapy to improve communicatio
 
 During speech therapy sessions, you may learn:
 
-Exercises to strengthen your tongue, lips and jaw muscles.
-Strategies for speaking louder, such as taking fuller breaths before you speak.
-Strategies for speaking more clearly, like slowing speech and intentionally using specific muscles to form sounds and words.
-Nonverbal communication techniques, such as gestures or writing.
+Exercises to strengthen your tongue, lips and jaw muscles
+Strategies for speaking louder, such as taking fuller breaths before you speak
+Strategies for speaking more clearly, like slowing speech and intentionally using specific muscles to form sounds and words
+Nonverbal communication techniques, such as gestures or writing
 
-If your dysarthria is severe, you may need a device to communicate with people. These devices include a letter or picture board or a special computer with a keyboard and message display.
+If your dysarthria is severe, you may need a device to communicate with people. These devices include a letter or picture board, or a special computer with a keyboard and message display.
 
 Outlook / Prognosis
 -------------------
 Can you recover from dysarthria?
 
-It depends on what’s causing your dysarthria. If it results from a medication side effect, stopping the medicine usually reverses dysarthria. Dysarthria related to a chronic (long-term) neuromuscular condition, stoke or trauma may not be reversible. Still, you can improve your communication through speech therapy.
+It depends on what’s causing your dysarthria. If it results from a medication side effect, stopping the medicine usually reverses dysarthria. Dysarthria related to a chronic (long-term) neuromuscular condition, stroke or trauma may not be reversible. Still, you can improve your communication through speech therapy.
 
 Speech therapy can help you use your speaking muscles more effectively, and it can give you tools to communicate nonverbally, as well.
 
 Prevention
 ----------
-Can dysarthria be prevented?
-
-Not all causes of dysarthria are preventable, but you can take steps to reduce your risk of some causes, like trauma or stroke. For example, eating a healthy diet can reduce your risk of certain conditions that increase your risk of a stroke, including high blood pressure, diabetes and coronary artery disease.
+(Not available)
 
 Living With
 -----------
@@ -140,21 +144,21 @@ What are some tips for speaking with dysarthria?
 If you have dysarthria:
 
 Start with a topic word. Begin conversations with a word that lets listeners know what you’re talking about. For example, begin speaking about what movie you want to watch by saying “movie” first.
-Speak slowly and at an appropriate loudness. It can help to enunciate your words slowly so that listeners understand. Using pauses and shorter sentences can allow listeners time to process what your words mean.
-Avoid talking when you feel tired. Many people with dysarthria find it harder to speak when tired.
+Speak slowly and at an appropriate loudness. It can help to enunciate your words slowly, so that listeners understand. Using pauses and shorter sentences can allow listeners time to process the meaning of your words.
+Avoid talking when you feel tired. Many people with dysarthria find it harder to speak when tired. Others may feel just fine.
 Check to make sure your listeners understand. It’s a good idea to check in with listeners occasionally to ensure they follow what you’re saying. This can prevent you from having to repeat things you’ve already said.
 Use nonverbal communication if needed. If speaking is too exhausting, let your communication partner know and either write, draw or postpone the conversation instead.
 What tips can others use to talk to me?
 
 A speech-language pathologist can recommend tips to help others communicate with you. For instance, loved ones can:
 
-Reduce distractions/noise, such as turning off the radio or TV.
-Pay close attention when you’re talking.
-Talk to you in a quiet area with good lighting.
-Ask yes or no questions to help you communicate.
-Tell you if they don’t understand what you’re saying.
-Encourage you to write or point if you’re having trouble.
-Repeat what they did understand so you don’t have to start from the beginning.
+Reduce distractions/noise, like turning off the radio or TV
+Pay close attention when you’re talking
+Talk to you in a quiet area with good lighting
+Ask yes-or-no questions to help you communicate
+Tell you if they don’t understand what you’re saying
+Encourage you to write or point if you’re having trouble
+Repeat what they did understand, so you don’t have to start from the beginning
 When should I see my healthcare provider about dysarthria?
 
 If speaking becomes difficult, contact your healthcare provider. Seek immediate medical attention if you experience choking, repeated coughing or pneumonia.
@@ -165,17 +169,15 @@ Some causes of dysarthria, like stroke, require emergency medical care. If a per
 
 Symptoms include:
 
-Weakness or drooping on one side of their face.
-Inability to keep both arms lifted.
-Confusion and agitation.
-Loss of coordination.
-Slurred speech.
+Weakness or drooping on one side of their face
+Inability to keep both arms lifted
+Confusion and agitation
+Loss of coordination
+Slurred speech
 What questions should I ask my healthcare provider if I have dysarthria?
 
 Questions to ask include:
 
-What’s causing dysarthria?
-What treatments are available?
 How can I improve my ability to speak?
 What results can I expect from speech therapy?
 Should I use a communication device?
@@ -188,7 +190,7 @@ Aphasia involves difficulty understanding others or explaining your thoughts. It
 
 What is the difference between dysarthria and apraxia?
 
-Apraxia is a different motor speech condition. In apraxia, people have normal muscle function but have difficulty making voluntary movements like speaking. There’s a problem getting the message from your brain to your muscles that tells them to move.
+Apraxia is a different motor speech condition. In apraxia, people have normal muscle function but difficulty making voluntary movements, like speaking. There’s a problem getting the message from your brain to your muscles that tells the muscles to move.
 
 What is the difference between dysarthria and dysphagia?
 
@@ -196,4 +198,4 @@ Like dysarthria, dysphagia involves problems with muscle control. But while dysa
 
 A note from Cleveland Clinic
 ----------------------------
-Share your concerns with your healthcare provider if you’re struggling to be understood when you talk because of dysarthria. Your healthcare provider may recommend speech therapy to help you communicate better. SLPs can also instruct friends and family members on communicating more effectively with you. Treatments can help you maintain important connections, even if muscle weakness makes speaking difficult.
+Share your concerns with your healthcare provider if you’re struggling to be understood because of dysarthria. If you have dysarthria related to a neuromuscular condition, treating the underlying condition can help. Your healthcare provider may recommend speech therapy to help you communicate better. SLPs can also instruct friends and family members on how to communicate more effectively with you. Treatments can help you maintain important connections, even if muscle weakness makes speaking difficult.

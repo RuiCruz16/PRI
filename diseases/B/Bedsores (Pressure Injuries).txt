@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17823-bedsores-pressure-injuries
 
 Overview
 --------
-Pressure Injuries
-
 What are bedsores?
 
 Bedsores are wounds that occur from prolonged pressure on your skin. People who are immobile for long periods, such as those who are bedridden or use a wheelchair, are most at risk for bedsores. These painful wounds, or pressure ulcers, can grow large and lead to infections. In some instances, bedsores can be life-threatening.
@@ -35,6 +33,14 @@ Elbows.
 Heels.
 Hips.
 Tailbone.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

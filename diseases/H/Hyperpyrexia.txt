@@ -5,10 +5,36 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Hyperpyrexia is a high body temperature above 106.7 degrees Fahrenheit (41.5 degrees Celsius). This change to your body temperature happens because your brain tells it to go up.
+
+Hyperpyrexia is an emergency and requires immediate medical attention.
+
+The expected temperature of an adult human is 98.6 F (37 C). The temperature for a healthy person can range from 97.8 F to 99.1 F (36.55 C to 37.27). This range is the desired temperature on your body’s thermostat. It’s known as the “hypothalamic set point.” If you have hyperpyrexia, part of your brain changes the thermostat’s set point to increase your body temperature.
+
+How does the hypothalamus affect hyperpyrexia?
+
+The hypothalamus is an organ in your brain that regulates your temperature. If you have hyperpyrexia, your hypothalamus increases your body temperature above what’s expected.
+
+A healthcare provider may refer to hyperpyrexia as a “hypothalamic fever.” This is because the part of your brain that manages your temperature isn’t working correctly.
+
+What is the difference: hyperpyrexia vs. a fever vs. hyperthermia?
+
+Hyperpyrexia is a body temperature above 106.7 F (41.5 C). It happens when your brain tells your hypothalamic set point to increase.
+
+A fever is a body temperature above 100.4 F (38 C). Your hypothalamus increases your body temperature during a fever to fight off an illness or an infection.
+
+Hyperthermia is a body temperature higher than expected (99 or 100 F / 37.2 or 37.7 C). It happens when your body absorbs more heat than it can release. It doesn’t affect the temperature set point.
+
+Also, hypothermia is the opposite of hyperthermia, when your body temperature drops below 95 F (35 C).
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-There are several possible causes of hyperpyrexia, when your body temperature dangerously increases above 106.7 F (41.5 C).
-
 Hyperpyrexia symptoms
 
 The main symptom of hyperpyrexia is a body temperature higher than 106.7 degrees F (41.5 C). If you have a high body temperature, visit the emergency room or contact 911 (or your local emergency services number). This condition is life-threatening without quick treatment.

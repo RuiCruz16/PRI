@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22233-nstemi-heart-attack
 
 Overview
 --------
-How an NSTEMI affects your heart
-
 What is an NSTEMI heart attack?
 
 A non-ST-elevation myocardial infarction is a type of heart attack that happens when a part of your heart is not getting enough oxygen. This condition gets its name because — unlike an ST-elevation myocardial infarction (STEMI heart attack) — it doesn’t cause a very specific, recognizable change to your heart’s electrical activity.
@@ -39,6 +37,14 @@ Inherited or conditions present at birth. Certain medical conditions or disorder
 How common are NSTEMIs?
 
 Acute coronary syndrome (including NSTEMI) is very common in the United States. An estimated 780,000 cases of acute coronary syndrome are diagnosed each year. About 70%, or approximately 546,000, of those cases, are NSTEMIs.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

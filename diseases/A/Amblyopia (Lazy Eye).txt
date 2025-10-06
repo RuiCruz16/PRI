@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/10707-amblyopia-lazy-eye
 
 Overview
 --------
-Amblyopia happens when something creates a difference between your child’s eyes and how they focus on objects.
-
 What is lazy eye?
 
 Amblyopia is an eye condition that affects the ability to see clearly out of both eyes. It usually develops when a child is an infant or very young and can get worse over time if it’s not treated.
@@ -16,6 +14,14 @@ People sometimes refer to amblyopia as lazy eye or lazy vision. Even though thes
 How common is amblyopia?
 
 Amblyopia is the most common reason kids lose their vision. It affects around 5% of children younger than 15.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22324-anastomotic-leak
 
 Overview
 --------
-A new surgical connection or “anastomosis” can leak.
-
 What is an anastomotic leak?
 
 An anastomotic leak is a potentially dangerous complication of anastomosis, a surgical procedure. Anastomosis connects two ends of a channel (a tube or passageway) together. It’s usually done after part of the channel has been removed (resected). For example, if you have surgery to remove part of your intestines (bowel resection), the two severed ends of the intestine are reconnected. This connection is called an anastomosis.
@@ -43,6 +41,14 @@ Emergency surgery.
 Prolonged operation times.
 Rectal anastomosis.
 Being male.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

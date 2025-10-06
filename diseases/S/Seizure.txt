@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22789-seizure
 
 Overview
 --------
-When seizures happen, the flow of electrical signals in your brain is disrupted.
-
 What is a seizure?
 
 A seizure (pronounced “see-zhr”) is a surge of abnormal electrical activity in your brain. The most recognizable symptoms of a seizure are a temporary loss of consciousness and uncontrollable movements (convulsions).
@@ -44,10 +42,16 @@ How common is a seizure?
 
 Up to 10% of people around the world will have at least one seizure during their lifetimes.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Learn what happens in the brain during a seizure from Dileep Nair, MD.
-
 What are the symptoms of a seizure?
 
 Seizure symptoms vary based on the type and severity, but may include:

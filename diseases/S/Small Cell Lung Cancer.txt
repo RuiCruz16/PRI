@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/6202-small-cell-lung-cancer
 
 Overview
 --------
-Lung (left) and small cell lung cancer tumors in lung cut in half (right). This cancer can affect anyone but it typically affects people who have a long history of tobaccos use, specifically smoking cigarettes.
-
 What is small cell lung cancer?
 
 Small cell lung cancer is a rare fast-growing lung cancer. Small cell lung cancer can affect anyone, but it typically affects people who have a long history of tobacco use, specifically smoking cigarettes. Healthcare providers can cure some people if the disease is found early; for others, they can help them live longer. The only way to prevent small cell lung cancer is to stop smoking.
@@ -32,6 +30,14 @@ Once the cells have spread, they may create new cancerous tumors in your lymph n
 There are two types of small cell lung cancer:
 Small cell carcinoma: This is the most common form of small cell lung cancer.
 Combined small cell carcinoma: Combined small cell carcinoma represents about 2% to 5% of all small cell carcinomas. This small cell type is a combination of non-small cell and small cell lung cancer cells.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

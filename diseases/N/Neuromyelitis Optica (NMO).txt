@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/9858-neuromyelitis-optica-nmo
 
 Overview
 --------
-Neuromyelitis optica can affect your optic nerve and spinal cord. That can cause symptoms like vision problems and pain or weakness in your limbs.
-
 What is neuromyelitis optica?
 
 Neuromyelitis optica (NMO) is a rare chronic condition that affects your eyesight and your ability to move. It’s an autoimmune disorder, meaning it happens because your immune system mistakenly attacks parts of your central nervous system.
@@ -36,6 +34,14 @@ A key part of every neuron is an arm-like extension called the axon, which carri
 Around the axon, there’s a thin, protective coating called myelin, which is made up of fatty chemical compounds. Myelin helps with conduction of electrical signals along the axon and protects it from damage. NMO is a demyelinating disease, meaning it involves the myelin coating of the axon. Without the protective myelin coating, the axon is vulnerable to damage and deterioration.
 
 Damage from NMO tends to involve neurons in two specific areas: The optic nerve that connects your eyes to your brain, and your spinal cord, which is the central connection point for nerve signals to reach before heading to your brain. NMO can affect your spinal cord at different levels, and every nerve that connects to your spinal cord below the affected area of your spinal cord can show the effects.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23569-primary-sclerosing-cholangi
 
 Overview
 --------
-Primary sclerosing cholangitis (PSC) causes your bile ducts to narrow, blocking the flow of bile. This leads to bile backing up into your liver.
-
 What is primary sclerosing cholangitis?
 
 Primary sclerosing cholangitis (PSC) (pronounced “SKLEH-roh-sing” “koh-lan-JI-tis”) is a disease that affects your bile ducts, which are the tubes that carry bile from your liver to other organs in your digestive system. It causes chronic swelling and irritation there (inflammation), which healthcare providers call cholangitis. Eventually, this can cause scarring.
@@ -21,6 +19,14 @@ Stage 1: Very little scarring in the corners of your liver (portal areas)
 Stage 2: Scarring extends from the portal areas, but doesn’t yet connect to each other
 Stage 3: Areas of scarring connect to each other
 Stage 4: Connected and widespread scarring, leading to cirrhosis (permanent scarring)
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

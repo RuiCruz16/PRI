@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23215-monomorphic-ventricular-tac
 
 Overview
 --------
-An example of monomorphic VT electrical activity.
-
 What is monomorphic ventricular tachycardia?
 
 Monomorphic ventricular tachycardia is a type of irregular heart rhythm (arrhythmia) that happens when the lower chambers of your heart beat at a dangerously fast pace. It can turn into a dangerous — or even deadly — problem depending on how and when it happens.
@@ -49,6 +47,14 @@ Monomorphic ventricular tachycardia usually happens because of a malfunction in 
 Ventricular tachycardia can also worsen into ventricular fibrillation. This is the same effect where your heart's lower chambers can't fill up with blood, but it's more severe. With ventricular fibrillation (often shortened to v-fib), the ventricles don’t squeeze correctly at all and instead just twitch or quiver.
 
 Because your heart isn’t pumping effectively, ventricular fibrillation can easily cause cardiogenic shock or sudden cardiac arrest, which is when your heart can’t pump enough blood to support your body. Ventricular tachycardia can also skip v-fib entirely and go straight to cardiac arrest. Sudden cardiac arrest is deadly in minutes without immediate CPR (and it's often called sudden cardiac death when attempts to revive the affected person are unsuccessful).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

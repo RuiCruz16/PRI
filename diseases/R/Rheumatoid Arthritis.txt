@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4924-rheumatoid-arthritis
 
 Overview
 --------
-Rheumatoid arthritis is an autoimmune disease that causes symptoms in several body systems.
-
 What is rheumatoid arthritis?
 
 Rheumatoid arthritis (RA) is a chronic (ongoing) autoimmune disease that causes pain, swelling and stiffness in the lining of your joints (synovium). It most commonly affects the joints in your fingers, hands, wrists, knees, ankles, feet and toes. RA usually occurs in the same joints on both sides of your body, which makes it different from some other types of arthritis.
@@ -32,6 +30,14 @@ It may take many years to go through all stages, and some people don’t progres
 When do people typically develop RA?
 
 RA usually starts to develop between the ages of 30 and 60. But anyone can develop the condition. In children and young adults — usually between the ages of 16 and 40 — it’s called young-onset rheumatoid arthritis (YORA). In people who develop symptoms after they turn 60, it’s called later-onset rheumatoid arthritis (LORA).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

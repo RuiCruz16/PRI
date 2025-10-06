@@ -5,6 +5,32 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+(Not available)
+
+What are
+--------
+SAIDs (systemic autoinflammatory diseases) are a group of disorders that cause frequent (recurring) fevers. These are fevers that keep coming back but aren’t caused by infections (like viruses or bacteria). An abnormality or regulation problem in your child’s natural (innate) immune system causes SAIDs. They used to be called periodic fever syndromes or recurrent fever syndromes.
+
+Autoinflammatory diseases aren’t autoimmune diseases (like rheumatoid arthritis or lupus), in which your child’s acquired (adaptive) immune system malfunctions and mistakenly attacks healthy tissue.
+
+SAIDs are much rarer than autoimmune disorders. Most are passed down (hereditary) and result from a genetic mutation (variant).
+
+SAIDs typically (but not always) start when your child is a baby or toddler. Your child will experience episodes, or attacks, that cause fevers and other symptoms. They may not have symptoms between episodes. While there’s no cure for SAIDs, many periodic fever syndromes have treatments that can relieve your child’s symptoms.
+
+Types of autoinflammatory disease
+
+Researchers know of about 60 autoinflammatory diseases, and they’re continuing to discover more. Some of the most common SAIDs are:
+
+Familial Mediterranean fever (FMF). FMF is the most common genetically diagnosed recurrent fever syndrome. It causes painful inflammation in your child’s abdomen, chest and joints.
+Periodic fever, aphthous-stomatitis, pharyngitis, adenitis (PFAPA). PFAPA affects children in early childhood, usually starting before 4 years old. Episodes may resolve after age 10.
+Tumor necrosis factor receptor-associated periodic syndrome (TRAPS). TRAPS may first appear during early to late childhood or into adulthood.
+Mevalonate kinase deficiency (MKD). Formerly known as hyper-IgD syndrome, this type of periodic fever syndrome typically starts before 1 year of age.
+NLRP3-associated autoinflammatory diseases. Formerly known as cryopyrin-associated periodic syndromes (CAPS), this type consists of three different diseases (subtypes).
+Adult-onset Still’s disease (AOSD). AOSD starts in adulthood. It’s the adult counterpart of systemic juvenile idiopathic arthritis (JIA).
+NOD-2-associated granulomatous disease (Blau syndrome). This type typically begins before 4 years old. It primarily affects your child’s skin, eyes and joints.
+
 Symptoms and Causes
 -------------------
 Symptoms of SAIDs

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/5502-aphasia
 
 Overview
 --------
-Broca’s area, which controls speaking ability, and Wernicke’s area, which controls word selection and understanding, are commonly affected by aphasia.
-
 What is aphasia?
 
 Aphasia is a disorder that affects how you communicate and understand language. It makes it difficult to:
@@ -37,10 +35,16 @@ How common is it?
 
 In the United States, an estimated 180,000 people are diagnosed with aphasia each year. This equals about 1 in every 272 people.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-The type of aphasia you have depends on how it affects your ability to speak and understand what others are saying. Experts determine the type based on if your aphasia involves problems with fluency, repetition or understanding.
-
 What are the symptoms of aphasia?
 
 The symptoms of aphasia vary based on what type you have. However, most types cause difficulty in finding, understanding and recognizing different forms of language:

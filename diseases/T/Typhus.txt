@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/typhus
 
 Overview
 --------
-Symptoms of typhus start a few days to two weeks after a flea, louse or chigger bite. Many people don’t recall being bitten.
-
 What is typhus?
 
 Typhus (or typhus fever) is the name used for several different types of bacterial infections spread by bug bites that cause similar symptoms, like high fever and rash. These symptoms can be severe and lead to serious complications if left untreated.
@@ -18,6 +16,14 @@ There are three types of illnesses commonly called typhus:
 Murine typhus. Murine (or endemic) typhus exists in many areas of the world, including the U.S. It tends to be milder than epidemic or scrub typhus. Fleas spread murine typhus.
 Epidemic typhus. Epidemic (or sylvatic) typhus is most common in parts of Africa, Central America and South America. Body lice spread epidemic typhus. There are some cases of epidemic typhus in the U.S., usually after exposure to infected flying squirrels.
 Scrub typhus. Scrub typhus exists in rural areas of Southeast and East Asia, the Pacific Islands, Russia and Australia. Chiggers (young mites) spread scrub typhus.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

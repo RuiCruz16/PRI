@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/8586-corneal-disease
 
 Overview
 --------
-The eye is made up of several parts that work together to help you see.
-
 What is corneal disease?
 
 The term “corneal disease” refers to a variety of conditions that affect your cornea. Your cornea is the transparent window on the front of your eye that serves as a barrier against dirt and particles. It also plays a key role in your vision. Corneal diseases can interfere with these functions and may cause pain or other symptoms in your daily life. However, some corneal diseases cause few or no symptoms but still need treatment.
@@ -28,6 +26,14 @@ Herpetic eye disease: A painful condition that happens when a herpes virus affec
 Iridocorneal endothelial syndrome (ICE): A rare condition that causes corneal swelling and increased pressure in your eye.
 Keratoconjunctivitis: Inflammation of both your cornea and conjunctiva (the thin tissue that covers the white part of your eye and lines your inner eyelids).
 Pterygium: A growth on the white part of your eye that can extend to your cornea and, rarely, cause scarring.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17292-eye-cancer
 
 Overview
 --------
-Most eye cancers are melanomas that form in your choroid, ciliary body or iris.
-
 What is eye cancer?
 
 Eye cancer includes several rare types of cancers that begin in your eye, including your eyeball and the structures surrounding your eyeball. Eye cancer starts when cells multiply out of control and form a tumor. Tumors can be benign (noncancerous) or malignant (cancerous). Unlike benign tumors, malignant tumors can grow and the cancer can spread throughout your body.
@@ -49,6 +47,14 @@ Eye cancer is extremely rare. Only about 3,400 people in the United States recei
 What is the most common form of eye cancer?
 
 Intraocular melanomas are by far the most common form of eye cancer. Most start in the middle part of your eye in a structure called the choroid. Approximately 2,500 people in the United States receive this diagnosis each year.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

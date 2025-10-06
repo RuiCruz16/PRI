@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22067-familial-hypercholesterolem
 
 Overview
 --------
-Familial hypercholesterolemia is a genetic condition that causes high LDL, raising your risk of heart disease and stroke.
-
 What is familial hypercholesterolemia?
 
 Familial hypercholesterolemia (FH) is a genetic disorder that gives you very high levels of low-density lipoprotein (LDL) cholesterol. LDL is the “bad” cholesterol that can lead to cholesterol plaque buildup in your arteries. This can eventually cause heart attacks, strokes or peripheral artery disease.
@@ -29,6 +27,14 @@ How common is it?
 About 1 in 250 people have a genetic variant for the more common type of familial hypercholesterolemia. Only 1 in 250,000 people have the more severe type.
 
 Most people — 9 out of 10 — who have FH don’t know they have it.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

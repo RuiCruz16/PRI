@@ -5,6 +5,52 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+“Porphyria” (pronounced “por-FEER-ee-uh”) is an umbrella term for a group of rare diseases that affect how your body makes heme (pronounced “heem”). Heme is a building block for the hemoglobin in your blood. Heme carries oxygen to tissues throughout your body and gives red blood cells their color. Heme is also important for many other functions and processes in our cells.
+
+Heme production is an eight-step process. It requires the right amount of eight different enzymes (one for each step), as well as chemicals called porphyrins and porphyrin precursors. When an enzyme isn’t doing what it’s supposed to, there’s a ripple effect. Porphyrins and precursors build up in your body’s cells, leading to symptoms and possible complications.
+
+You might wonder why enzymes aren’t doing what they’re supposed to. Usually, this is due to a change in a gene that serves as a blueprint for one of the enzymes in the heme production pathway. Porphyria is often inherited. This means a gene change affecting heme production can be passed down within biological families, putting other family members at risk of also developing porphyria or being disease carriers.
+
+Healthcare providers can help you diagnose, manage — and possibly prevent — symptoms to lessen the impact of these conditions on your life.
+
+Types of porphyria
+
+There are eight types of porphyria. Providers refer to these together as “the porphyrias.” Your provider will diagnose you with a specific type based on your symptoms and where in your body the excess chemicals build up.
+
+In general, the porphyrias fall into two groups according to their symptoms:
+
+Acute porphyrias (sometimes called acute hepatic porphyrias)
+Cutaneous porphyrias
+Acute porphyrias
+
+These diseases cause severe attacks of abdominal pain and other symptoms. Some acute porphyrias also cause your skin to react to sunlight with blistering rashes.
+
+Acute porphyrias include:
+
+Acute intermittent porphyria (AIP). This is the most common acute porphyria. This type can cause acute abdominal pain episodes but doesn’t cause sun sensitivity or skin blistering.
+Hereditary coproporphyria (HCP). Besides acute abdominal pain attacks, your skin may react to sunlight with blistering.
+Variegate porphyria (VP). With this condition, you may have acute abdominal pain attacks and/or skin blistering, which is often worse with sun exposure.
+ALAD-deficiency porphyria. ALAD stands for an “enzyme called delta-aminolevulinic acid (ALA) dehydratase.” This is an extremely rare porphyria that usually presents in childhood.
+Cutaneous porphyrias
+
+These diseases cause skin symptoms that can include pain, discoloration, swelling and/or blistering with sun exposure. Depending on the underlying cause, people have either a blistering or a non-blistering cutaneous porphyria.
+
+Blistering cutaneous porphyrias include:
+
+Porphyria cutanea tarda (PCT). This is the most common type of porphyria.
+Congenital erythropoietic porphyria (CEP). “Erythropoietic” refers to your bone marrow. This is a key spot where excess porphyrins build up in this form of the disease. This is a very rare type of porphyria.
+
+Non-blistering cutaneous porphyrias include:
+
+Erythropoietic protoporphyria (EPP) and X-linked porphyria (XLP). Together, these are called “the protoporphyrias.” This is because the chemical that builds up in this disease is called protoporphyrin. “X-linked” means there’s a genetic variation in the X chromosome.
+Hepatoerythropoietic porphyria. This is an extremely rare form of porphyria.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Porphyria symptoms

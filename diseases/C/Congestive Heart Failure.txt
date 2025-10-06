@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17069-heart-failure-understanding
 
 Overview
 --------
-Congestive heart failure makes fluid accumulate in your body because your heart can’t pump well.
-
 What is congestive heart failure?
 
 Congestive heart failure, or heart failure, is a long-term condition in which your heart can’t pump blood well enough to meet your body’s needs. Your heart is still working. But because it can’t handle the amount of blood it should, blood builds up in other parts of your body. Most of the time, it collects in your lungs, legs and feet.
@@ -21,6 +19,14 @@ High-output heart failure. This is a rare type of congestive heart failure.
 How common is congestive heart failure?
 
 More than 6 million people in the United States have congestive heart failure. It’s the leading cause of hospitalization in people older than 65.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

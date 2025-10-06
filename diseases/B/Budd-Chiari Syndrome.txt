@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21097-budd-chiari-syndrome
 
 Overview
 --------
-An obstruction from a blood clot is one potential cause of Budd-Chiari syndrome.
-
 What is Budd-Chiari syndrome?
 
 Budd-Chiari syndrome involves narrowing or a blockage (obstruction) in one or more of the veins that drain your liver (hepatic veins). The narrowing can be from inflammation within your veins or pressure (compression) outside your veins. An obstruction may block all of a vein or only part of it. The obstruction can be from a blood clot, but not always.
@@ -30,6 +28,14 @@ Budd-Chiari syndrome may be primary or secondary:
 
 Primary Budd-Chiari syndrome occurs because of a narrowing or blockage within your blood vessels. Causes include a blood clot (bland thrombus) or a blockage from a collection of tumor cells. Medical conditions that cause inflammation of your hepatic veins may also contribute.
 Secondary Budd-Chiari syndrome occurs because of an issue outside of your blood vessels. Causes include a malignant (cancerous) or benign (noncancerous) tumor placing pressure on one of your hepatic veins or inferior vena cava (IVC). Your IVC drains blood from your hepatic veins into the right side of your heart. Conditions that injure liver cells or place pressure on hepatic veins can also be a cause. These include certain fungal infections, trauma or chemotherapy.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

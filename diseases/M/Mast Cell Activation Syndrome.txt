@@ -5,6 +5,30 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Mast cell activation syndrome (MCAS) is when you have unexplained episodes of severe symptoms like swelling, diarrhea, vomiting, flushing and itching. Unlike allergies that happen with a specific exposure, MCAS episodes happen without a clear trigger.
+
+In some cases, mast cell activation can cause anaphylaxis, a severe allergic condition that can be life-threatening. It can cause you to have trouble breathing and drop your blood pressure to dangerously low levels. Call 911 (or your local emergency service number) or go to the nearest emergency room if you’re experiencing severe anaphylaxis.
+
+Mast cells are a type of immune cell responsible for immune reactions. For instance, conditions like allergic rhinitis and asthma, allergic reactions (like anaphylaxis to drugs or food) and mastocytosis all activate mast cells. This causes them to release proteins that give you symptoms that are bothersome at best, and dangerous at worst.
+
+Other common conditions can also cause unexplained symptoms. It’s important to discuss your concerns with your provider. They’ll make sure you get a complete workup with a specialist, like an allergist. An allergist is a type of doctor who can diagnose and manage many types of allergic conditions.
+
+But mast cell activation syndrome is rare. Healthcare providers diagnose mast cell activation syndrome if:
+
+You have repeated symptoms of possible anaphylaxis without a clear trigger
+You have more than one body system affected at the same time
+Tests show signs of mast cell activation
+Mast cell medications provide relief from your symptoms
+Mast cells and their function
+
+Mast cells are a part of your immune system. Their usual function is to help protect your body from invading germs (pathogens — like parasites or viruses) or other harmful substances. They sit in your tissues. When they recognize something they think is harmful, they release histamine and other chemicals to activate your immune system and try to flush out the intruder.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 What are the symptoms of mast cell activation syndrome (MCAS)?
@@ -130,11 +154,3 @@ A note from Cleveland Clinic
 Sirens are going off. Security’s on its way. Your mast cells have detected danger and have signaled for help. Except…there is no danger. Like an obnoxious prankster, your mast cells keep pulling the alarm when there’s no emergency. Instead of preventing you from getting sick, they’re the ones making you sick.
 
 MCAS is rare. In most cases, other conditions are causing the symptoms. It’s important to talk to a provider to make sure you get the correct diagnosis.
-
-Medically Reviewed
-
-Last reviewed on 07/11/2024.
-
-Learn more about the Health Library and our editorial process.
-
-References

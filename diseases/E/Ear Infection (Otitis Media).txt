@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/8613-ear-infection-otitis-media
 
 Overview
 --------
-Viruses and bacteria can infect undrained fluid inside your middle ear, causing an ear infection.
-
 What is an ear infection (acute otitis media)?
 
 An ear infection, also called acute otitis media, is a sudden infection in your middle ear. The middle ear is the air-filled space between your eardrum and inner ear. It houses the delicate bones that transmit sound vibrations from your eardrum to your inner ear so you can hear.
@@ -26,6 +24,14 @@ Children get ear infections more often than adults because:
 Their eustachian tubes don’t function as well as adults, and this encourages fluid to gather behind the eardrum.
 Their immune system, the body’s infection-fighting system, is still developing.
 They’re more likely to catch illnesses from other children.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

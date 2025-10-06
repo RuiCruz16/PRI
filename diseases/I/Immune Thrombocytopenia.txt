@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/5726-immune-thrombocytopenia
 
 Overview
 --------
-Immune thrombocytopenia (ITP) may not cause symptoms. When it does, symptoms may include petechia (left) or purpura (right).
-
 What is immune thrombocytopenia (ITP)?
 
 Immune thrombocytopenia (ITP) is a form of low platelet count, a condition that keeps your blood from clotting. When your blood can’t make clots, you may bruise easily, bleed a lot when you’re hurt or start bleeding for no reason. Immune thrombocytopenia happens when your immune system clears your platelets from circulation and your platelet level goes down. In some cases, ITP goes away on its own or with treatment. Other times, immune thrombocytopenia is a chronic condition, which means symptoms can be treated, but not cured. People with chronic ITP may need treatment for the rest of their lives.
@@ -32,10 +30,16 @@ Acute ITP, which usually goes away within three months. Acute immune thrombocyto
 Persistent ITP, which lasts between three and 12 months.
 Chronic ITP, which lasts a year or more.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Separating common misconceptions from medical facts about chronic immune thrombocytopenia (ITP).
-
 What are ITP symptoms?
 
 You may not have any symptoms, but they can happen slowly or quickly if you do. Symptoms may include:

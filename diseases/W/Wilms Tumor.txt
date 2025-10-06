@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23259-wilms-tumor
 
 Overview
 --------
-A Wilms tumor is a type of kidney tumor that most often affects children.
-
 What is Wilms tumor?
 
 Wilms tumor is a kidney tumor found almost always in children. This condition represents nearly 90% of kidney tumors in children. In some cases, Wilms tumor is part of a group of conditions that are present at birth. These are called congenital syndromes.
@@ -30,6 +28,14 @@ Very rarely, people with Wilms tumor also have other congenital syndromes. Some 
 Beckwith-Wiedemann syndrome: Children with this syndrome have a 5% to 10% risk of developing Wilms. This syndrome is classified as an overgrowth syndrome — body parts grow larger and one side of the body doesn’t always match the other side.
 WAGR syndrome: Children with this syndrome have about a 50% chance of developing Wilms tumor. (The “W” in the name stands for Wilms.) Other complications include lack of an iris in the eye (Aniridia) and Genital or the Renal issues.
 Denys-Drash syndrome (also known as Drash syndrome): Children with this grouping of medical conditions have a 90% chance of developing Wilms. Other issues involve their genitals and kidneys.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22394-paraganglioma
 
 Overview
 --------
-Example of paraganglioma of the head and neck.
-
 What is a paraganglioma?
 
 A paraganglioma (also known as an extra-adrenal pheochromocytoma) is a rare neuroendocrine tumor (NET) that forms near your carotid artery (the major blood vessels in your neck), along nerve pathways in your head and neck and in other parts of your body. The tumor is made of a certain type of cell called chromaffin cells, which produce and release certain hormones known as catecholamines.
@@ -57,6 +55,14 @@ Anyone at any age can get a paraganglioma, but they occur most often in people b
 How common is paraganglioma?
 
 Paraganglioma is a rare tumor. It’s estimated that only 2 out of every 1 million people have paraganglioma.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

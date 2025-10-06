@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15806-pancreatic-cancer
 
 Overview
 --------
-Cancer in the pancreas occurs when the cells in the pancreas multiply out of control.
-
 What is pancreatic cancer?
 
 Pancreatic cancer occurs when cells in your pancreas mutate (change) and multiply out of control, forming a tumor. Your pancreas is a gland in your abdomen (belly), between your spine and stomach. It makes hormones that control blood-sugar levels and enzymes that aid in digestion.
@@ -27,10 +25,16 @@ Pancreatic cancer is responsible for approximately 3% of all cancers in the Unit
 
 Cases of pancreatic cancer are on the rise. Trends indicate that pancreatic cancer will be the second leading cause of cancer death in the United States by 2030.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Warning signs of pancreatic cancer and how to spot them.
-
 What are the symptoms of pancreatic cancer?
 
 Unfortunately, there aren’t any early signs of pancreatic cancer. Symptoms typically emerge once the tumor starts impacting other organs in your digestive system.

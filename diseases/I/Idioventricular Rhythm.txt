@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23070-idioventricular-rhythm
 
 Overview
 --------
-Idioventricular rhythm is less than 50 beats per minute (bpm).
-
 What is idioventricular rhythm?
 
 Idioventricular rhythm is a heart rhythm in which your lower heart chambers beat more slowly than normal. With this type of rhythm, your heart’s ventricles or lower chambers may start your heartbeat if your natural pacemaker located in the upper chambers is unable to pace the heart.
@@ -34,6 +32,14 @@ Rheumatic heart disease.
 Dilated cardiomyopathy.
 Acute coronary syndromes.
 Acute myocarditis.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

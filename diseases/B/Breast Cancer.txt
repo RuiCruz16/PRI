@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/3986-breast-cancer
 
 Overview
 --------
-Breast cancer tumors develop when breast cells mutate and grow.
-
 What is breast cancer?
 
 Breast cancer is one of the most common cancers that affects women. It happens when cancerous cells in your breasts multiply and become tumors. About 80% of breast cancer cases are invasive, meaning a tumor may spread from your breast to other areas of your body.
@@ -36,10 +34,16 @@ HR-positive (HR+) breast cancers have estrogen and progesterone receptors.
 HR-negative (HR-) breast cancers don’t have estrogen or progesterone receptors.
 HER2-positive (HER2+) breast cancers, which have higher than normal levels of the HER2 protein. This protein helps cancer cells to grow. About 15% to 20% of all breast cancers are HER2-positive.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Common signs of breast cancer and what to look for.
-
 What are breast cancer symptoms?
 
 The condition can affect your breasts in different ways. Some breast cancer symptoms are very distinctive. Others may simply seem like areas of your breast that look very different from any other area. Breast cancer may not cause noticeable symptoms either. But when it does, symptoms may include:

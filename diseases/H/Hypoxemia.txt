@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17727-hypoxemia
 
 Overview
 --------
-If you’re experiencing symptoms of hypoxemia, especially if you have an underlying condition, call your healthcare provider or go to the nearest ER.
-
 What is hypoxemia?
 
 Hypoxemia is when oxygen levels in the blood are lower than normal. If blood oxygen levels are too low, your body may not work properly. Someone with low blood oxygen is considered hypoxemic.
@@ -26,6 +24,14 @@ Hypoxemia is low oxygen levels in your blood and hypoxia is low oxygen levels in
 Who does hypoxemia affect?
 
 Any condition that reduces the amount of oxygen in your blood or restricts blood flow can cause hypoxemia. People living with heart or lung diseases such as congestive heart failure, COPD or asthma, are at an increased risk for hypoxemia. Some contagious illnesses, like influenza, pneumonia and COVID-19, can also increase your risk of hypoxemia.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

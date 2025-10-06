@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/12792-sciatica
 
 Overview
 --------
-Sciatica symptoms can affect your lower back, butt and legs. Pressure on the spinal cord or nerves is often the cause.
-
 What is sciatica?
 
 Sciatica is nerve pain from an injury or irritation to your sciatic nerve. In addition to pain, it can involve tingling or numbness in your back or butt that may also radiate down your leg. More severe symptoms are also possible.
@@ -28,10 +26,16 @@ How common is sciatica?
 
 Sciatica is a very common condition. About 40% of people in the U.S. experience some form of sciatica during their lifetime. It rarely happens before age 20 unless it’s injury-related.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Chiropractor, Andrew Bang, DC answers some of the most common questions about sciatica.
-
 What are the symptoms of sciatica?
 
 Sciatica symptoms can include:
@@ -82,8 +86,6 @@ Sciatica can also potentially cause permanent nerve damage, resulting in a loss 
 
 Diagnosis and Tests
 -------------------
-The straight-leg test helps healthcare providers diagnose sciatica and other causes of back pain.
-
 How is sciatica diagnosed?
 
 A healthcare provider can diagnose sciatica using a combination of methods. They’ll review your medical history and ask about your symptoms. They’ll also do a physical examination. That exam will include:

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17753-dengue-fever
 
 Overview
 --------
-If you live in or are visiting an area where dengue is common, seek medical attention immediately if you have warning signs of severe dengue. This includes abdominal pain, blood in your vomit or poop, bleeding gums or nose, frequent vomiting or extreme tiredness or restlessness.
-
 What is dengue fever?
 
 Dengue fever is an illness you can get from the bite of a mosquito carrying one of four types of dengue virus (DENV). The virus is most commonly found in tropical and subtropical regions, including Central and South America, Africa, parts of Asia and the Pacific Islands.
@@ -30,6 +28,14 @@ Antibodies are specific to each harmful invader to your body, fitting to them li
 After getting one of the four strains of DENV, you shouldn’t be able to get that one again. But the antibodies for that strain don’t fit other versions quite perfectly. So if you get infected by a different version of DENV later on, it can actually use this imperfect fit to trick your immune system (antibody-dependent enhancement).
 
 The different strain can get caught by the antibody from the first strain you had and get pulled into your cells, but — for reasons not fully understood — it’s not destroyed. It’s then inside your cells without your cells knowing it's harmful. This makes it easier for the virus to infect you and cause more serious illness.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

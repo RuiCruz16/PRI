@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23255-septic-shock
 
 Overview
 --------
-Septic shock occurs when a bacterial infection causes low blood pressure, widening of the blood vessels (vasodilation) and organ failure.
-
 What is septic shock?
 
 Septic shock is a serious medical condition that can occur when an infection in your body causes extremely low blood pressure and organ failure due to sepsis. Septic shock is life-threatening and requires immediate medical treatment. It’s the most severe stage of sepsis.
@@ -16,6 +14,14 @@ Septic shock is the last and most dangerous stage of sepsis. Sepsis can be divid
 Sepsis: Sepsis is life-threatening. It happens when your immune system overreacts to an infection.
 Severe sepsis: This is when sepsis causes your organs to malfunction. This is usually because of low blood pressure, a result of inflammation throughout your body.
 Septic shock: Septic shock is the last stage of sepsis and is defined by extremely low blood pressure, despite lots of IV (intravenous) fluids.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

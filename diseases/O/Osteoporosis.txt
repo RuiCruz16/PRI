@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4443-osteoporosis
 
 Overview
 --------
-If you have osteoporosis your bones are much more fragile and weaker than they should be.
-
 What is osteoporosis?
 
 Osteoporosis is a disease that weakens your bones. It makes your bones thinner and less dense than they should be. People with osteoporosis are much more likely to experience broken bones (bone fractures).
@@ -26,6 +24,14 @@ More than 50 million people in the U.S. live with osteoporosis.
 Osteoporosis is common in people over 50. Experts estimate that half of all women and 1 in 4 men over 50 have osteoporosis.
 
 Studies have found that 1 in 3 adults over 50 who don’t have osteoporosis yet have some degree of reduced bone density (osteopenia). People with osteopenia have early signs of osteoporosis. If it’s not treated, osteopenia can become osteoporosis.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -101,8 +107,6 @@ Checking for changes in your bone density is the best way to catch osteoporosis 
 
 Management and Treatment
 ------------------------
-Registered dietitian Julia Zumpano explains how diet can improve bone health.
-
 How is osteoporosis treated?
 
 Your healthcare provider will suggest a combination of treatments that slow down your bone loss and strengthen your existing bone tissue. The most important part of treating osteoporosis is preventing bone fractures.

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/9467-obesity-in-children
 
 Overview
 --------
-Childhood obesity is a complex health condition that has many causes.
-
 What is childhood obesity?
 
 Childhood obesity is a complex chronic (long-term) condition that happens when your child is above a healthy weight for their age, height and sex.
@@ -38,6 +36,14 @@ Live in poverty.
 Live in under-resourced communities.
 Are part of families that have immigrated.
 Experience discrimination or stigma.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

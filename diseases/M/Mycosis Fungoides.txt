@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21827-mycosis-fungoides
 
 Overview
 --------
-Patchy dry skin, irregularly shaped plaques and raised tumors are all skin changes that can happen with mycosis fungoides.
-
 What is mycosis fungoides?
 
 Mycosis fungoides (pronounced “my-KOH-sis fun-GOY-deez”) is a blood cancer that happens when white blood cells called T cells transform into malignant (cancer) cells. T cells are a kind of lymphocyte. Lymphocytes fight harmful pathogens in your body, like viruses and bacteria. With mycosis fungoides, T cells transform into cancer cells that affect your skin.
@@ -12,6 +10,14 @@ Mycosis fungoides (pronounced “my-KOH-sis fun-GOY-deez”) is a blood cancer t
 Mycosis fungoides is a type of cutaneous T-cell lymphoma (CTCL). CTCL is a group of rare blood cancers that cause changes in your skin, like itchiness, rashes, plaques or tumors.
 
 Although mycosis fungoides affects your skin, it’s not a form of skin cancer because your T cells — not skin cells — become cancerous.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

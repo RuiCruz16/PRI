@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15818-skin-cancer
 
 Overview
 --------
-Types of skin cancer and how you can recognize them.
-
 What is skin cancer?
 
 Skin cancer is a disease that involves the growth of abnormal cells in your skin tissues. Normally, as skin cells grow old and die, new cells form to replace them. When this process doesn’t work as it should — like after exposure to ultraviolet (UV) light from the sun — cells grow more quickly. These cells may be noncancerous (benign), which don’t spread or cause harm. Or they may be cancerous.
@@ -29,10 +27,16 @@ How common is skin cancer?
 
 Skin cancer is the most common cancer diagnosed in the U.S. In fact, about 1 in 5 people develop skin cancer at some point in their life.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Three common types of skin cancer are basal cell carcinoma, squamous cell carcinoma and melanoma.
-
 What are the signs and symptoms of skin cancer?
 
 The most common warning sign of skin cancer is a change on your skin — typically a new growth or a change in an existing growth or mole. Skin cancer symptoms include:

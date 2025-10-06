@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17398-pulmonary-alveolar-proteino
 
 Overview
 --------
-Lung condition called Pulmonary Alveolar Proteinosis (PAP).
-
 What is pulmonary alveolar proteinosis?
 
 Pulmonary alveolar proteinosis (PAP) is a rare lung disease caused by a buildup of proteins, fats and other substances in the air sacs of your lungs (alveoli). It prevents air from getting through the alveoli, so your blood doesn’t get enough oxygen. PAP can make it difficult to breathe.
@@ -25,6 +23,14 @@ Autoimmune and secondary PAP usually affect people between the ages of 30 and 60
 How common is pulmonary alveolar proteinosis?
 
 PAP is rare. It affects between 3 and 40 people per million worldwide.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -69,8 +75,6 @@ Lung biopsy, which uses bronchoscopy or surgery to remove tissue from your lungs
 
 Management and Treatment
 ------------------------
-Lung Washing (Lung Lavage) for Pulmonary Alveolar Proteinosis (PAP).
-
 Is there a cure for pulmonary alveolar proteinosis?
 
 There isn’t a cure for pulmonary alveolar proteinosis at this time.

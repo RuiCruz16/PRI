@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/6149-brain-cancer-brain-tumor
 
 Overview
 --------
-Learn about primary brain tumors, a tumor that grows on your brain.
-
 What is a brain tumor?
 
 A brain tumor is an abnormal growth or mass of cells in or around your brain. Together, spinal tumors and brain tumors are called central nervous system (CNS) tumors.
@@ -82,10 +80,16 @@ Causing bleeding in your brain.
 
 However, some people have brain tumors that never cause symptoms or grow large enough to compress surrounding tissues.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Brain tumors can be benign (not cancerous) or malignant (cancerous). There are over 150 different types of brain tumors.
-
 What are the signs and symptoms of brain tumors?
 
 Some people who have a brain tumor experience no symptoms, especially if it’s very small.
@@ -254,11 +258,3 @@ Additional Common Questions
 A note from Cleveland Clinic
 ----------------------------
 Learning you have a tumor in your brain can be scary and stressful. Not all brain tumors are cancerous, though — in fact, about two-thirds of them are benign. However, they can still cause problems for your brain. Know that your healthcare team will develop an individualized and thorough treatment plan to help treat the tumor and improve your quality of life.
-
-Medically Reviewed
-
-Last reviewed on 06/02/2022.
-
-Learn more about the Health Library and our editorial process.
-
-References

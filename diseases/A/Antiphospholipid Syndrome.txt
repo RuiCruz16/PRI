@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21685-antiphospholipid-syndrome
 
 Overview
 --------
-Antiphospholipid syndrome makes you much more likely to develop blood clots.
-
 What is antiphospholipid syndrome (APS)?
 
 Antiphospholipid syndrome (APS) is a condition that makes your body much more likely than usual to form blood clots. Healthcare providers sometimes call it antiphospholipid antibody syndrome.
@@ -12,6 +10,14 @@ Antiphospholipid syndrome (APS) is a condition that makes your body much more li
 The blood clots from APS can cause severe, life-threatening complications like strokes. They can also make it more likely to experience miscarriages and other pregnancy complications.
 
 APS is an autoimmune disease. Autoimmune diseases happen when your immune system accidentally attacks your body instead of protecting it.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

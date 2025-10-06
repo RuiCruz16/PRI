@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/surgical-wound-infection
 
 Overview
 --------
-Surgery may lead to infection symptoms like pain when you touch the site, pus oozing from the site or fever and chills.
-
 What is a surgical wound infection?
 
 A surgical wound infection (surgery site infection) is an infection that develops after you have surgery. These infections happen when bacteria get into your body through the incisions (cuts) your surgeon makes. They don’t happen often, in part because healthcare providers and hospitals work hard to prevent them. If you’re having surgery, don’t hesitate to ask your surgeon about steps they take to reduce your risk.
@@ -19,6 +17,14 @@ Organ or space SSI: Surgery on one part of your body can affect nearby organs or
 How common are surgical wound infections?
 
 The U.S. CDC estimates 1 to 3 in 100 people who have surgery develop a surgical site infection.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15522-gastroparesis
 
 Overview
 --------
-Gastroparesis is a problem with the muscles in your stomach that move food through.
-
 What is gastroparesis?
 
 Gastroparesis, which means stomach paralysis, is a condition affecting the nerves and muscles in your stomach. It interferes with the muscle activity (peristalsis) that moves food through your stomach and into your small intestine. When your stomach muscles and nerves can’t activate correctly, your stomach can’t process food or empty itself like it should. This holds up your whole digestive process.
@@ -18,6 +16,14 @@ Healthcare providers often classify gastroparesis into sub-types based on what�
 What is the most common type of gastroparesis?
 
 Most gastroparesis cases (between a quarter and a half) are labeled as idiopathic, which means healthcare providers couldn’t determine the cause. But cases falling into this subtype may be from a variety of causes, including known causes that just couldn’t be determined. Diabetes is the most common single cause of gastroparesis. Around one-third of cases are diagnosed as diabetes-related.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

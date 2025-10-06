@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/12625-goiter
 
 Overview
 --------
-Illustration of the thyroid wrapped around the trachea in a person's neck showing the normal size of a thyroid and an enlarged size (goiter).
-
 What is a goiter?
 
 Goiter is a condition where your thyroid gland grows larger. Your entire thyroid can grow larger, or it can develop one or more small lumps called thyroid nodules.
@@ -61,6 +59,14 @@ The more severe the iodine deficiency, the more likely someone is to have goiter
 With mild iodine deficiency, the incidence of goiter is 5% to 20%.
 With a moderate iodine deficiency, the prevalence increases to 20% to 30%.
 With severe iodine deficiency, the incidence increases to greater than 30%.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22108-tachycardia
 
 Overview
 --------
-Tachycardia, a heart rhythm that’s faster than normal, is more than 100 beats a minute at rest.
-
 What is tachycardia?
 
 Tachycardia (ta-kih-kar-dee-uh) is a kind of abnormal heart rhythm (arrhythmia). With tachycardia, your heart beats more than 100 times a minute at rest. Your heart beats faster than normal for a few seconds to a few hours. Normally, your heart rate is 60 to 100 beats per minute when you’re not active.
@@ -21,6 +19,14 @@ Types of tachycardia include:
 
 Supraventricular tachycardias (SVTs), which begin in the atria (upper chambers of your heart). Examples include atrial fibrillation and premature atrial contractions.
 Ventricular tachycardias, which begin in your ventricles, your heart’s lower chambers. Examples include ventricular fibrillation and Torsades de Pointes.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

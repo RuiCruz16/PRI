@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21736-cardiac-arrest
 
 Overview
 --------
-Cardiac arrest is an electrical problem, unlike a heart attack.
-
 What is cardiac arrest?
 
 Cardiac arrest happens when your heart stops beating or beats so fast that it stops pumping blood. During cardiac arrest, people typically collapse and become unresponsive. Symptoms start without warning. This is why people also call it sudden cardiac arrest.
@@ -23,10 +21,16 @@ More than 356,000 Americans each year experience cardiac arrest outside of a hos
 
 Sudden cardiac arrest happens in people with and without heart disease. Having a heart attack or other heart condition can significantly increase your risk.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-In cardiac arrest, your heart stops beating regularly because of a problem with the system that controls your heartbeats.
-
 What are the symptoms?
 
 Cardiac arrest symptoms may include:
@@ -247,8 +251,6 @@ Should I or my family members undergo genetic testing?
 
 Additional Common Questions
 ---------------------------
-Cardiologist Jacqueline Tamis-Holland, MD, explains the difference between a heart attack and cardiac arrest.
-
 What is a cardiac arrest vs. a heart attack?
 
 The difference between a cardiac arrest and a heart attack is that a cardiac arrest happens because of an electrical issue and a heart attack comes from a blood flow issue.

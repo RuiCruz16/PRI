@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22215-intestinal-metaplasia
 
 Overview
 --------
-Intestinal metaplasia is a cellular change in the lining of your stomach or esophagus.
-
 What is intestinal metaplasia?
 
 Intestinal metaplasia is a transformation of the cells in the lining of your upper digestive tract, often the stomach or the esophagus (food pipe). It’s called “intestinal” metaplasia because the cells change to become more like those that line the intestines. When doctors find intestinal metaplasia, it looks like the mucosal lining of your esophagus or stomach has been replaced with intestinal lining. In the esophagus, this condition is also known as Barrett’s esophagus. In the stomach, it may be called gastric intestinal metaplasia.
@@ -47,6 +45,14 @@ In high-grade dysplasia, the cells show more complex architectural changes, incl
 How common is this condition?
 
 Since intestinal metaplasia causes no direct symptoms and can only be diagnosed through testing, it’s impossible to know how common it is in the general population. Estimates range between 3% and 20% among all Americans. Gastric IM is more common among those of Hispanic and East Asian descent. Barrett’s esophagus is more common in white men.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

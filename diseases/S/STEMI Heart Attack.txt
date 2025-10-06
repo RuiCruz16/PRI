@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22068-stemi-heart-attack
 
 Overview
 --------
-How a coronary artery blockage causes a STEMI heart attack.
-
 What is a STEMI?
 
 An ST-elevation myocardial infarction (STEMI) is a type of heart attack that is more serious and has a greater risk of serious complications and death. It gets its name from how it mainly affects the heart’s lower chambers and changes how electrical current travels through them.
@@ -74,6 +72,14 @@ Genetic or congenital conditions. Certain medical conditions or disorders can in
 How common is this condition?
 
 There are an estimated 550,000 new heart attacks and 200,000 repeat heart attacks (meaning the person has had one before) heart attacks in the U.S. each year. About 38% of people who go to the emergency room with acute coronary syndrome were diagnosed with a STEMI. That means there are a little over 280,000 people who have a STEMI in the U.S. each year.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

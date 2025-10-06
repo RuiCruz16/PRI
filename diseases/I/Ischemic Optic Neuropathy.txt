@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/ischemic-optic-neuropathy
 
 Overview
 --------
-Ischemic optic neuropathy is optic nerve damage from lack of blood flow. It has anterior (front) and posterior (back) forms.
-
 What is ischemic optic neuropathy?
 
 Ischemic optic neuropathy (ION) refers to several conditions that all cause vision loss because of a lack of blood flow to part of your optic nerve. Without blood flow, the affected areas stop working correctly and start to die. If the disruption in blood flow is severe or lasts too long, it can damage the optic nerve permanently.
@@ -26,6 +24,14 @@ Arteritic conditions involve arterial inflammation (arteritis). These conditions
 Posterior ischemic optic neuropathy
 
 This type of ION happens farther back along the optic nerve. It also has two main subtypes, arteritic and nonarteritic.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

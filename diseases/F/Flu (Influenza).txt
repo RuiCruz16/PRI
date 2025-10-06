@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4335-influenza-flu
 
 Overview
 --------
-The flu, common cold and COVID-19 have similar symptoms. The flu and COVID-19 can be severe, but colds rarely are.
-
 What is the flu (influenza)?
 
 The flu is an illness you get from the influenza virus. It causes symptoms like head and body aches, sore throat, fever and respiratory symptoms, which can be severe. Flu is most common in winter months, when many people can get sick at once (an epidemic).
@@ -43,10 +41,16 @@ Live in a long-term care facility.
 
 Non-Hispanic Black people, non-Hispanic American Indians, Alaska Native people and Hispanic or Latino people have the highest rates of severe illness from the flu compared to non-Hispanic White people and non-Hispanic Asian people.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-With so many symptoms in common, it can be hard to tell the difference between a cold and the flu. Here’s how to tell which is which.
-
 What are the symptoms of the flu?
 
 Symptoms of the flu usually come on quickly, and can include:

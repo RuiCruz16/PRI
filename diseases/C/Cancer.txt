@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/12194-cancer
 
 Overview
 --------
-Cancer happens when normal cells become cancerous cells that multiply and spread. Cancer is the second most common cause of death in the U.S.
-
 What is cancer?
 
 Cancer is a large group of diseases with one thing in common: They happen when normal cells become cancerous cells that multiply and spread. Your genes send instructions to your cells — like when to start and stop growing, for example. Normal cells follow these instructions, but cancer cells ignore them.
@@ -38,6 +36,14 @@ Affects slightly more men than women.
 Affects people over 60 more than any other age group.
 Affects more Black men than those in other racial groups.
 Affects more women who are American Indian or Alaska Natives than those in other racial groups.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

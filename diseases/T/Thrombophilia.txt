@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21797-thrombophilia
 
 Overview
 --------
-People with thrombophilia make too many blood clots or have trouble breaking down old clots.
-
 What is thrombophilia?
 
 Thrombophilia is a blood disorder that makes the blood in your veins and arteries more likely to clot. Healthcare providers call this a “hypercoagulable” condition because your blood coagulates or clots more easily. Thrombophilia can be an inherited (genetic) or acquired tendency to form blood clots in arteries and veins.
@@ -29,6 +27,14 @@ Protein C deficiency: Less common type, affecting less than 1% of people. This t
 Protein S deficiency: Less common type, affecting less than 1% of people. An even rarer form (from both parents) can cause a life-threatening clotting issue in infants.
 Protein Z deficiency: This type can increase your risk of thromboembolisms and pregnancy complications (miscarriage and preeclampsia).
 Antithrombin deficiency: Less common type, affecting 1 in 500 to 5,000 people. But those who have it have a higher risk of blood clots than people with other inherited blood clotting disorders. More than 80% of people with this type of thrombophilia get at least one blood clot by age 50.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

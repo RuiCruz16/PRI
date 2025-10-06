@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/temporal-arteritis-giant-cell-art
 
 Overview
 --------
-Temporal arteritis causes inflammation in your temporal arteries (the blood vessels near your temples).
-
 What is giant cell arteritis?
 
 Giant cell arteritis (GCA), previously known as temporal arteritis, is a form of vasculitis (inflammation of your blood vessels). It affects the large blood vessels in your body, particularly the arteries in your head, neck and arms. These arteries become inflamed, swollen and constricted (narrowed). Inflammation and narrowing of these arteries can interrupt their blood flow, which can damage vital organs and tissues.
@@ -23,6 +21,14 @@ Other disorders, including stroke or transient ischemic attacks (“mini-strokes
 How common is GCA?
 
 GCA is one of the most common forms of vasculitis, but it’s a relatively rare condition, affecting about 19-23 out of every 100,000 people in the United States.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/7104-diabetes
 
 Overview
 --------
-Learn about the early signs of diabetes.
-
 What is diabetes?
 
 Diabetes is a condition that happens when your blood sugar (glucose) is too high. It develops when your pancreas doesn’t make enough insulin or any at all, or when your body isn’t responding to the effects of insulin properly. Diabetes affects people of all ages. Most forms of diabetes are chronic (lifelong), and all forms are manageable with medications and/or lifestyle changes.
@@ -39,10 +37,16 @@ Diabetes is common. Approximately 37.3 million people in the United States have 
 
 About 537 million adults across the world have diabetes. Experts predict this number will rise to 643 million by 2030 and 783 million by 2045.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-The severity of symptoms can vary based on the type of diabetes you have. These symptoms are usually more intense in Type 1 diabetes than Type 2 diabetes.
-
 What are the symptoms of diabetes?
 
 Symptoms of diabetes include:

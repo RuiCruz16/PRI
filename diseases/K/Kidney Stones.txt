@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15604-kidney-stones
 
 Overview
 --------
-The main symptom of kidney stones is pain in your lower back, belly or side. The pain often radiates and gets worse in waves.
-
 What are kidney stones?
 
 Kidney stones are solid masses or crystals that form from substances (like minerals, acids and salts) in your kidneys. They can be as small as a grain of sand or — rarely — larger than a golf ball. Kidney stones are also called renal calculi or nephrolithiasis.
@@ -16,6 +14,14 @@ It can take as long as three weeks for kidney stones to pass on their own. Even 
 How common are kidney stones?
 
 About 1 in 10 people will get a kidney stone during their lifetime. They’re most common in men in their 30s and 40s. They’re also more common among non-Hispanic white people.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -99,8 +105,6 @@ Blood tests. A provider can use blood tests to check your kidney function, detec
 
 Management and Treatment
 ------------------------
-Kidney stone treatment options
-
 How are kidney stones treated?
 
 If you have a small stone that’s likely to pass on its own, your provider will have you monitor your symptoms until it passes in your pee. They might prescribe medications that keep you comfortable and help the stone pass on its own.

@@ -5,6 +5,23 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+OEIS syndrome (pronounced “kloh-EY-kel” “EK-struh-fee”) is a rare congenital condition (birth defect) that affects how the lower abdominal wall, intestines and urinary bladder form during fetal development. This results in the bladder and part of the intestines being outside of the body at birth.
+
+In addition, babies with cloacal exstrophy usually have other associated abnormalities at birth. The abnormalities affect other abdominal organs, the anus/rectum, genital (penis or vagina) formation, the spinal cord and lower limbs.
+
+Other names for OEIS syndrome are OEIS complex and cloacal exstrophy. Healthcare providers sometimes use the “OEIS” names because the condition causes the following conditions:
+
+Omphalocele: As the abdominal wall doesn’t form as expected, there’s a hole near the belly button/umbilical cord. Some of the abdominal organs come out of this hole. The organs are in a membrane or sac (omphalocele).
+Exstrophy of the bladder and rectum: The bladder opens up like a flat plate instead of a hollow sphere. It may split into halves. The pelvic bones don’t join correctly and are far apart. The rectum and colon may also be open and split in half. There may be extra parts of the intestines and internal reproductive organs. The genitals may also be split and smaller than expected.
+Imperforate anus: The anus is the last part of the digestive system where poop comes out. In cloacal exstrophy, the opening to the anus doesn’t form. The intestines may be shorter than expected. This can affect how your body absorbs nutrients when you eat.
+Spinal defects: As many as 3 out of 4 infants with cloacal exstrophy also have spina bifida, which is when the spinal cord doesn’t close. This allows a sac of fluid (and sometimes nerves) to bulge through the opening. Spina bifida affects the nerves to the bladder, bowel and legs.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of OEIS syndrome

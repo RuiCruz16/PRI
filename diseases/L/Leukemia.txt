@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4365-leukemia
 
 Overview
 --------
-Typically, your blood has red blood cells, white blood cells and platelets. If you have leukemia, abnormal cancer cells soon outnumber your healthy cells.
-
 What is leukemia?
 
 Leukemia is a cancer of the blood, characterized by the rapid growth of abnormal blood cells. This uncontrolled growth takes place in your bone marrow, where most of your body’s blood is made. Leukemia cells are usually immature (still developing) white blood cells. The term leukemia comes from the Greek words for “white” (leukos) and “blood” (haima).
@@ -69,6 +67,14 @@ Male.
 Caucasian/white.
 
 Many people think of leukemia as a pediatric cancer, but some forms develop more often in adults. Although leukemia is rare in children, it’s the most common form of cancer affecting children and teens.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

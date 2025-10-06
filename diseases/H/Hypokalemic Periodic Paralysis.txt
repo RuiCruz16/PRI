@@ -5,6 +5,27 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Hypokalemic periodic paralysis (hypoPP) causes sudden episodes (attacks) of extreme muscle weakness or paralysis. These attacks can last for hours or even days. This rare genetic condition can start in childhood, teen years or adulthood. Most people have their first attack before age 35.
+
+Hypokalemia means potassium levels in your blood are too low. Potassium is a mineral that helps your muscles work. During attacks, you may have low potassium in your blood.
+
+When an attack happens, it can feel overwhelming. Your body may not move the way you expect, and that can bring fear or frustration. Getting a clear diagnosis can take time. But once you have it, you and your healthcare provider can work on a plan to manage symptoms.
+
+Treatment may not stop every attack, but it can reduce how often they happen and how severe they feel.
+
+Types of hypokalemic periodic paralysis
+
+There are two main types. Each links to a different gene. These affect how your muscles work:
+
+Type 1: This is the most common type. A genetic change in the CACNA1S gene causes it. This change affects calcium channels, which play a role in muscle contractions. When these channels don’t work as they should, your muscles may not respond the right way.
+Type 2: A genetic change in the SCN4A gene causes this type. This change affects sodium channels. These channels control the electrical signals that tell your muscles when to move. Problems with these channels can make attacks start suddenly.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Hypokalemic periodic paralysis symptoms

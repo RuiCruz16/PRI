@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/histamine-intolerance
 
 Overview
 --------
-Contact a healthcare provider if you have symptoms after eating, whether you think they could be histamine intolerance or not.
-
 What is histamine intolerance?
 
 Histamine intolerance (HIT) is a proposed condition caused by an inability to digest histamine in your diet, leading to gastrointestinal and allergy-like symptoms. Histamine is a chemical your body naturally makes. It’s also present in some foods. The American Academy of Allergy and Immunology doesn’t currently recognize histamine intolerance as a condition. It’s a controversial issue.
@@ -20,6 +18,14 @@ Is this the same as histamine intoxication?
 No, histamine intoxication (also called histamine poisoning) usually happens as a food poisoning outbreak, affecting many people who ate the same high-histamine meal. Public health officials usually trace it back to certain types of fish.
 
 Histamine intoxication is well-documented. But histamine intolerance is more controversial. Experts disagree about whether relatively low levels of histamine could cause symptoms, or if it’s more likely that irritable bowel syndrome or another condition causes symptoms that look like HIT.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -8,11 +8,13 @@ INDEX_DIR = Path("diseases")
 OUTPUT_ROOT = Path("diseases")
 NAV_TIMEOUT_MS = 60000
 
-LETTERS_TO_RUN = [chr(i) for i in range(ord("C"), ord("Z")+1)] + ["0-9"]
+LETTERS_TO_RUN = [chr(i) for i in range(ord("A"), ord("Z")+1)] + ["0-9"]
 
 # Acceptable section headings and their variants
 SECTIONS_SPEC = [
     ("Overview", ["Overview"]),
+    ("What is", ["What is"]),
+    ("What are", ["What are"]),
     ("Symptoms and Causes", ["Symptoms and Causes"]),
     ("Diagnosis and Tests", ["Diagnosis and Tests"]),
     ("Management and Treatment", ["Management and Treatment"]),
@@ -50,10 +52,37 @@ def extract_sections(page, spec):
 
       const isNote = (n) => n && norm((n.innerText||n.textContent||"")).startsWith(norm("A note from Cleveland Clinic"));
       const isCare = (n) => n && norm((n.innerText||n.textContent||"")).startsWith(norm("Care at Cleveland Clinic"));
+      const isMetadata = (n) => {
+        if (!n) return false;
+        const text = norm((n.innerText||n.textContent||""));
+        return text.startsWith("medically reviewed") || 
+               text.startsWith("last reviewed") || 
+               text.includes("learn more about the health library");
+      };
 
       const textFromNode = (node) => {
         if (!node) return "";
         const tag = node.tagName;
+        if (tag === "FIGCAPTION" || tag === "ASIDE" || tag === "FIGURE") return "";
+
+        const text = (node.innerText || node.textContent || "").trim();
+        const lowerText = text.toLowerCase();
+        
+        if (lowerText === "advertisement" || 
+            lowerText === "policy" || 
+            lowerText.startsWith("cleveland clinic is a non-profit") ||
+            lowerText.includes("advertising on our site")) {
+          return "";
+        }
+        
+        const className = (node.className || "").toLowerCase();
+        const id = (node.id || "").toLowerCase();
+        const adKeywords = ["ad", "advertisement", "promo", "sponsored", "banner", "commercial"];
+        
+        if (adKeywords.some(keyword => className.includes(keyword) || id.includes(keyword))) {
+          return "";
+        }
+        
         if (["P","DIV","SECTION"].includes(tag)) {
           return (node.innerText || "").trim();
         }
@@ -72,16 +101,22 @@ def extract_sections(page, spec):
         const h = headings[i];
         const t = norm(h.textContent);
         let canonical = null;
+        
         for (const [canon, variants] of wanted) {
+          if ((canon === "What is" || canon === "What are") && h.tagName !== "H2") {
+            continue;
+          }
           if (variants.some(v => t.startsWith(v))) { canonical = canon; break; }
         }
+        
         if (!canonical) continue;
 
         let txt = "";
         let node = h.nextElementSibling;
 
         while (node && !/^H[234]$/.test(node.tagName)) {
-          if (isCare(node)) break;
+          if (isCare(node) || isMetadata(node)) break;
+          
           if (isNote(node)) {
             const piece = textFromNode(node);
             if (piece) txt += (txt ? "\\n\\n" : "") + piece;

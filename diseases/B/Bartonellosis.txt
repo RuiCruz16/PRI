@@ -5,6 +5,20 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Bartonellosis is a group of illnesses caused by types of Bartonella bacteria. The most common types of bartonellosis include:
+
+Cat scratch disease (CSD): This is a Bartonella henselae infection. It most commonly causes large, swollen lymph nodes and bumps or a rash.
+Carrión’s disease: This is a Bartonella bacilliformis infection. The early stages (Oroya fever) can destroy your blood cells and lead to severe anemia. The later stage (verruga peruana) causes long-lasting bumps on your skin.
+Trench fever: This is a Bartonella quintana infection. It causes flu-like symptoms. Some complications can be serious.
+
+Depending on the type, bartonellosis can cause mild symptoms or severe illness. You get infections from bug bites or cat scratches.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of bartonellosis
@@ -116,11 +130,3 @@ No, Bartonella infections aren’t the same as Lyme disease. Borrelia bacteria, 
 A note from Cleveland Clinic
 ----------------------------
 Bartonellosis is uncommon but can cause serious illness. The good news is that Bartonella infections are almost always treatable with antibiotics. Talk to a provider if you have symptoms of a Bartonella infection, especially if you have a cat scratch or bug bite. They can help you understand what to expect in terms of diagnosis and treatment.
-
-Medically Reviewed
-
-Last reviewed on 08/11/2025.
-
-Learn more about the Health Library and our editorial process.
-
-References

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22985-twin-to-twin-transfusion-sy
 
 Overview
 --------
-Twin-twin transfusion syndrome occurs in identical twins that share a placenta. It’s when one twin receives more blood flow, while the other twin gets less.
-
 What is twin-to-twin transfusion syndrome?
 
 Twin-twin transfusion syndrome (TTTS) is a rare, serious condition in pregnancies involving identical twins who share one placenta (also called monochorionic twins). While most identical twins share blood and nutrients from the same placenta equally, twins affected by TTTS don’t. Instead, one twin (the donor twin) receives less blood supply than the other twin (the recipient twin). This means the donor twin has less blood volume, but the recipient twin has more blood volume. This blood flow imbalance can cause TTTS.
@@ -32,6 +30,14 @@ TTTS typically develops as early as 16 weeks of pregnancy, but it can develop at
 How common is twin-twin transfusion syndrome?
 
 Approximately 15% of identical twin (monochorionic) pregnancies will develop TTTS.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -96,8 +102,6 @@ Stage 1 TTTS may only need monitoring or close observation. Progression can happ
 
 Management and Treatment
 ------------------------
-Learn more about what happens during fetoscopic laser surgery for twin-to-twin transfusion syndrome.
-
 What is the treatment for twin-twin transfusion syndrome?
 
 Treatment depends on how far along you are in your pregnancy and what stage of TTTS you have:

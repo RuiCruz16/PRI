@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/8525-parkinsons-disease-an-overvi
 
 Overview
 --------
-Parkinson’s disease has several common non-motor (non-movement) symptoms and motor symptoms. Non-motor symptoms sometimes appear years ahead of motor symptoms.
-
 What is Parkinson’s disease?
 
 Parkinson’s disease is a condition where a part of your brain deteriorates, causing more severe symptoms over time. While this condition is best known for how it affects muscle control, balance and movement, it can also cause a wide range of other effects on your senses, thinking ability, mental health and more.
@@ -32,6 +30,14 @@ As Parkinson’s disease progresses, the symptoms expand and intensify. Later st
 What is the difference between Parkinson’s disease vs. parkinsonism?
 
 “Parkinsonism” is an umbrella term that describes Parkinson’s disease and conditions with similar symptoms. It can refer not only to Parkinson’s disease but also to other conditions like multiple system atrophy or corticobasal degeneration.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

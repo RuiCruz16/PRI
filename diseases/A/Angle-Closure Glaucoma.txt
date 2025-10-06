@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/angle-closure-glaucoma
 
 Overview
 --------
-Angle-closure glaucoma is an emergency condition that happens when trapped fluid inside your eye causes pressure to build up.
-
 What is angle-closure glaucoma?
 
 Angle-closure glaucoma is one of two main types of glaucoma, a condition that’s defined by high pressure within your eye. The name for this pressure is intraocular pressure (IOP).
@@ -36,6 +34,14 @@ How common is it?
 Angle-closure glaucoma will happen to about 1 in 1,000 people. It’s most likely to happen after the age of 40.
 
 One estimate is that 17.14 million people throughout the world who are over 40 have primary angle-closure glaucoma, with a majority (12.3 million people) in Asia.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -177,11 +183,3 @@ A note from Cleveland Clinic
 Glaucoma is common, and there are many types. Angle-closure glaucoma is one of these types. If you have an episode of acute angle-closure glaucoma, treat it as a medical emergency.
 
 If you have eye pain, headaches, redness and you feel sick to your stomach, contact your provider or go to an emergency room. You may need immediate medical treatment to save your vision. Other types of angle-closure glaucoma also need treatment. It’s best to find out what you have and how to treat it early on in any condition.
-
-Medically Reviewed
-
-Last reviewed on 09/17/2023.
-
-Learn more about the Health Library and our editorial process.
-
-References

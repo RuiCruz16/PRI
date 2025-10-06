@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/13121-thyroid-nodule
 
 Overview
 --------
-A thyroid nodule is an unusual lump (growth) of cells on your thyroid gland. More than 90% of detected nodules in adults are benign.
-
 What are thyroid nodules?
 
 A thyroid nodule is an unusual lump (growth) of cells on your thyroid gland.
@@ -55,6 +53,14 @@ When should I worry about thyroid nodules?
 In most cases, thyroid nodules aren’t a cause for concern. But even though the vast majority of thyroid nodules are benign, some thyroid nodules do contain thyroid cancer.
 
 For this reason, you should see your healthcare provider so they can evaluate the nodule to be sure it’s benign. As with all cancer, the earlier it can be diagnosed and treated, the better.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

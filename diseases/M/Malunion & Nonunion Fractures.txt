@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/malunion-nonunion-fracture
 
 Overview
 --------
-Malunion and nonunion fractures can leave you permanently disabled. Your healthcare provider will look to address the source of the problem with healing.
-
 What are malunion and nonunion fractures?
 
 Malunion and nonunion fractures are poorly healed bone fractures. A malunion fracture is one where the fractured bone parts have grown back together, but in the wrong position. A nonunion fracture is one where the fractured parts have failed to grow back together, even though they’ve had more than enough time to do so. Poorly healed fractures can impact your skeleton’s stability and functionality.
@@ -18,6 +16,14 @@ Your healthcare provider may classify your nonunion fracture as hypertrophic, at
 Hypertrophic nonunion. This type shows evidence of new bone growth, but the ends of the bone pieces don’t meet. This suggests that your body has adequate biological resources for healing, but the bone pieces didn’t hold together well enough during the recovery period.
 Atrophic nonunion. This type shows no new bone growth and a lack of good blood supply to the bone. This suggests that biological factors are preventing the fracture from healing. Sometimes, there’s evidence of an infection in the bone that’s sapping its blood supply (septic nonunion).
 Oligotrophic nonunion. This type shows some new bone growth, but it’s incomplete. The bone pieces aren’t in the right position. This suggests they didn’t get put back together correctly or they shifted afterward. There may be stability factors and biological factors affecting healing.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

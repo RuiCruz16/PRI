@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23349-bradyarrhythmia
 
 Overview
 --------
-Bradyarrhythmia is a slower than normal heart rate below 60 beats per minute.
-
 What is bradyarrhythmia?
 
 A bradyarrhythmia is a heart rate that’s slower than typical because of an irregular heart rhythm. People with bradyarrhythmia have resting heart rates below 60 beats per minute. For most adults, a resting heart rate of 60 to 100 beats per minute is considered normal.
@@ -24,6 +22,14 @@ There are several different types of bradyarrhythmias. Each type has its own cau
 Sinus node dysfunction: Sinus node dysfunction is also known as sick sinus syndrome. The sinus (or sinoatrial) node is often called the heart’s natural pacemaker. It’s an important part of the heart’s electrical system. The sinus node sends out the electrical impulse that triggers your heart to beat. An underactive thyroid gland (hypothyroidism) can result in sinus node dysfunction. Or a disease or defect that affects the sinus node can lead to sick sinus syndrome. The condition is more common as people age, but in many cases, there’s no known cause.
 Heart block: A heart block is something that gets in the way of your heart’s electrical signals. The block stops the electrical impulses in your heart from traveling as they should. A slow heart rate or skipped heartbeats can result.
 Bradycardia/tachycardia syndrome: In some cases, sinus node dysfunction leads to alternating periods of slow and fast heart rates. Atrial fibrillation (AFib) is one of these syndromes.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

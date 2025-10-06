@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4471-pneumonia
 
 Overview
 --------
-Pneumonia causes your lung tissue to swell. It can cause fluid or pus in your lungs.
-
 What is pneumonia?
 
 Pneumonia is an infection in your lungs caused by bacteria, viruses or fungi. Pneumonia causes your lung tissue to swell (inflammation) and can cause fluid or pus in your lungs. Bacterial pneumonia is usually more severe than viral pneumonia, which often resolves on its own.
@@ -69,10 +67,16 @@ How common is pneumonia?
 
 Anyone can get pneumonia. It’s a common illness, with millions of people diagnosed each year in the United States. About 55,000 people die each year of pneumonia in the U.S. It’s the most common cause of death in developing countries.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-You won’t necessarily have all the symptoms of pneumonia. Symptoms may be different in young children and older adults.
-
 What are the signs and symptoms of pneumonia?
 
 Symptoms of pneumonia depend on the cause. Symptoms can range from mild to severe. Babies, young children and older adults may have different symptoms.

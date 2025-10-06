@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17699-atelectasis
 
 Overview
 --------
-Atelectasis can be compressive, resorptive/obstructive, or contraction. Compressive atelectasis is when fluid, air, blood or a tumor presses on alveoli from the outside. Resorptive atelectasis happens when no new air can move into the alveoli (for instance, there’s a blockage). Contraction atelectasis is the result of lung scarring.
-
 What is atelectasis?
 
 Atelectasis (pronounced at-uh-LEK-tuh-sis) is the collapse of one or more parts of the lung. It specifically affects the small air sacs called alveoli.
@@ -52,6 +50,14 @@ Other types of atelectasis
 Newborns, particularly premature newborns, or people with acute respiratory distress syndrome (ARDS) can have an uncommon type of atelectasis called patchy atelectasis. Patchy atelectasis happens when you don’t have enough of a protein in your lungs that helps keep them from collapsing (surfactant).
 
 Other types of atelectasis (bibasilar atelectasis, rounded atelectasis, gravity-dependent atelectasis and subsegmental atelectasis) describe the location, appearance or severity of the collapse.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

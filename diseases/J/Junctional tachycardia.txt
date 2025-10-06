@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23216-junctional-tachycardia
 
 Overview
 --------
-Junctional tachycardia is a fast heart rhythm.
-
 What is junctional tachycardia?
 
 Junctional tachycardia (junctional ectopic tachycardia) is a rare heart rhythm that starts from a natural pacemaker, but not the one your heart normally uses.
@@ -26,6 +24,14 @@ Yes, junctional tachycardia is a type of SVT, or supraventricular tachycardia. A
 Who does junctional tachycardia affect?
 
 Junctional tachycardia is rare in adults, but more common in babies and children. It can be from a congenital (present at birth) cause, which is very rare or happen after heart surgery.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

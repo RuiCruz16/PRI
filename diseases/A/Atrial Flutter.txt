@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22885-atrial-flutter
 
 Overview
 --------
-Atrial flutter is a heart rhythm with a very fast heartbeat. This happens because of abnormal electrical signals.
-
 What is atrial flutter?
 
 Atrial flutter is a common type of supraventricular arrhythmia. This means it’s an abnormal heart rhythm that starts in the upper chambers of your heart. With atrial flutter, your heart beats in a fast but consistent pattern. Faulty electrical signals cause this to happen.
@@ -17,6 +15,14 @@ Reverse typical: Abnormal electrical signals move in a clockwise direction in y
 Atypical (not common unless you’ve had heart surgery or ablations before): Abnormal electrical signals can happen in your left or right atrium.
 
 A provider can tell which type of atrial flutter you have based on your electrocardiogram (EKG) results.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

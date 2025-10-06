@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22242-thrombosis
 
 Overview
 --------
-How thrombosis can lead to a blocked blood vessel.
-
 What is thrombosis?
 
 Thrombosis is the formation of a blood clot (thrombus) inside one of your blood vessels or a chamber of your heart. Clots can block blood flow in your blood vessels or break free and travel elsewhere in your body. If a clot gets stuck in a critical location like your lungs or brain, it can disrupt blood flow to that organ and result in a life-threatening emergency. Symptoms vary based on the clot’s location and can include chest pain, trouble breathing and skin changes.
@@ -47,6 +45,14 @@ Coronary artery disease.
 Diabetes.
 Clotting disorders such as antiphospholipid syndrome.
 Tobacco use.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

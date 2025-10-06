@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24808-hypercapnia
 
 Overview
 --------
-Chronic hypercapnia can cause symptoms like headaches, shortness of breath and daytime tiredness. Acute hypercapnia can cause more sudden neurological changes.
-
 What is hypercapnia (hypercarbia)?
 
 Hypercapnia, also called hypercarbia, is when you have too much carbon dioxide (CO2) in your blood. Your body creates CO2 when your cells make energy. Your red blood cells carry it from your organs and tissues to your lungs, where you breathe it out. If your body can’t get rid of carbon dioxide, a waste product, it can build up in your blood.
@@ -16,6 +14,14 @@ IMPORTANT: Acute hypercapnia is a medical emergency and can cause neurological (
 What’s the difference between hypercapnia and hypoxemia?
 
 Hypercapnia is when you have too much carbon dioxide in your blood. Hypoxemia is when you have too little oxygen in your blood. One can lead to another and you can be hypercapnic and hypoxemic at the same time.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

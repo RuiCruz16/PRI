@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21821-gallbladder-polyps
 
 Overview
 --------
-Polyps on the inside wall of the gallbladder
-
 What are gallbladder polyps?
 
 Gallbladder polyps are abnormal growths of tissue that protrude out of the inside mucous lining of your gallbladder. There are a few different kinds, made up of different materials. They are mostly harmless, but they can be a sign of another gallbladder condition. Rarely, they may cause complications such as inflammation, and about 5% of them may become cancerous.
@@ -28,6 +26,14 @@ Adenomyomatosis: An abnormal overgrowth of the gallbladder lining that forms cys
 Adenomas: Benign tumors composed of cells that resemble the lining of the biliary tract, the channel that connects the gallbladder to other organs. They pose a .5% risk of becoming cancerous.
 
 Malignant polyps: These are usually adenocarcinoma, the most common type of cancer that affects the internal organs.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

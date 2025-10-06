@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/wet-macular-degeneration
 
 Overview
 --------
-Leaky blood vessels can seep fluid, separating retinal layers. That’s why macular degeneration causes vision loss.
-
 What is wet macular degeneration?
 
 Wet age-related macular degeneration (WMD) is the advanced form of age-related macular degeneration (ARMD), a condition that can cause permanent central vision loss. WMD is an advanced form of age-related macular degeneration. It happens when age-related changes in your eyes worsen and cause new blood vessels to grow and leak underneath the retina.
@@ -18,6 +16,14 @@ The formal name for this condition is exudative (pronounced either “EX-yoo-dat
 How common is this condition?
 
 Your odds of developing ARMD increase with age, and it’s the leading cause of vision loss for adults over 60. About 10% to 20% of ARMD cases are the wet form, meaning between 10 million and 20 million adults worldwide have WMD. Between 1 and 2 million of those cases are in the U.S.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -119,8 +125,6 @@ There may be other steps you can take to help yourself avoid vision loss from WM
 
 Living With
 -----------
-Learn tips to manage wet age-related macular degeneration.
-
 How do I take care of myself if I have wet macular degeneration?
 
 WMD can be very disruptive once it starts to cause vision loss. It can impact your ability to live independently and go about your usual routine and activities.

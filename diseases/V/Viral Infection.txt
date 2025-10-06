@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24473-viral-infection
 
 Overview
 --------
-Is it a bacterial or viral infection? Learn how to tell the difference and what to do about each so you can feel better faster.
-
 What is a viral infection?
 
 Viral infections are illnesses you get from tiny organisms that use your cells to make more copies of themselves (viruses). Viral infections commonly cause respiratory and digestive illnesses, but viruses can also infect most other parts of your body.
@@ -94,6 +92,14 @@ Are under 5 or over 65.
 Have certain health conditions, like diabetes, asthma, COPD or other chronic lung disease.
 Have a weakened immune system (from HIV/AIDS, cancer or immunosuppressive medications).
 Are pregnant.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16242-atypical-ductal-hyperplasia
 
 Overview
 --------
-Atypical ductal hyperplasia is when you have abnormal cells in your milk ducts. These cells have a higher chance of becoming cancer.
-
 What is atypical ductal hyperplasia?
 
 Atypical ductal hyperplasia (ADH or atypia ductal hyperplasia) is when you have abnormal cells in the lining of the milk ducts in your breasts. Your milk ducts are small tubes that carry milk to your nipples. Typically, the cells in the lining of your milk duct appear lined up in two layers. With ADH, the cells are multi-layer and don’t line up. They appear disorganized or overgrown. The cells themselves are noncancerous (benign). But the cells share some features of ductal carcinoma in situ (DCIS), which is an early-stage breast (Stage 0) cancer. For that reason, ADH cells have a higher-than-average chance of changing into cancer.
@@ -28,6 +26,14 @@ A diagnosis of ADH usually means your healthcare provider will want you to have 
 How common is atypical ductal hyperplasia?
 
 A healthcare provider may find atypical ductal hyperplasia (ADH) in between 5% to 20% of breast biopsies. It’s not cancer but increases your risk of breast cancer up to 20% or 30% depending on the types of irregular cells your provider sees, as well as other risk factors like genetics or having a personal or family history of cancer.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

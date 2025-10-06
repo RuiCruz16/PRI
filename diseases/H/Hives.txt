@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/8630-hives
 
 Overview
 --------
-Hives are a type of allergic reaction that creates itchy bumps on your skin.
-
 What are hives?
 
 Hives are raised red bumps (welts) or splotches on the skin. They’re a type of swelling on the surface of your skin and happen when your body has an allergic reaction. Allergic reactions happen when your immune system comes in contact with an allergen. Allergens are proteins that are harmless to many people but cause an allergic reaction in sensitive people.
@@ -34,6 +32,14 @@ There seems to be a relationship between acute hives and conditions like asthma,
 How common are hives?
 
 Around 20% of the population will get hives at least one time. About 1% to 3% of the population has chronic hives.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

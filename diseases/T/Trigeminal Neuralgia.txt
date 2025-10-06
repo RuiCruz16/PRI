@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15671-trigeminal-neuralgia-tn
 
 Overview
 --------
-Trigeminal neuralgia (TN) causes episodes of intense facial pain that can disrupt your everyday activities.
-
 What is trigeminal neuralgia?
 
 Trigeminal neuralgia (TN) causes episodes of intense facial pain that can disrupt your everyday activities. It typically happens when a blood vessel puts pressure on your trigeminal nerve near your brainstem. This nerve provides sensation to your head and face. Trigeminal neuralgia is a type of neuropathic pain.
@@ -16,6 +14,14 @@ Another name for trigeminal neuralgia is tic douloureux.
 How common is trigeminal neuralgia?
 
 About 150,000 people in the U.S. receive a trigeminal neuralgia diagnosis every year. Females are more likely to develop it than males. Most cases develop after age 50. Trigeminal neuralgia very rarely affects children.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -81,8 +87,6 @@ Your provider may recommend a brain MRI to figure out what exactly is causing TN
 
 Management and Treatment
 ------------------------
-In microvascular decompression, a surgeon moves blood vessels off your trigeminal nerve to ease facial pain.
-
 What is the treatment for trigeminal neuralgia?
 
 Healthcare providers use a combination of medications, surgery and other therapies to treat trigeminal neuralgia. It may take time to find the best approach for you.

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24328-radiation-sickness
 
 Overview
 --------
-Radiation sickness can cause a range of symptoms at first, which include feeling weak, confused, feverish and sick to your stomach.
-
 What is radiation sickness?
 
 Radiation sickness, also known as acute radiation syndrome (ARS) or “radiation poisoning,” is a life-threatening condition that results from prolonged or significant exposure to ionizing radiation. Ionizing radiation is energy used to generate power in manufacturing, industrial and military settings. It’s used in small doses for some medical procedures.
@@ -27,6 +25,14 @@ Hematopoietic syndrome: Affects the formation of all types of blood cells. Hemat
 How common is radiation sickness?
 
 Radiological or nuclear emergencies that can lead to radiation sickness are rare, but they can harm large numbers of people. Catastrophic incidents of radiation exposure in recent memory include the aftermath of the atomic bombings of Japan in WWII and the power plant disaster in Chernobyl in 1986. In addition to the initial deaths, thousands of people later died from radiation-induced cancer.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

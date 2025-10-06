@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22824-iron-deficiency-anemia
 
 Overview
 --------
-Iron-deficiency anemia happens when there aren’t enough healthy red blood cells to carry oxygen throughout your body.
-
 What is iron-deficiency anemia?
 
 Iron-deficiency anemia is a common blood disorder that affects your red blood cells. It’s the most common form of anemia. It happens when there’s a lack of iron in your blood, usually caused by bleeding.
@@ -24,6 +22,14 @@ This occurs in three stages:
 First stage. Iron stores decrease. Your low iron supply hasn’t affected your red blood cells yet.
 Second stage. When iron stores are low, your body alters the way it processes red blood cells. Your bone marrow makes red blood cells without enough hemoglobin.
 Third stage. Hemoglobin drops below the normal range. You may develop signs of iron-deficiency anemia.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

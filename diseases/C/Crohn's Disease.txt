@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/9357-crohns-disease
 
 Overview
 --------
-Learn the common symptoms of Crohn’s disease.
-
 What is Crohn’s disease?
 
 Crohn’s disease is a chronic (lifelong) autoimmune condition that inflames and irritates your digestive tract, most commonly your small and large intestines (colon). Crohn’s disease and ulcerative colitis are the two most common forms of inflammatory bowel disease (IBD).
@@ -25,10 +23,16 @@ How common is Crohn’s disease?
 
 Experts estimate that more than three-quarters of a million people in the U.S. have Crohn’s disease. It affects approximately 6 to 8 million people globally.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Crohn's disease can cause changes in your bowel habits and make you feel fatigued.
-
 What are the signs and symptoms of Crohn’s disease?
 
 Symptoms may develop gradually or come on suddenly. They may be mild to severe. Some people have chronic symptoms until a provider successfully treats them, while others have symptoms that come and go. A “flare” is when symptoms are active.

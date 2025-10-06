@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/3993-bronchitis
 
 Overview
 --------
-When you have bronchitis, your bronchi get inflamed and fill with mucus.
-
 What is bronchitis?
 
 Bronchitis is an inflammation of the airways leading into your lungs.
@@ -39,6 +37,14 @@ Are around smoke, chemicals or toxins in the air.
 How does bronchitis affect my body?
 
 When your airways are irritated, your immune system causes them to swell up and fill with mucus. You cough to try to clear the mucus out. As long as there’s mucus or inflammation in your airways, you’ll keep coughing.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -184,8 +190,6 @@ When should I see you again if symptoms haven’t improved?
 
 Additional Common Questions
 ---------------------------
-Bronchitis vs. Pneumonia: How are they Different?
-
 What’s the difference between bronchitis and pneumonia?
 
 Bronchitis is an inflammation of the airways leading to the lungs. Pneumonia is an inflammation of the lungs themselves.

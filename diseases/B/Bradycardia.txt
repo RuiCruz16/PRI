@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17841-bradycardia
 
 Overview
 --------
-An example of bradycardia on an electrocardiogram.
-
 What is bradycardia?
 
 Bradycardia is a condition where your heart beats fewer than 60 times per minute, which is unusually slow. This condition may be dangerous if it keeps your heart from pumping enough blood to meet your body's needs. However, bradycardia can also happen without causing any harmful effects, especially in very physically active people.
@@ -38,6 +36,14 @@ While bradycardia is a medical condition on its own, it often happens along with
 How does this condition affect my body?
 
 When you have bradycardia, your heart is beating slower than the average adult heart. This becomes a problem when your heart is pumping too slowly to keep up with your body’s demand for oxygen. That lack of blood flow and oxygen affects your entire body, especially your brain and heart.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

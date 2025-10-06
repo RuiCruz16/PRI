@@ -5,6 +5,45 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+(Not available)
+
+What are
+--------
+Infectious diseases are illnesses caused by harmful organisms (pathogens or germs) that get into your body from the outside. Germs that cause infectious diseases include viruses, bacteria, fungi, parasites and, rarely, prions.
+
+We all get infectious diseases. You can get them from breathing in germs (like after someone coughs or sneezes), from bug bites, from contaminated food and from the environment around you. Respiratory infections (like colds, flu and COVID), stomach flu, STIs and even foot fungus are all examples of infectious diseases.
+
+By comparison, noninfectious diseases aren’t caused by germs, but by genetics, anatomical differences or getting older. You can’t get noninfectious diseases from other people, a bug bite or your food. Cancer, diabetes, congestive heart failure and Alzheimer’s disease are all examples of noninfectious diseases.
+
+Types
+
+Types of infectious diseases include:
+
+Viral infections. Viruses are pieces of genetic information (DNA or RNA) inside a protective shell.
+Bacterial infections. Bacteria are single-celled organisms with their instructions written on a small piece of DNA.
+Fungal infections. Fungi live on your body and in the environment around you. When fungi get overgrown or get into places in your body where they shouldn’t be, they can make you sick.
+Parasitic infections. Parasites live off the bodies of other organisms.
+Prion diseases. Prion diseases, also called transmissible spongiform encephalopathies (TSEs), are caused by faulty proteins that make other proteins become faulty, too. Prions are an extremely rare cause of infectious diseases.
+Common infectious diseases
+
+There are hundreds of infectious diseases. Some common ones include:
+
+Common cold
+COVID-19
+Flu
+Hookworms
+HPV (human papillomavirus)
+Norovirus
+Pinworms
+Ringworm(like athlete’s foot)
+RSV (respiratory syncytial virus)
+Strep throat
+Tuberculosis
+
+These affect millions of people across the world each year.
+
 Symptoms and Causes
 -------------------
 Symptoms of infectious diseases
@@ -105,8 +144,6 @@ Outlook / Prognosis
 
 Prevention
 ----------
-James Reason’s Swiss Cheese Model applied to infectious diseases. Each layer of protection lowers your risk.
-
 Can infectious diseases be prevented?
 
 There’s often no single way that’s 100% effective at preventing infectious diseases. But there are many simple habits that can help reduce your risk of an infection. You can think of it as lining up slices of Swiss cheese, a model suggested by James Reason, PhD. Where some slices have holes, other slices give protection. You can add to your layers of protection by:

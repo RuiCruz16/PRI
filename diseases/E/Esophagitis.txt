@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/10138-esophagitis
 
 Overview
 --------
-Acid escaping your stomach into your esophagus can cause esophagitis.
-
 What is esophagitis?
 
 Esophagitis is inflammation in your esophagus, the swallowing tube that runs from your throat down to your stomach. It may feel sore, swollen, raw or burning. Inflammation in your tissues occurs when your immune system has been activated to destroy an infection or allergen or to repair tissue damage. Erosive substances, such as stomach acid and certain medications, can injure your esophagus tissues.
@@ -12,6 +10,14 @@ Esophagitis is inflammation in your esophagus, the swallowing tube that runs fro
 How common is esophagitis?
 
 Chronic acid reflux (GERD) is a common cause of esophagitis. Other types of esophagitis are relatively rare. Esophageal infections are uncommon, except in people who have compromised immune systems.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

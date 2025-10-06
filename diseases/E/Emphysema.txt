@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/9370-emphysema
 
 Overview
 --------
-Emphysema causes the small alveoli in your lungs to break and develop into large air pockets.
-
 What is emphysema?
 
 Emphysema is a lung disease that results from damage to the walls of the alveoli in your lungs. A blockage (obstruction) may develop, which traps air inside your lungs. If you have too much air trapped in your lungs, your chest may appear fuller or have a barrel-chested appearance. With fewer alveoli, less oxygen moves into your bloodstream.
@@ -52,6 +50,14 @@ Stage	Reduction in life expectancy for people who smoke	Reduction in life expect
 2	5.7 years	4.9 years	0.7 years
 3	9.3 years	4.9 years	1.3 years
 4	9.3 years	9.1 years	1.3 years
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

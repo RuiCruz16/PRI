@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22762-distributive-shock
 
 Overview
 --------
-Excessively relaxed blood vessels in distributive shock are unable to deliver enough blood.
-
 What is distributive shock?
 
 Distributive shock or vasodilatory shock is a medical emergency where your body can’t get enough blood to your heart, brain and kidneys. This happens because your blood vessels are extremely dilated (flaccid or relaxed), which brings down your blood pressure and cuts down on how much blood can get to your organs. Often the small blood vessels (capillaries) are leaky in distributive shock, resulting in some fluid loss from the circulation.
@@ -30,6 +28,14 @@ Distributive shock is the most common of the four types of shock, with the other
 How does distributive shock affect my body?
 
 Because of unusually flaccid blood vessels, distributive shock lowers the pressure driving blood flow to your organs and prevents your organs from receiving enough blood to do their jobs. This lack of oxygen and nutrients can make your organs stop working correctly. When your organs fail, it can be fatal.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -164,11 +170,3 @@ Additional Common Questions
 A note from Cleveland Clinic
 ----------------------------
 Distributive shock is a medical emergency that you need to be treated for right away. Getting help quickly is crucial and improves your chances of survival. Be patient with yourself; recovery takes time. While you’re recovering at home, make sure you take the medicines your provider ordered and go to any follow-up appointments.
-
-Medically Reviewed
-
-Last reviewed on 04/16/2022.
-
-Learn more about the Health Library and our editorial process.
-
-References

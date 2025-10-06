@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4342-irritable-bowel-syndrome-ibs
 
 Overview
 --------
-Irritable bowel syndrome, or IBS, causes uncomfortable or painful abdominal symptoms.
-
 What is irritable bowel syndrome (IBS)?
 
 Irritable bowel syndrome (IBS) is a group of symptoms that affect your digestive system. It’s a common but uncomfortable gastrointestinal disease, or condition that affects your intestines.
@@ -27,10 +25,16 @@ It’s very common. Experts estimate that about 10% to 15% of adults in the Unit
 
 It’s the most common disease that gastroenterologists (experts in GI diseases) diagnose.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Irritable bowel syndrome can change your bathroom habits and cause pain in your gut.
-
 What are the symptoms of IBS?
 
 Symptoms of IBS can appear frequently. Or, they may occur during flare-ups. In other words, you don’t always experience symptoms. Instead, symptoms may go away (and you’ll have normal bowel movements). At other times, symptoms return.

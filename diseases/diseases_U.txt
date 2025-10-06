@@ -1,0 +1,60 @@
+UCL (Tommy John) Injury:https://my.clevelandclinic.org/health/diseases/22760-ulnar-collateral-ligament-ucl-injuries
+Ulcerative Colitis:https://my.clevelandclinic.org/health/diseases/10351-ulcerative-colitis
+Ulnar Nerve Entrapment:https://my.clevelandclinic.org/health/diseases/22272-ulnar-nerve-entrapment
+Ultraviolet Radiation and Skin Cancer:https://my.clevelandclinic.org/health/diseases/10985-ultraviolet-radiation
+Umbilical Cord Prolapse:https://my.clevelandclinic.org/health/diseases/12345-umbilical-cord-prolapse
+Umbilical Hernia:https://my.clevelandclinic.org/health/diseases/umbilical-hernia
+Uncombable Hair Syndrome:https://my.clevelandclinic.org/health/diseases/24688-uncombable-hair-syndrome
+Underbite:https://my.clevelandclinic.org/health/diseases/24985-underbite
+Underweight:https://my.clevelandclinic.org/health/diseases/underweight
+Undescended Testicles:https://my.clevelandclinic.org/health/diseases/17594-undescended-testicles
+Undifferentiated Pleomorphic Sarcoma:https://my.clevelandclinic.org/health/diseases/22435-undifferentiated-pleomorphic-sarcoma
+Unexplained Infertility:https://my.clevelandclinic.org/health/diseases/23187-unexplained-infertility
+Unicameral Bone Cyst:https://my.clevelandclinic.org/health/diseases/22412-unicameral-bone-cyst
+Unicornuate Uterus:https://my.clevelandclinic.org/health/diseases/23302-unicornuate-uterus
+Unicuspid Aortic Valve:https://my.clevelandclinic.org/health/diseases/unicuspid-aortic-valve
+Unilateral Hearing Loss (Single-Sided Deafness):https://my.clevelandclinic.org/health/diseases/21625-unilateral-hearing-loss-single-sided-deafness
+Unstable Angina:https://my.clevelandclinic.org/health/diseases/21744-unstable-angina
+Upper Respiratory Infection (URI):https://my.clevelandclinic.org/health/diseases/4022-upper-respiratory-infection
+Urachal Remnant:https://my.clevelandclinic.org/health/diseases/24223-urachal-remnant
+Urea Cycle Disorder:https://my.clevelandclinic.org/health/diseases/23470-urea-cycle-disorder
+Uremia:https://my.clevelandclinic.org/health/diseases/21509-uremia
+Ureteral Obstruction:https://my.clevelandclinic.org/health/diseases/21155-ureteral-obstruction
+Ureteral Stones:https://my.clevelandclinic.org/health/diseases/16514-ureteral-stones
+Ureterocele:https://my.clevelandclinic.org/health/diseases/16322-ureterocele
+Ureteropelvic Junction Obstruction:https://my.clevelandclinic.org/health/diseases/16596-ureteropelvic-junction-obstruction
+Urethral Cancer:https://my.clevelandclinic.org/health/diseases/6223-urethral-cancer
+Urethral Caruncle:https://my.clevelandclinic.org/health/diseases/22621-urethral-caruncle
+Urethral Diverticulum:https://my.clevelandclinic.org/health/diseases/16383-urethral-diverticulum
+Urethral Prolapse:https://my.clevelandclinic.org/health/diseases/24177-urethral-prolapse
+Urethral Stricture:https://my.clevelandclinic.org/health/diseases/urethral-stricture
+Urethral Syndrome:https://my.clevelandclinic.org/health/diseases/24300-urethral-syndrome
+Urethritis:https://my.clevelandclinic.org/health/diseases/22858-urethritis
+Urethrocutaneous Fistula:https://my.clevelandclinic.org/health/diseases/17768-urethrocutaneous-fistula
+Urge Incontinence:https://my.clevelandclinic.org/health/diseases/22161-urge-incontinence
+Uric Acid Stones:https://my.clevelandclinic.org/health/diseases/16378-uric-acid-stones
+Urinary Hesitancy:https://my.clevelandclinic.org/health/diseases/urinary-hesitancy
+Urinary Incontinence:https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence
+Urinary Retention:https://my.clevelandclinic.org/health/diseases/15427-urinary-retention
+Urinary Tract Infection (UTI) in Kids:https://my.clevelandclinic.org/health/diseases/12415-urinary-tract-infection-childrens
+Urinary Tract Infections:https://my.clevelandclinic.org/health/diseases/9135-urinary-tract-infections
+Urine Changes:https://my.clevelandclinic.org/health/diseases/15357-urine-changes
+Urinoma:https://my.clevelandclinic.org/health/diseases/24094-urinoma
+Urogenital Sinus:https://my.clevelandclinic.org/health/diseases/16323-urogenital-sinus
+Urosepsis:https://my.clevelandclinic.org/health/diseases/25008-urosepsis
+Urothelial Carcinoma (Transitional Carcinoma):https://my.clevelandclinic.org/health/diseases/6239-transitional-cell-cancer
+Urticarial Vasculitis:https://my.clevelandclinic.org/health/diseases/25204-urticarial-vasculitis
+Usher Syndrome:https://my.clevelandclinic.org/health/diseases/15046-usher-syndrome
+Uterine Atony:https://my.clevelandclinic.org/health/diseases/24010-uterine-atony
+Uterine Cancer (Endometrial Cancer):https://my.clevelandclinic.org/health/diseases/16409-uterine-cancer
+Uterine Factor Infertility:https://my.clevelandclinic.org/health/diseases/17738-uterine-factor-infertility
+Uterine Fibroids:https://my.clevelandclinic.org/health/diseases/9130-uterine-fibroids
+Uterine Inversion:https://my.clevelandclinic.org/health/diseases/22326-uterine-inversion
+Uterine Polyps:https://my.clevelandclinic.org/health/diseases/14683-uterine-polyps
+Uterine Prolapse:https://my.clevelandclinic.org/health/diseases/16030-uterine-prolapse
+Uterine Rupture:https://my.clevelandclinic.org/health/diseases/24480-uterine-rupture
+Uterine Sarcoma:https://my.clevelandclinic.org/health/diseases/16408-uterine-sarcoma
+Uterine Serous Carcinoma:https://my.clevelandclinic.org/health/diseases/uterine-serous-carcinoma
+Uterus Didelphys:https://my.clevelandclinic.org/health/diseases/23301-uterus-didelphys
+UTI During Pregnancy:https://my.clevelandclinic.org/health/diseases/uti-during-pregnancy
+Uveitis:https://my.clevelandclinic.org/health/diseases/14414-uveitis

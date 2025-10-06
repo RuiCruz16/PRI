@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16755-arteriovenous-malformation-
 
 Overview
 --------
-An arteriovenous malformation is a rare tangle of blood vessels, usually in your brain.
-
 What is an arteriovenous malformation (AVM)?
 
 An arteriovenous malformation (AVM) is an abnormal tangle of blood vessels that looks like a bird’s nest. The tangle is made of arteries that would normally provide blood to your brain and veins that would normally drain blood from brain tissue.
@@ -22,6 +20,14 @@ Peripheral arteriovenous malformations. These can form anywhere in your body’s
 How common are arteriovenous malformations?
 
 Arteriovenous malformations are rare. They’re present in about 1 in 100,000 people. Anyone can be born with an AVM. Providers mainly discover them in people from ages 20 to 40. The risk of symptoms is highest between ages 30 and 50.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

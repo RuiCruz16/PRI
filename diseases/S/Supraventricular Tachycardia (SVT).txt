@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22152-svt-supraventricular-tachyc
 
 Overview
 --------
-Various types of SVT all have a fast heart rate and start in your heart’s upper chambers.
-
 What is supraventricular tachycardia?
 
 Supraventricular tachycardia (SVT) is a fast heart rate that starts in your upper heart chambers. When your heart is beating too fast at rest, it makes it hard to send enough blood to your body. Episodes can go on for seconds to hours.
@@ -24,6 +22,14 @@ AV (atrioventricular) nodal reentrant tachycardia (AVNRT).
 Atrial tachycardia.
 Atrial fibrillation.
 Atrial flutter.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

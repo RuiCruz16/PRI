@@ -5,6 +5,81 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+(Not available)
+
+What are
+--------
+AIDS-defining illnesses (ADIs) are cancers and opportunistic infections that can affect people with advanced HIV (human immunodeficiency virus). Opportunistic infections are ones caused by infectious agents (germs) that wouldn’t normally make you sick but have an opportunity to do so when your immune system is weakened.
+
+Healthcare providers use CD4 cell counts (a type of T cell that HIV destroys) and AIDS-defining illnesses as criteria to stage HIV, or determine how far the illness has progressed. If you have HIV and an AIDS-defining illness, you have stage 3 HIV (AIDS).
+
+For some people, a diagnosis of an AIDS-defining condition leads to an HIV diagnosis. But having an AIDS-defining illness doesn’t mean you have HIV. While some ADIs mostly affect people with HIV or a weakened immune system, many ADIs can affect people who don’t have underlying health conditions.
+
+What are the types of AIDS-defining illnesses?
+
+Types of AIDS-defining illnesses include infectious diseases (like fungal, bacterial, parasitic and viral infections), certain cancers and some neurological conditions.
+
+Fungal infections
+
+AIDS-defining fungal infections include:
+
+Pneumocystis pneumonia (PCP)
+Candidiasis of your bronchi, esophagus, trachea or lungs
+Coccidioidomycosis that’s spread outside of your lungs (disseminated/extrapulmonary)
+Chronic intestinal cryptosporidiosis (lasting more than a month)
+Cryptococcosis in organs other than your lungs (extrapulmonary)
+Histoplasmosis that’s spread outside of your lungs (disseminated/extrapulmonary)
+Bacterial infections
+
+AIDS-defining bacterial infections include:
+
+Tuberculosis (Mycobacterium tuberculosis) in people age 6 and older
+Other Mycobacterium infections, including Mycobacterium kansasii and Mycobacterium avium complex (MAC) that have spread outside of your lungs (disseminated/extrapulmonary)
+Multiple or recurrent bacterial infections in kids younger than age 6
+Recurrent nontyphoid Salmonella septicemia (when a Salmonella infection enters your blood and spreads throughout your body)
+Parasitic infections
+
+AIDS-defining parasitic infections include:
+
+Toxoplasmosis in your brain (except for infants under 1 month old)
+Chronic intestinal cystoisosporiasis that lasts more than a month
+Viral infections
+
+AIDS-defining viral infections include:
+
+Herpes simplex bronchitis, pneumonitis or esophagitis (except for infants under 1 month old)
+Herpes simplex ulcers that last longer than a month
+Cytomegalovirus disease (in organs other than your liver, spleen or lymph nodes), including cytomegalovirus retinitis (except for infants under 1 month old)
+Progressive multifocal leukoencephalopathy
+Cancers
+
+Low T cell counts can put you at higher risk for cancers caused by viruses or ones that affect your immune system. AIDS-defining cancers in people with HIV include:
+
+Kaposi sarcoma
+Burkitt lymphoma
+Invasive cervical cancer
+Immunoblastic lymphoma
+Primary lymphoma of the brain
+Other conditions
+
+Other AIDS-defining conditions include:
+
+Recurrent pneumonia (in adults and kids age 6 and older). Pneumonia is a lung infection that can be caused by viruses, bacteria or fungi.
+HIV encephalopathy. This is when HIV affects your brain’s ability to function.
+HIV wasting syndrome. Wasting syndrome causes weight loss and weakness.
+What are the most common AIDS-defining illnesses?
+
+The most common AIDS-defining illnesses include:
+
+Pneumocystis pneumonia
+Kaposi sarcoma
+HIV wasting syndrome
+Esophageal candidiasis
+Mycobacterium avium complex infections
+Tuberculosis
+
 Symptoms and Causes
 -------------------
 What are the symptoms of AIDS-defining illnesses?

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17195-lynch-syndrome-and-hnpcc
 
 Overview
 --------
-Lynch syndrome puts you at a high risk of developing cancer because your mismatch repair gene doesn’t have the tools to fix changes to your DNA.
-
 What is Lynch syndrome?
 
 Lynch syndrome is a genetic condition that increases your risk of developing cancer. People diagnosed with Lynch syndrome are more likely to get cancer before 50 years of age.
@@ -16,6 +14,14 @@ Lynch syndrome can affect anyone since it’s the result of a genetic mutation. 
 How common is Lynch syndrome?
 
 Lynch syndrome occurs in approximately one in 279 individuals in the United States. An estimated 4,000 cases of colorectal cancer and 1,800 cases of uterine (endometrial) cancer result from Lynch syndrome each year.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

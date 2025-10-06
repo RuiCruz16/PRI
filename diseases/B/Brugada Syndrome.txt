@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16813-brugada-syndrome
 
 Overview
 --------
-If you have Brugada syndrome, your EKG pattern will look abnormal in the “ST” part of the wave.
-
 What is Brugada syndrome?
 
 Brugada syndrome is a disease that can cause an abnormal rhythm in your heart’s lower chambers (ventricles). This irregular heart rhythm, ventricular fibrillation (v-fib), prevents your heart from pumping blood to your brain. When this happens, you faint.
@@ -12,6 +10,14 @@ Brugada syndrome is a disease that can cause an abnormal rhythm in your heart’
 V-fib can lead to sudden cardiac death. This often happens while you’re at rest or asleep. Out of all the sudden cardiac deaths that happen, researchers blame Brugada syndrome for 4% of them.
 
 Brugada syndrome is rare. About 3 to 5 people in 10,000 have the condition.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

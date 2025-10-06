@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22213-metastasis-metastatic-cance
 
 Overview
 --------
-Metastatic cancer spreads through your blood or lymph system.
-
 What is metastasis?
 
 Metastasis is when cancer spreads beyond the place where it started to other areas of your body. Nearly all cancers have the potential to metastasize. But whether they do depends on several factors — like the type, size and location of the primary tumor (where the cancer originated).
@@ -46,6 +44,14 @@ Liver.
 Lungs.
 Lymph nodes.
 Peritoneum.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

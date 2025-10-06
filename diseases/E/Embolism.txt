@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/embolism
 
 Overview
 --------
-An embolism is a blood vessel blockage from a blood clot that came from somewhere else in your body.
-
 What is an embolism?
 
 An embolism is a blockage in your blood vessel — usually from a blood clot that started elsewhere. Other substances that can move around your body can travel away from where they started and block a blood vessel, too.
@@ -32,6 +30,14 @@ Embolisms are common. About 900,000 people a year get a venous thromboembolism d
 Pulmonary embolisms are the world’s third leading cause of cardiovascular (heart and blood vessel) death. (Strokes and heart attacks are the top two causes.)
 
 Venous thromboembolism is more common than arterial thromboembolism.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

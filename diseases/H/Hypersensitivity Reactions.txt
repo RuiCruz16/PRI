@@ -5,6 +5,79 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+(Not available)
+
+What are
+--------
+Hypersensitivity reactions happen when your immune system attacks something that it mistakenly thinks is harmful. These can be your own cells and tissues or foreign substances, like pollen, food or medications.
+
+There are four types of hypersensitivity reactions, which can range from mild allergies to life-threatening emergencies. Hypersensitivities can also cause long-term conditions, like autoimmune diseases.
+
+It might not seem like an itchy poison ivy rash, lupus and asthma have much in common. But they all happen because your immune system makes a mistake. Your body typically protects you from things that might cause harm. It recognizes unique labels on your own cells and anything that comes from outside your body. These labels — called antigens — let it know when something is harmful so it can destroy it.
+
+But sometimes, immune cells or antibodies mistakenly cause your body to attack antigens that aren’t harmful. This can lead to allergic reactions or damage to healthy tissue.
+
+Types of hypersensitivity reactions
+
+There are four types of hypersensitivity reactions:
+
+Type I, or IgE-mediated reactions (IgE is an antibody that causes allergic reactions)
+Type II, or cytotoxic hypersensitivity
+Type III, or immune complex hypersensitivity
+Type IV, or cell-mediated hypersensitivity
+Type I hypersensitivity reactions
+
+Type I hypersensitivities are what we think of as “true” allergies. When something foreign — like pollen, food or medication — first enters your body from the outside, you become sensitized to it. Your body decides it’s harmful (an allergen) and creates IgE antibodies that wait on mast cells.
+
+If the antibodies encounter an allergen a second time, they cause your mast cells to release histamine and other inflammatory chemicals that lead to allergic reactions. This reaction happens quickly (usually within minutes) after the second exposure. Type I hypersensitivity reactions are also called IgE-mediated reactions.
+
+Examples of type I hypersensitivity reactions include:
+
+Allergic rhinitis, also called seasonal allergies or hay fever
+Food allergies
+Drug allergies
+Allergic asthma
+Anaphylaxis — a severe, whole-body, and potentially life-threatening reaction
+Type II hypersensitivity reactions
+
+Type II hypersensitivity reactions, or cytotoxic hypersensitivity, often destroy healthy cells and tissue. In most type II reactions, an antibody recognizes something on your cells’ surface that it thinks is harmful. This could be part of your body or something foreign (like a part of a medication) that’s attached to your cells. It signals your immune system to attack your own cells. In some cases of type II hypersensitivity, your cells aren’t destroyed. Instead, antibodies cause problems by attaching to your cells when they shouldn’t. This can block the cells from getting signals they need to work properly or activate cells when they shouldn’t be activated.
+
+Examples of type II hypersensitivity reactions include:
+
+Hemolytic blood transfusion reactions (like when you receive a blood type that doesn’t match your own)
+Rh incompatibility
+Autoimmune hemolytic anemia
+Rheumatic fever
+Goodpasture syndrome
+Myasthenia gravis
+Type III hypersensitivity reactions
+
+Type III hypersensitivity reactions happen when antibodies attach to antigens floating freely in your blood (not attached to a cell). This creates antigen-antibody complexes (or immune complexes). These settle into your blood vessels and tissues, where they attract immune cells. The immune cells try to destroy them, causing inflammation.
+
+Type III hypersensitivities often cause or contribute to autoimmune diseases. They’re also called immune complex hypersensitivity.
+
+Examples of type III hypersensitivity reactions include:
+
+Lupus
+Rheumatoid arthritis
+Serum sickness
+Arthus reaction
+Type IV hypersensitivity reactions
+
+Type IV hypersensitivity reactions, also called cell-mediated hypersensitivities, are a bit like delayed allergic reactions. They usually develop over 48 to 72 hours after exposure, but can also take longer.
+
+Unlike the other three types, antibodies don’t cause them. They happen as part of your adaptive immune system. Your body’s T-cells recognize an antigen, destroy healthy cells and cause inflammation. Most type IV hypersensitivities cause skin reactions.
+
+Examples of type IV hypersensitivity reactions include:
+
+Contact dermatitis (like poison ivy reactions and some types of latex allergies)
+Certain types of drug reactions, like Stevens-Johnson syndrome and toxic epidermal necrolysis (TEN)
+Autoimmune diseases, like Type 1 diabetes and multiple sclerosis
+
+Many types of infectious diseases can also lead to type IV hypersensitivities, like tuberculosis (TB). Skin tests for these diseases are positive if you have a delayed hypersensitivity skin reaction.
+
 Symptoms and Causes
 -------------------
 Symptoms of hypersensitivity reactions

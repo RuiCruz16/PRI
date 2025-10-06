@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22206-insulin-resistance
 
 Overview
 --------
-Learn about insulin resistance and what insulin does in your body.
-
 What is insulin resistance?
 
 Insulin resistance happens when cells in your muscles, fat and liver don’t respond to insulin as they should. This is also known as impaired insulin sensitivity. Insulin is essential for life and regulating blood glucose (sugar) levels.
@@ -30,10 +28,16 @@ Having a family history of insulin resistance (family members with prediabetes, 
 
 People who have prediabetes and Type 2 diabetes usually have insulin resistance. People with Type 1 diabetes can also experience insulin resistance.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Signs of insulin resistance can include skin tags, discolored patches of skin or changes to your weight.
-
 What are the symptoms of insulin resistance?
 
 If you have insulin resistance, but your pancreas can increase insulin production to keep your blood sugar levels in range, you won’t have any symptoms.

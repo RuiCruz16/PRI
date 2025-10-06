@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16911-deep-vein-thrombosis-dvt
 
 Overview
 --------
-A blood clot, or deep vein thrombosis (DVT), developing inside a leg vein.
-
 What is deep vein thrombosis?
 
 Deep vein thrombosis (DVT, also called venous thrombosis) occurs when a thrombus (blood clot) develops in veins deep in your body because your veins are injured or the blood flowing through them is too sluggish. The blood clots may partially or completely block blood flow through your vein. Most DVTs happen in your lower leg, thigh or pelvis, but they also can occur in other parts of your body including your arm, brain, intestines, liver or kidney.
@@ -29,6 +27,14 @@ A superficial venous thrombosis (also called phlebitis or superficial thrombophl
 How common is deep vein thrombosis?
 
 Each year, approximately 1 to 3 in every 1,000 adults develop a DVT or pulmonary embolism in the United States, and up to 300,000 people die each year as a result of DVT/PE. It’s the third most common vascular disease, behind heart attacks and strokes. Acute DVT/PE can occur at any age, but are less common in children and adolescents and more common in those over the age of 60. More than half of all DVTs happen as a result of being in the hospital from a medical illness or following surgery. The reason why DVTs are more common after a hospital stay is because you’re lying in bed most of the time instead of moving around like you normally would.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

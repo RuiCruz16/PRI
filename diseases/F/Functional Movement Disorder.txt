@@ -5,6 +5,18 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Functional movement disorder (FMD) is a condition that affects how your brain controls movement. It happens when your brain has trouble sending and receiving signals correctly. This can cause movements that feel out of your control (involuntary), such as shaking, jerking, twisting, spasms, slowness or difficulty walking.
+
+These abnormal movements aren’t caused by damage to your brain, spinal cord or nerves. In fact, brain scans and blood tests often come back normal. However, this doesn’t mean nothing is wrong or that the condition isn’t real. The problem lies in how your brain processes movement signals. This is similar to a computer with fully working hardware but malfunctioning software.
+
+Functional movement disorder is one of many subtypes of functional neurological disorder (FND).
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of functional movement disorder
@@ -145,11 +157,3 @@ Additional Common Questions
 A note from Cleveland Clinic
 ----------------------------
 If you have functional movement disorder or your healthcare provider tells you they suspect it, it’s common to feel confused or worried about what that means. If you have complex feelings about the diagnosis, be sure to express them to your provider. Your provider’s job is to help you, not to judge you. Your provider understands your worries and fears. They can try to help set your mind at ease by listening and offering support and solutions.
-
-Medically Reviewed
-
-Last reviewed on 03/12/2025.
-
-Learn more about the Health Library and our editorial process.
-
-References

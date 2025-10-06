@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23287-left-bundle-branch-block
 
 Overview
 --------
-A left bundle branch block is when something blocks or disrupts the electrical impulse that causes your heart to beat.
-
 What is left bundle branch block?
 
 Left bundle branch block (LBBB) occurs when something blocks or disrupts the electrical impulse that causes your heart to beat. This block leads to an abnormal heart rhythm. A diagnosis of left bundle branch block often means that you have an underlying heart condition.
@@ -28,6 +26,14 @@ Left bundle branch block doesn’t go away once you have it. However, some peopl
 What is an incomplete left bundle branch block?
 
 An incomplete left bundle branch block is a partial block of the electrical impulses. It may mean that you could develop LBBB.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

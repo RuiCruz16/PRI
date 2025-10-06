@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15802-pulmonary-embolism-who-is-a
 
 Overview
 --------
-A pulmonary embolism starts as a blood clot in your leg and moves to your lung.
-
 What is a pulmonary embolism?
 
 A pulmonary embolism (PE) is a blood clot in one of the blood vessels in your lung. This happens when a clot in another part of your body (often your leg or arm) moves through your veins to your lung. A PE restricts blood flow to your lungs, lowers oxygen levels in your lungs and increases blood pressure in your pulmonary arteries.
@@ -22,6 +20,14 @@ With timely diagnosis and treatment, a PE is seldom fatal.
 How common is a pulmonary embolism?
 
 Pulmonary embolism is one of the most common heart and blood vessel diseases in the world. It ranks third behind heart attack and stroke. In the United States, about 900,000 people a year get a PE.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

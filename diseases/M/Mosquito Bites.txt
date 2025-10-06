@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17695-mosquito-bites
 
 Overview
 --------
-A mosquito bite featuring a raised bump and a dark spot in the center.
-
 What are mosquito bites?
 
 Mosquito bites are small, raised bumps on the skin resulting from a female mosquito feeding on human blood.
@@ -52,6 +50,14 @@ Blood type.
 Body temperature.
 Visiting a region with active mosquito-transmitted diseases.
 Spending time near stagnant water.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

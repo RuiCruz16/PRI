@@ -24,17 +24,59 @@ Dizziness
 Nausea
 Fatigue
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-(Not available)
+What’s the most common cause of stable angina?
+Coronary artery disease causes most cases of stable angina. Other causes include:
+
+Heart failure
+Problems with your heart valves
+Problems with your heart rhythm
+Hyperthyroidism
+Anemia
+Common triggers for a stable angina episode include physical exertion, stress, strong emotions and sudden changes in the temperature around you (like going into a very hot or cold room).
 
 Diagnosis and Tests
 -------------------
-(Not available)
+When should I see a healthcare provider?
+Stable angina isn’t something you can manage alone. If you’re having chest discomfort for the first time, seek medical care right away. Your provider will do a physical exam. They may also do tests, including:
+
+Blood tests
+EKG
+Stress test
+Coronary angiography
+CT scan
+These tests help your provider diagnose the problem and plan your treatment.
+
+If you’ve been diagnosed with stable angina, your provider will tell you how to treat it at home and when to seek care.
+When to go to the ER
+You should call 911 or your local emergency services number if:
+
+The nitroglycerin you took doesn’t help (your provider will tell you how many doses to take before seeking care)
+The pain you had comes back or gets worse
+The chest pain you’re having feels different from usual
 
 Management and Treatment
 ------------------------
-(Not available)
+How is stable angina treated?
+When you first notice an episode of stable angina starting, you should:
+
+Stop what you’re doing
+Sit down and rest
+Take nitroglycerin if your provider prescribes it for you
+Resting and taking your medicine should make stable angina go away within five minutes. If not, you may need to take another dose of medicine. Your provider will tell you how many doses you should take before seeking medical care. Follow their guidance closely.
+
+To help prevent stable angina from happening again, your provider may prescribe other medicines for you to take. These may include beta-blockers, extended-release nitroglycerin or ranolazine.
+
+You may also need treatment for the condition that’s causing your angina. For example, if you have coronary artery disease, you may need stents or bypass surgery. Your provider will explain your treatment options, along with the benefits and risks.
 
 Outlook / Prognosis
 -------------------
@@ -42,7 +84,14 @@ Outlook / Prognosis
 
 Prevention
 ----------
-(Not available)
+Can this symptom be prevented?
+The best way to prevent stable angina is to lower your risk of coronary artery disease. If possible, start working with a preventive cardiologist early in life. This is especially important if heart disease runs in your biological family. Your provider will help you find ways to lower your risk. These include:
+
+Eating heart-healthy meals
+Getting enough physical activity each day
+Taking medicine to manage conditions like high blood pressure, high cholesterol and diabetes
+Not smoking or vaping
+Finding healthy ways to relieve stress
 
 Living With
 -----------

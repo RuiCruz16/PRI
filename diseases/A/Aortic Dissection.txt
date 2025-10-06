@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16743-aortic-dissection
 
 Overview
 --------
-An aortic dissection is a life-threatening tear in your aorta’s inner layer. Blood goes between your aorta wall’s layers.
-
 What is aortic dissection?
 
 An aortic dissection is a tear in your aorta. This is the main artery that carries oxygen-rich blood away from your heart to the rest of your body. It runs through your chest and abdomen and down to your legs. A rare condition, an aortic dissection begins abruptly when a tear happens in the inner layer of a weakened area of your aorta. Blood surges through the tear, causing the inner and middle layers (your aorta wall has three) to separate (dissect).
@@ -23,6 +21,14 @@ Stanford Type A Aortic Dissection: This type starts in the first (upper) part o
 Stanford Type B Aortic Dissection: This type begins farther down your aorta (descending aorta beyond the arch), and farther from your heart. Like the Type A dissection, this usually extends from the descending aorta into your abdominal aorta. But it doesn’t involve the first part of the aorta. You may or may not need surgery right away, depending on where the dissection is and whether it’s cutting off blood flow to your organs.
 
 Healthcare providers also use the DeBakey classification system, which has three types. Type 1 starts in your ascending aorta and extends through your descending aorta. Type 2 starts in and is limited to the ascending aorta (both would be considered Stanford Type A). Type 3 starts in your descending aorta and extends downward (like Type B).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

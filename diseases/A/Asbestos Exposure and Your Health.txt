@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/11394-asbestos-exposure-and-your-
 
 Overview
 --------
-Asbestosis is a lung disease that can happen when a person inhales asbestos fibers. It causes breathing difficulties, cough and other symptoms.
-
 What is asbestosis?
 
 Asbestosis is a lung disease that occurs in people who inhale asbestos fibers and dust over a long period of time. Asbestos is a mineral that forms tiny and long-lasting fibers when it’s in the air. People in certain industries and occupations like construction, manufacturing, mining, milling, mechanics and electricians (especially those who worked before the 1970s) are most at risk for asbestosis. People who remove asbestos products are also at risk, as are people who served in the Navy on ships where asbestos was in use.
@@ -37,6 +35,14 @@ According to the World Health Organization (WHO), millions of people face exposu
 Interstitial lung disease (ILD).
 Pleural effusion.
 Certain kinds of lung cancer, including pleural mesothelioma.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

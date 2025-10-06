@@ -23,6 +23,8 @@ COLUMNS = [
 # All possible top-level section headers found in the files
 SECTION_HEADERS = [
     "Overview",
+    "What is",
+    "What are",
     "Symptoms and Causes",
     "Diagnosis and Tests",
     "Management and Treatment",
@@ -135,6 +137,15 @@ def parse_file(path: str):
 
     # Extract fields
     overview = section_map["Overview"]
+    if not overview or overview == "(Not available)":
+        what_is = section_map["What is"]
+        if what_is and what_is != "(Not available)":
+            overview = what_is
+        else:
+            what_are = section_map["What are"]
+            if what_are and what_are != "(Not available)":
+                overview = what_are
+    
     sc_text = section_map["Symptoms and Causes"]
     symptoms, causes = extract_symptoms_and_causes(sc_text) if sc_text else ("", "")
     diagnosis = section_map["Diagnosis and Tests"]
@@ -188,8 +199,8 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "-o", "--output-csv",
-        default="medical_topics.csv",
-        help="Output CSV filename (default: medical_topics.csv)"
+        default="diseases_dataset.csv",
+        help="Output CSV filename (default: diseases_dataset.csv)"
     )
     args = parser.parse_args()
     main(args.input_dir, args.output_csv)

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/9012-gestational-diabetes
 
 Overview
 --------
-Gestational diabetes is a type of diabetes that happens during pregnancy. It may not cause any symptoms. You’ll have a screening for gestational diabetes during pregnancy.
-
 What is gestational diabetes?
 
 Gestational diabetes (GD or GDM) is a type of diabetes that develops exclusively in pregnancy when blood sugar levels get too high (hyperglycemia). It happens when the hormones from the placenta block your ability to use or make insulin. Insulin helps your body maintain the right amount of glucose in your blood. Too much glucose in your blood can lead to pregnancy complications. GD usually appears during the middle of pregnancy, between 24 and 28 weeks. Your pregnancy care provider will order a blood test to check for gestational diabetes.
@@ -26,6 +24,14 @@ Rate of gestational diabetes U.S. and worldwide
 The rate of gestational diabetes in the United States is rising. According to the U.S. Centers for Disease Control and Prevention (CDC), about 8% to 10% of pregnant women will develop GD.
 
 The rate of gestational diabetes worldwide, on average, is between 14% and 17%. Other factors can contribute to rates being higher, such as age, race/ethnicity, access to prenatal care and geography.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

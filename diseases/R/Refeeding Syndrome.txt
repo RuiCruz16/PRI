@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23228-refeeding-syndrome
 
 Overview
 --------
-Refeeding syndrome can show up in many ways in your body.
-
 What is refeeding syndrome?
 
 Refeeding syndrome can happen when somebody who is malnourished begins feeding again. Malnourished means your body is deprived of nutrients. When your body tries to metabolize nutrients again, severe shifts — related to electrolyte deficiencies — can occur in your body’s chemistry. They can cause dangerous complications, affecting your muscles, lungs, heart and brain.
@@ -27,6 +25,14 @@ How does refeeding syndrome happen?
 When your body is starved for nutrients, it makes certain changes to adapt. It changes its metabolism — the way it converts food into energy. Instead of carbohydrates from food, your body metabolizes its own fat and muscle. Metabolism also slows down. Your resting metabolic rate — how much energy you spend while at rest — reduces by as much as 20%.
 
 This type of metabolism takes fewer resources. It doesn't use micronutrients — vitamins, minerals and electrolytes — the way normal metabolism does. But when refeeding begins, so does normal carbohydrate metabolism. Your body reaches deep into its pockets for the micronutrients it needs to get the job done. If your stores are too low, now is when you will feel the effects.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -152,11 +158,3 @@ Additional Common Questions
 A note from Cleveland Clinic
 ----------------------------
 Refeeding syndrome is a complication of treatment for malnourishment. This is already a stressful condition for your body to endure. It may seem counterintuitive, but too much cure too quickly can be harmful. Refeeding is a delicate and complex process. Ideally, it should be medically supervised. During medical refeeding, your healthcare team will monitor you closely. They’ll work to prevent refeeding syndrome and will be prepared to manage it if needed.
-
-Medically Reviewed
-
-Last reviewed on 06/06/2022.
-
-Learn more about the Health Library and our editorial process.
-
-References

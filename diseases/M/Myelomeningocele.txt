@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22813-myelomeningocele
 
 Overview
 --------
-Myelomeningocele results in a fluid-filled sac that protrudes from your baby’s back that contains part of their spinal cord, nerves and cerebrospinal fluid.
-
 What is myelomeningocele?
 
 Myelomeningocele (also known as open spina bifida) is a congenital condition (birth defect) in which your child’s backbone (spine) and spinal canal don’t close before birth. It’s a type of neural tube defect (NTD). Myelomeningocele is pronounced MY-eh-lo-men-IN-go-seal.
@@ -51,6 +49,14 @@ Myelomeningocele can affect any fetus. While scientists are unsure of the exact 
 How common is myelomeningocele?
 
 Myelomeningocele is the most common central nervous system congenital condition, occurring in approximately 1,645 births every year in the United States.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -197,11 +203,3 @@ Additional Common Questions
 A note from Cleveland Clinic
 ----------------------------
 Learning that your baby has a serious medical condition can feel overwhelming. Know that you’re not alone — many resources are available to help you and your family. It’s important that you speak with a healthcare provider who’s very familiar with myelomeningocele so you can learn more about how your baby will be affected and how to prepare.
-
-Medically Reviewed
-
-Last reviewed on 04/19/2022.
-
-Learn more about the Health Library and our editorial process.
-
-References

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17927-spinal-headaches
 
 Overview
 --------
-Leakage of cerebrospinal fluid can cause the tissues and nerves that support your brain to stretch, resulting in headache pain.
-
 What is a spinal headache?
 
 A spinal headache is an intense headache that happens when the amount of cerebrospinal fluid (CSF) around your brain decreases. It can result from a spinal tap (lumbar puncture) or if CSF leaks out due to a cyst or tear in the meninges that cover your spinal cord.
@@ -21,6 +19,14 @@ Low-pressure headaches.
 How common are spinal headaches?
 
 Studies show that a spinal headache develops in approximately 10% to 40% of lumbar puncture procedures.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

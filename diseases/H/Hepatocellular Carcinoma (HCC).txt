@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21709-hepatocellular-carcinoma-hc
 
 Overview
 --------
-Hepatocellular carcinoma, the most common form of liver cancer, is a fast-growing cancer.
-
 What is hepatocellular carcinoma (HCC)?
 
 Hepatocellular carcinoma is the most common form of liver cancer. It’s an aggressive (fast-growing) cancer most common in people with advanced liver disease, like cirrhosis of the liver. Increasingly, people diagnosed with HCC have a liver condition that sometimes leads to cirrhosis called metabolic dysfunction-associated steatotic liver disease (MASLD).
@@ -18,6 +16,14 @@ How common is HCC?
 HCC accounts for about 85% to 90% of all primary liver cancers. “Primary” means the cancer starts in your liver (as opposed to spreading to your liver, as with metastatic cancer). It’s the sixth most common type of cancer diagnosis and the third leading cause of cancer-related deaths.
 
 HCC is two to three times more common in men. Most people diagnosed are 60 or older.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

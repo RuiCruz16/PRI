@@ -5,6 +5,29 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Lung disease is a general term for health conditions that affect your airways (tubes leading into your lungs) or tissue that makes up your lungs. Common lung diseases include asthma and COPD (chronic obstructive pulmonary disease). Cardiovascular diseases that affect your lungs — like pulmonary hypertension and pulmonary embolism — are also sometimes considered lung diseases.
+
+Most lung diseases are long-term (chronic). You may be born with one (like cystic fibrosis) or you might develop one later in life (like COPD). A few lung diseases, like infections, are short-term and can be cured.
+
+Types of lung disease
+
+Examples of lung diseases include:
+
+Asthma, a condition that causes inflammation and narrows your airways
+Bronchiectasis, a condition where your airways widen and form pouches
+COPD (including emphysema), airway damage that makes it hard to breathe
+Cystic fibrosis, a pancreatic disease that affects your lungs
+Infections, like pneumonia and tuberculosis
+Pulmonary fibrosis and other types of interstitial lung disease, conditions that damage your lung tissue and can get worse over time
+Lung cancers, like non-small cell lung cancer, small cell lung cancer and mesothelioma
+Lymphangioleiomyomatosis (LAM), a disease that causes cysts in your lungs
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of lung disease
@@ -107,11 +130,3 @@ Additional Common Questions
 A note from Cleveland Clinic
 ----------------------------
 Most lung diseases don’t have a quick fix. But there are often ways to improve your symptoms and your quality of life by working closely with your healthcare provider. It can help to ask them what to expect and what symptoms to look out for. Don’t hesitate to talk to them about any concerns you have.
-
-Medically Reviewed
-
-Last reviewed on 06/18/2025.
-
-Learn more about the Health Library and our editorial process.
-
-References

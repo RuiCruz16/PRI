@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17056-heart-block
 
 Overview
 --------
-Heart block keeps heartbeat signals from reaching your heart’s lower chambers on time, every time or at all.
-
 What is heart block?
 
 Heart block is an issue with a heartbeat signal traveling from the top chambers of your heart to the bottom chambers of your heart. Normally, electrical signals (impulses) travel from your heart’s upper chambers (atria) to your lower chambers (ventricles). The signal moves through your AV node, a cluster of cells that link the electrical activity from your top to bottom chambers. If you have heart block, the signal only makes it to your ventricles some of the time, if at all.
@@ -27,6 +25,14 @@ Type I, also called Mobitz Type I or Wenckebach’s AV block: This is a less se
 Type II, also called Mobitz Type II: While most of the electrical signals reach your ventricles, every so often, some don’t. Your heartbeat becomes irregular and slower than normal. This form of second-degree heart block is more serious and may warrant a pacemaker.
 
 Third-degree heart block: This is a complete blockage of the electrical signal from your atria to your ventricles. Third-degree block negatively affects your heart’s ability to pump blood out to your body. This form of heart block is serious and usually requires a pacemaker for treatment.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

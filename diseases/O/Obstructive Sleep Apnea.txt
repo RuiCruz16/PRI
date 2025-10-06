@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24443-obstructive-sleep-apnea-osa
 
 Overview
 --------
-Obstructive sleep apnea can lead to potentially life-threatening complications.
-
 What is obstructive sleep apnea?
 
 Obstructive sleep apnea (OSA) is a condition where a blockage or narrowing in your airway keeps air from moving through your windpipe when you’re asleep.
@@ -18,6 +16,14 @@ A healthcare provider can help you manage symptoms of OSA.
 How common is obstructive sleep apnea?
 
 OSA affects up to 1 billion people around the world who are between the ages of 30 and 69.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

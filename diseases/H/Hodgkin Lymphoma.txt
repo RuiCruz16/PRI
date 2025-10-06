@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/6206-hodgkin-lymphoma
 
 Overview
 --------
-Symptoms of Hodgkin lymphoma vary based on where the lymphoma (cancer) cells are.
-
 What is Hodgkin lymphoma?
 
 Hodgkin lymphoma, once known as Hodgkin disease, is a group of blood cancers that develop in your lymphatic system. It’s one of two main types of lymphoma. The other type is non-Hodgkin lymphoma. These cancers affect important white blood cells in your immune system called lymphocytes.
@@ -26,6 +24,14 @@ How common is Hodgkin lymphoma?
 Hodgkin lymphoma is rare, affecting about 3 in 100,000 people each year. However, Hodgkin lymphomas are the most common cancers in teens between 15 and 19 and young adults.
 
 Hodgkin lymphoma is much less common than non-Hodgkin lymphoma.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

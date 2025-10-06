@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16749-arrhythmia
 
 Overview
 --------
-An arrhythmia disrupts the way heartbeat signals normally travel through your heart.
-
 What is arrhythmia?
 
 An arrhythmia (also called dysrhythmia) is an abnormal heartbeat. Arrhythmias can start in different parts of your heart and they can be too fast, too slow or just irregular.
@@ -25,6 +23,14 @@ Bradyarrhythmias and junctional rhythms: These can happen because of issues in y
 How common is arrhythmia?
 
 An estimated 1.5% to 5% of people have arrhythmias. However, some people don’t have symptoms, making it difficult to estimate how many people actually have arrhythmias. In the U.S., atrial fibrillation is the most common type of arrhythmia.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

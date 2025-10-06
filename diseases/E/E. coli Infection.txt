@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16638-e-coli-infection
 
 Overview
 --------
-Most people associate E. coli with digestive symptoms. Outbreaks sometimes cause severe illness, including bloody diarrhea.
-
 What is E. coli?
 
 Escherichia coli (E. coli) is a group of bacteria that normally lives in the gut (gastrointestinal/GI tract) of healthy people and animals. The type that lives in your GI tract usually doesn’t hurt you — it even helps you digest your food. But under certain circumstances, many strains (types) of E. coli can make you sick. Many of the strains that cause infection can adhere (stick) to your cells and release toxins.
@@ -29,6 +27,14 @@ Meningitis (rare).
 How common are E. coli infections?
 
 There are about 265,000 Shiga toxin-producing E. coli (STEC) infections each year in the U.S. STEC is the most common cause of E. coli outbreaks and serious illness from E. coli in the U.S.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22473-sinus-bradycardia
 
 Overview
 --------
-An electrocardiogram example of sinus bradycardia.
-
 What is sinus bradycardia?
 
 Sinus bradycardia is a heart rhythm that’s slower than expected (fewer than 60 beats per minute in an adult) but is otherwise normal. It’s sometimes a symptom of certain heart conditions or problems, but it can also be a sign that a person is in very good shape because of regular exercise.
@@ -32,6 +30,14 @@ How does this condition affect my body?
 Most people with sinus bradycardia don’t have symptoms, making this a benign (harmless) condition. Many people may not even know their heart rate is under 60 beats per minute unless they have a reason to check their pulse.
 
 For people who have symptoms, sinus bradycardia is a sign that their body isn’t pumping enough blood. That means their brain and body aren’t getting enough oxygen, and that lack is the usual driving force behind symptoms.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

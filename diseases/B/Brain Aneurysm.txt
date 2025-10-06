@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16800-brain-aneurysm
 
 Overview
 --------
-A brain aneurysm, also called a cerebral aneurysm, is a bulge in a weak area of an artery in or around your brain.
-
 What is a brain aneurysm?
 
 A brain aneurysm, also called a cerebral aneurysm, is a bulge in a weak area of an artery in or around your brain. The constant pressure of blood flow pushes the weakened section outward, creating a blister-like bump.
@@ -39,10 +37,16 @@ How common are brain aneurysms?
 
 Up to 6% of people in the U.S. have an aneurysm in their brain that isn’t bleeding (an unruptured aneurysm). Ruptured brain aneurysms are less common. They occur in approximately 30,000 people in the U.S. per year.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Call 911 or get to the nearest emergency room as soon as possible if you have these symptoms.
-
 What are the symptoms of a brain aneurysm?
 
 Brain aneurysm symptoms vary based on whether it’s unruptured or ruptured.
@@ -134,8 +138,6 @@ Cerebrospinal fluid (CSF) analysis: This test measures the substances in the flu
 
 Management and Treatment
 ------------------------
-Learn more about brain aneurysm and treatment options.
-
 How are brain aneurysms treated?
 
 The main goal of brain aneurysm treatment is to stop or reduce the flow of blood into the aneurysm. A leaking or ruptured brain aneurysm requires emergency surgery. You may or may not need treatment for an unruptured aneurysm depending on your circumstances.

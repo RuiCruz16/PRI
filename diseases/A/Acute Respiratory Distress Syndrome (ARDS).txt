@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15283-acute-respiratory-distress-
 
 Overview
 --------
-Acute respiratory distress syndrome (ARDS) happens when fluid builds up in the tiny air sacs in your lungs. It causes critically low oxygen levels.
-
 What is acute respiratory distress syndrome (ARDS)?
 
 Acute respiratory distress syndrome (ARDS) is a lung injury that happens when fluids build up in small air sacs (alveoli) in your lungs. ARDS prevents your lungs from filling up with air and causes dangerously low oxygen levels in your blood (hypoxia). Healthcare providers typically diagnose a person as having mild, moderate or severe respiratory distress syndrome. They determine that level by comparing the level of oxygen in your blood with the amount of oxygen that needs to be given to achieve a healthy blood oxygen level.
@@ -20,6 +18,14 @@ Healthcare providers sometimes classify ARDS into three stages: exudative, proli
 How common is ARDS?
 
 ARDS affects about 200,000 people in the United States and 3 million people worldwide every year. ARDS causes around 10% of all intensive care unit (ICU) admissions . It’s the reason at least 25% of people require mechanical ventilation in a hospital setting.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

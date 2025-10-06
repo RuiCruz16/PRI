@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17183-long-q-t-syndrome-lqts
 
 Overview
 --------
-People with long QT syndrome have a QT interval that’s longer than normal on an EKG.
-
 What is long QT syndrome?
 
 Long QT syndrome refers to an issue with your heart’s electrical system taking longer than normal to recharge between heartbeats.
@@ -26,6 +24,14 @@ Timothy Syndrome. This is a very rare form of long QT syndrome that affects othe
 How common is long QT syndrome?
 
 Long QT syndrome is rare. About 1 in 2,000 people in the United States have long QT syndrome.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

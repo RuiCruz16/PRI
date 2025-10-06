@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17101-hip-fracture
 
 Overview
 --------
-Femoral neck fractures are the most common type of broken hip.
-
 What is a hip fracture?
 
 A hip fracture is the medical name for breaking the upper part of your thigh bone (femur) near your hip joint.
@@ -29,6 +27,14 @@ Transverse fractures.
 Oblique fractures.
 Spiral fractures.
 Comminuted fractures.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

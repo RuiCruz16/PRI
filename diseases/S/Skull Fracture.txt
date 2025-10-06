@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/skull-fracture
 
 Overview
 --------
-There are four types of skull fractures that affect the structure that surrounds your brain
-
 What is a skull fracture?
 
 A skull fracture is a break in the bone structure that surrounds your brain. It’s a type of head injury. Most skull fractures are the result of a blow (impact) to the head.
@@ -30,6 +28,14 @@ Open fracture: The injury broke the skin over the fracture. This type of injury 
 How common are skull fractures?
 
 The exact rate of occurrence of skull fractures is unknown. Each year, more than 2.5 million emergency department visits occur in the United States for traumatic brain injuries (including skull fractures).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

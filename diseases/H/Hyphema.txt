@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22586-hyphema
 
 Overview
 --------
-A hyphema happens when blood fills the anterior chamber at the front of your eye.
-
 What is hyphema?
 
 Hyphema is the medical term for blood collecting in the front (anterior) chamber of your eye. The blood pools in the space right in front of your iris, the ring of muscle tissue that gives your eye its color.
@@ -22,6 +20,14 @@ Grade 1. Layered blood that fills less than one-third of your anterior chamber.
 Grade 2. Layered blood filling one-third to one-half of your anterior chamber.
 Grade 3. Layered blood that fills at least one-half of your anterior chamber but doesn’t fill it completely.
 Grade 4 (total hyphema). Layered, dark red or black blood completely fills your anterior chamber. They’re sometimes called eight-ball or blackball hyphemas. This puts you at much higher risk for angle-closure glaucoma.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

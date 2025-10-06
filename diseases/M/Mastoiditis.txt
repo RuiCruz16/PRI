@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24469-mastoiditis
 
 Overview
 --------
-Location of mastoid bone and swelling that has mastoiditis symptom.
-
 What is mastoiditis?
 
 Mastoiditis is a bacterial infection in a part of your temporal bone — the big bone behind your ear. Mastoiditis starts as a middle ear infection. It once was a common cause of death in very young children. Now, thanks to vaccinations that prevent infections and antibiotics that cure them, mastoiditis is a rare condition.
@@ -17,6 +15,14 @@ There are two types of mastoiditis:
 
 Acute mastoiditis typically occurs a few days after an ear infection. It goes away within a month after treatment and doesn’t come back.
 Chronic mastoiditis is associated with a longstanding ear infection (typically present for at least a month).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

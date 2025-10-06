@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/8619-anaphylaxis
 
 Overview
 --------
-Anaphylaxis is a life-threatening allergic reaction. Signs include breathing difficulties, swelling, hives and a drop in blood pressure.
-
 What is anaphylaxis?
 
 Anaphylaxis (pronounced “an-ah-fi-LAK-sis”) is a severe allergic reaction. It can be life-threatening if you don’t get treatment right away. Food allergies are one of the main causes of anaphylaxis. Other causes include stinging insects, medications and latex.
@@ -32,6 +30,14 @@ A person who has an anaphylactic reaction can go into anaphylactic shock when th
 How common is anaphylaxis?
 
 Estimates vary, but the most recent data suggests that people in the U.S. have a 0.05% and 2% lifetime chance of experiencing anaphylaxis.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

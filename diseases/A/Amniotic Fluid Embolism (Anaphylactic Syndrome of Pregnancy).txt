@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15463-amniotic-fluid-embolism
 
 Overview
 --------
-Amniotic fluid embolism is a rare complication that involves a severe allergic reaction to amniotic fluid getting into your bloodstream when you give birth.
-
 What is amniotic fluid embolism?
 
 Amniotic fluid embolism (AFE) is a rare and life-threatening complication that occurs when a pregnant woman gets amniotic fluid into their bloodstream just before, during or immediately after childbirth.
@@ -39,6 +37,14 @@ Cervical tears.
 Labor induction medications or procedures.
 Having a C-section delivery.
 Operative assisted deliveries (forceps delivery or vacuum extraction).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

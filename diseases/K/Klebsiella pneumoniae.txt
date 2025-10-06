@@ -5,10 +5,35 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Klebsiella pneumoniae is a type of bacteria that’s usually found in poop (stool) and your respiratory tract. It can also live in dirt and water in the environment.
+
+Klebsiella can cause:
+
+Abdominal infections, like liver abscesses or peritonitis
+Bloodstream infections (bacteremia)
+Meningitis
+Pneumonia
+Skin infections, like cellulitis
+Urinary tract infections
+Wound or surgical infections
+
+Klebsiella can be dangerous because some strains are resistant to antibiotics. This means standard antibiotics don’t work to get rid of the infection, and it can be hard to treat.
+
+Types
+
+There are different types of Klebsiella pneumoniae:
+
+Classic: These strains can live in your body and usually don’t harm you. But they can spread in hospitals and long-term care facilities. They usually infect people with medical devices or those who have other health conditions.
+Hypervirulent: These are more likely to cause severe illness and spread outside of healthcare facilities (community-acquired).
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Symptoms of Klebsiella infections depends on where in your body you’re infected. You won’t have all these symptoms.
-
 What are the symptoms of a Klebsiella pneumoniae infection?
 
 Klebsiella symptoms depend on where you get infected. Some symptoms could include:

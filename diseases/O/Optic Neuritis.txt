@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14256-optic-neuritis
 
 Overview
 --------
-Optic neuritis is when something (usually inflammation) disrupts signals traveling through your optic nerve.
-
 What is optic neuritis?
 
 Optic neuritis (ON) is a type of neuropathy (nerve disease) that can cause eye pain and vision loss or vision changes. It happens when inflammation affects signals traveling through your optic nerve, which connects your eyes and brain.
@@ -21,6 +19,14 @@ Pediatric. This is the childhood form of optic neuritis. While similar to the ot
 How common is this condition?
 
 Optic neuritis is common. In the U.S., there are about 5 new cases per 100,000 people each year.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

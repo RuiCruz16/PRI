@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/9409-kidney-cancer-overview
 
 Overview
 --------
-Kidney cancer begins in your kidney cells.
-
 What is kidney cancer?
 
 Kidney cancer is the abnormal growth of cells in your kidney tissue. In time, these cells form a mass called a tumor. Cancer begins when something triggers a change in the cells, and they divide out of control.
@@ -28,6 +26,14 @@ Wilms tumor: This is the most common type of kidney cancer in children. It accou
 How common is kidney cancer?
 
 Kidney cancer represents about 3.7% of all cancers in the United States. Each year, more than 62,000 Americans are diagnosed with kidney cancer. The risk of kidney cancer increases with age.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

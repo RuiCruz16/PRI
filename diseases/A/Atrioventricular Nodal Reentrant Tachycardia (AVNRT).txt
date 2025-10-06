@@ -5,10 +5,25 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Atrioventricular nodal reentrant tachycardia (AVNRT) is a type of abnormal heartbeat (arrhythmia). You have episodes where your heart suddenly starts beating very fast — typically over 120 beats per minute. AVNRT is one of the most common types of supraventricular tachycardia (SVT), or fast heartbeats that begin in your heart’s upper chambers.
+
+Here’s what each part of AVNRT means:
+
+Atrioventricular: “Atrio” refers to atrium (top heart chamber), and “ventricular” refers to ventricle (bottom heart chamber). You might see atrioventricular called “AV” for short.
+Nodal: This refers to a “node,” or a small area of tissue in your heart that controls electrical signals. “Atrioventricular nodal” refers to the AV node near the center of your heart.
+Reentrant: Normally, electrical signals follow a set path through your heart. But with AVNRT, they tend to reenter a circular path in your AV node. This causes a fast heartbeat.
+Tachycardia: This is the medical term for a fast heart rate. There are many different types of tachycardia. AVNRT is just one example.
+
+AVNRT can affect people at any age, but it often starts around age 30. It’s more common in females than in males. AVNRT can occur in young, otherwise healthy adults.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-When you have AVNRT, electrical signals go around in circles in your AV node. This can make your heart beat too fast.
-
 Symptoms of AVNRT
 
 This condition can make you uncomfortably aware of your heartbeat. Symptoms can include:

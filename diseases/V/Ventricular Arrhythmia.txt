@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21854-ventricular-arrhythmia
 
 Overview
 --------
-EKG showing ventricular arrhythmia.
-
 What is a ventricular arrhythmia?
 
 A ventricular arrhythmia is an abnormal heart rhythm that affects just the lower chambers of your heart. Those lower chambers are what drive the heart’s ability to pump blood throughout the body. While some of them are harmless and don’t usually cause symptoms, some of these rhythm problems can have serious — or even deadly — effects on your body.
@@ -49,6 +47,14 @@ Multiple patterns: Normally, the electrodes will all see the same overall wave p
 Ventricular fibrillation
 
 Ventricular fibrillation — often shortened to “v-fib” — happens when the lower chambers of the heart quiver or twitch rather than expand and contract. Because the ventricles don’t fully expand and contract, blood doesn’t get pumped through them. This causes your heart to stop, sending you into sudden cardiac arrest, and lack of blood flow to your brain causes you to pass out within seconds. If blood flow isn’t restarted within a few minutes, this condition is deadly.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

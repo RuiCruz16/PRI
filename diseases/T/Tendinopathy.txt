@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22289-tendinopathy
 
 Overview
 --------
-Tendinopathy is a painful condition that causes pain and swelling.
-
 What is tendinopathy?
 
 Tendinopathy is any condition that affects a tendon, making it painful to use and reducing its functionality. Tendons are rope-like connective tissues that attach muscles to bones. Most people injure their tendons by overusing them — although other factors can contribute to weakening of your tendons. Tendinopathy can begin when a tendon injury can’t heal. Eventually, destructive changes begin to occur.
@@ -50,6 +48,14 @@ Tennis elbow
 Golfer’s elbow
 Swimmer’s shoulder
 Jumper’s knee
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

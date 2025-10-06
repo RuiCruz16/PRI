@@ -5,6 +5,26 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Pseudohypoparathyroidism (PHP) is a rare genetic disorder where your body doesn’t process parathyroid hormone (PTH), even though your parathyroid glands produce normal amounts of it.
+
+Parathyroid hormone helps maintain calcium, phosphorus and vitamin D levels in your blood. PHP disrupts your body’s ability to use the hormones your parathyroid gland makes (parathyroid hormone resistance). As a result, the calcium levels in your blood drop and the phosphorus levels rise. This imbalance can lead to problems like muscle cramps, numbness, seizures and dental issues.
+
+PHP is different from hypoparathyroidism. People with hypoparathyroidism don’t produce enough PTH to begin with.
+
+Types of PHP
+
+The different types are:
+
+PHP-1. This is the most common type. In addition to PTH resistance, PHP-1 causes skeletal abnormalities like a round face, short stature, short neck and shortened hand and foot bones. Healthcare providers call this set of symptoms Albright hereditary osteodystrophy (AHO). People with PHP-1 inherit the GNAS gene variant (change) from one of their biological parents.
+PPHP (pseudopseudohypoparathyroidism). This is a limited form of PHP-1. People with PPHP have physical symptoms of AHO but don’t have PTH resistance.
+PHP-2. People with PHP-2 have PTH resistance but lack the physical symptoms of AHO. Researchers don’t yet know which genetic abnormality causes PHP-2.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of pseudohypoparathyroidism

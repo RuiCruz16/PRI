@@ -5,10 +5,25 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Tetanus is a condition that makes your muscles seize up and spasm uncontrollably. It happens when Clostridium tetani bacteria infect you. Once inside your body, the bacteria make a toxin that severely disrupts your nervous system, which can be life-threatening. Vaccination can prevent tetanus, which is why it’s rare in the U.S. and other developed nations.
+
+Types of tetanus
+
+There are four types of tetanus:
+
+Generalized. This is the most common. It causes severe muscle contractions, especially in your neck and jaw muscles.
+Neonatal. This form affects newborns within 28 days of birth. It’s rare in developed countries, but can be more common in developing countries or places with limited access to medical care.
+Localized. This form causes uncontrolled muscle spasms around the site where the bacteria entered your body. It isn’t common, but it can sometimes turn into generalized tetanus.
+Cephalic. This form is similar to the localized form, but it affects your cranial nerves. That means the symptoms mainly affect your head and face.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Tetanus affects how your muscles work, making them spasm uncontrollably. That can cause symptoms throughout your body.
-
 Symptoms of tetanus
 
 Tetanus symptoms happen because the toxin disrupts your nervous system. Your muscles can spasm and relax when your nervous system tells them to. But the tetanus toxin disables nerve signaling that tells muscles to relax. That makes the affected muscles spasm uncontrollably.

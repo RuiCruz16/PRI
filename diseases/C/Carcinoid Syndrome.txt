@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22103-carcinoid-syndrome
 
 Overview
 --------
-Carcinoid syndrome symptoms caused by NET of GI.
-
 What is carcinoid syndrome?
 
 Carcinoid syndrome is a rare condition that happens if you have neuroendocrine tumors. Neuroendocrine tumors (NETs) are tumors that start in specialized cells in your neuroendocrine system.
@@ -16,6 +14,14 @@ Very rarely, people with carcinoid syndrome have carcinoid crises, a potentially
 Is carcinoid syndrome common?
 
 No, it’s not. One study suggests 1 in 5 people with neuroendocrine tumors (NETs) have carcinoid syndrome, and NETs affect about 5 in 100,000 people in the United States.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

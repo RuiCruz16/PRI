@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/25128-polychromasia
 
 Overview
 --------
-Immature red blood cells appear blue, blue-gray or purple when viewed with a microscope during a peripheral blood smear.
-
 What is polychromasia (polychromatophilia)?
 
 Polychromasia (pronounced “Paa-lee-kruh-MAY-zhuh”) describes a variation in color of red blood cells on a peripheral blood smear (PBS). A PBS is a sample of your blood smeared on a glass slide that’s stained to look at under a microscope. The stain makes blood cells easier to see.
@@ -18,6 +16,14 @@ Why do red blood cells appear blue on a PBS?
 Red blood cells appear blue because reticulocytes stain that color on a PBS. Specifically, the genetic material called RNA inside the reticulocyte appears blue or bluish-gray. RNA disappears by the time a reticulocyte develops into a mature red blood cell.
 
 Identifying reticulocytes on a PBS is important because reticulocytes aren’t as efficient as mature red blood cells at performing their primary function — carrying oxygen to your body’s cells.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

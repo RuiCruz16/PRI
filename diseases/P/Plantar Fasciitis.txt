@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14709-plantar-fasciitis
 
 Overview
 --------
-Health conditions like flat feet can cause plantar fasciitis.
-
 What is plantar fasciitis?
 
 Plantar fasciitis is inflammation in the plantar fascia in your foot. It’s the most common cause of heel pain.
@@ -18,6 +16,14 @@ Visit a healthcare provider if you’re experiencing heel or foot pain for more 
 How common is plantar fasciitis?
 
 Plantar fasciitis is extremely common. More than 2 million people in the U.S. are treated for it each year. Around 1 in 10 people will develop plantar fasciitis at some point throughout their life.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -74,8 +80,6 @@ An MRI.
 
 Management and Treatment
 ------------------------
-Stretches for Plantar Fasciitis
-
 How is plantar fasciitis treated?
 
 You can usually manage plantar fasciitis with at-home treatments and over-the-counter (OTC) medicine.

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23180-carcinoma
 
 Overview
 --------
-Adenocarcinoma forms in the glandular cells lining major organs, like your colon.
-
 What is carcinoma?
 
 Carcinoma is cancer that forms in epithelial tissue. Epithelial tissue lines most of your organs, the internal passageways in your body (like your esophagus), and your skin. Most cancers affecting your skin, breasts, kidney, liver, lungs, pancreas, prostate gland, head and neck are carcinomas.
@@ -45,6 +43,14 @@ Race/Ethnicity: Race-related risks vary by carcinoma type. People who are Black 
 How common is carcinoma?
 
 Carcinoma is the most common form of cancer, making up 80% to 90% of cancer diagnoses.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

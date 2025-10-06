@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17225-metastatic-brain-tumors
 
 Overview
 --------
-Cancerous lung tumor that’s spread to brain.
-
 What are brain metastases (metastatic brain tumors)?
 
 Brain metastases are a type of metastatic cancer. They occur when a malignant tumor in one part of your body spreads to your brain. The original tumor is called the primary tumor/cancer. Most brain metastases spread from primary cancers in your lungs, breasts or skin (specifically melanoma).
@@ -16,6 +14,14 @@ How common are brain metastases?
 Brain metastases are the most common brain tumor in adults. Experts estimate that 10% to 30% of people with cancer that starts outside of the brain will develop a metastatic brain tumor at some point. The chances of getting diagnosed increase after age 45, with most people diagnosed when they’re over 65.
 
 Primary brain cancer, or cancer that starts in your brain, is much less common. Most tumors that start in or on your brain are benign (noncancerous).
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

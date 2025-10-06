@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy
 
 Overview
 --------
-Peripheral neuropathy can affect nerves anywhere in your body. It can disrupt your body’s control of automatic processes, as well as your sense of touch and muscle control.
-
 What is peripheral neuropathy?
 
 Peripheral neuropathy is an umbrella term for nerve diseases that affect a specific subdivision of your nervous system. Many different conditions can cause peripheral neuropathy, which means a wide range of symptoms is also possible. Peripheral neuropathy can also affect different body parts, depending on how and why it happens.
@@ -48,10 +46,16 @@ How quickly does peripheral neuropathy develop?
 
 How peripheral neuropathy develops, particularly the timeline of its progress, depends very much on what causes it. Injuries can cause it to develop instantaneously or within minutes or hours. Some toxic and inflammation-based forms of peripheral neuropathy may develop rapidly over days or weeks, while most other conditions take months, years or even decades to develop.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
-Learn more about peripheral neuropathy.
-
 What are the symptoms of peripheral neuropathy?
 
 There are many different symptoms of peripheral neuropathy. This condition can affect a single nerve, a connected group of related nerves, or many nerves in multiple places throughout your body. The symptoms also depend on the type of nerve signals affected, and multiple signal types may be involved.

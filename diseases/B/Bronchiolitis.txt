@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/8272-bronchiolitis
 
 Overview
 --------
-In bronchiolitis, the airways (bronchioles) in your lungs become narrow, making breathing difficult.
-
 What is bronchiolitis?
 
 Bronchiolitis is a viral infection that affects children younger than 2 years old. It causes the airways (bronchioles) in your child’s lungs to narrow, which makes breathing difficult. If your child develops this infection, you may notice they have symptoms similar to a common cold (runny nose, cough) in addition to noisy breathing (wheezing).
@@ -24,6 +22,14 @@ The viruses that cause bronchiolitis are contagious. These viruses spread throug
 What is the difference between bronchiolitis and bronchitis?
 
 Bronchiolitis and bronchitis are two conditions that both sound similar and have similar symptoms. A virus causes both conditions, which target the airways in your lungs. Bronchitis affects the bronchi, or the larger airways. Bronchiolitis affects your smaller airways (bronchioles). Bronchitis usually affects older children and adults, while bronchiolitis is more common in younger children.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

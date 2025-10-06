@@ -5,6 +5,28 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Spina bifida is a type of neural tube defect that happens when a fetus’s spine and spinal cord don’t close properly during early pregnancy.
+
+The neural tube forms the brain and spinal cord during embryonic development. When it doesn’t close, it leaves a gap in the spine. This gap can affect the vertebrae, spinal cord and nearby nerves. In more severe cases, a fluid-filled sac may stick out through the opening.
+
+Symptoms range in severity. Your child may need surgery to repair the opening in their spine shortly after birth. In addition, treatment is available to help them manage symptoms throughout their lifetime.
+
+Each year, about 1 in every 2,875 babies born in the U.S. has spina bifida. The exact cause of spina bifida isn’t known. But certain factors may increase the risk. There are ways to reduce the risk.
+
+Types of spina bifida
+
+There are three main types of spina bifida:
+
+Meningocele: A fluid-filled sac forms on the opening of the gap in the spine. It’s the least common type.
+Myelomeningocele: A fluid-filled sac that contains part of the spinal cord and nerves forms on the opening of the gap in the spine. It’s the most serious type.
+Spina bifida occulta: There’s a small gap in the spine, but it doesn’t cause a fluid-filled sac to form. Spina bifida occulta is the most common type.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Spina bifida symptoms
@@ -160,11 +182,3 @@ Additional Common Questions
 A note from Cleveland Clinic
 ----------------------------
 Learning your newborn has spina bifida can turn a joyful moment into one filled with anxiety and uncertainty. You may suddenly have a million questions and not know where to begin. Your healthcare team understands how overwhelming this news can be. But you’re not alone. They’ll be by your side every step of the way to make sure you and your baby get the care you need.
-
-Medically Reviewed
-
-Last reviewed on 05/27/2025.
-
-Learn more about the Health Library and our editorial process.
-
-References

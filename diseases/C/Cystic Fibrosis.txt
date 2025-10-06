@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/9358-cystic-fibrosis
 
 Overview
 --------
-The thick mucus caused by cystic fibrosis can block your airways, causing frequent infections and difficulty breathing.
-
 What is cystic fibrosis (CF)?
 
 Cystic fibrosis (CF) is a genetic disease that causes sticky, thick mucus to build up in your organs, blocking and damaging them. Many people think of CF as a lung disease because it affects your lungs and airways, which can make it hard to breathe and cause frequent infections. But it’s called cystic fibrosis because it also causes cysts and scarring (fibrosis) in your pancreas. This damage, plus the thick mucus, can block ducts that release digestive enzymes, making it hard to get nutrients from your digestive tract. CF can also affect your liver, sinuses, intestines and sex organs.
@@ -19,6 +17,14 @@ There are two types of cystic fibrosis:
 
 Classic cystic fibrosis often affects multiple organs. It’s usually diagnosed in the first few years of your life. 
 Atypical cystic fibrosis is a milder form of the disease. It may only affect one organ or symptoms may come and go. It’s usually diagnosed in older children or adults.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

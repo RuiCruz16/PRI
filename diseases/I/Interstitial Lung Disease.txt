@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17809-interstitial-lung-disease
 
 Overview
 --------
-The most common symptoms of interstitial lung disease are shortness of breath and dry cough, but you may have other symptoms depending on the cause.
-
 What is interstitial lung disease?
 
 Interstitial lung disease (ILD) is a term for a group of over 200 conditions that cause inflammation and scarring in your lungs. ILD damages the tissues between the small air sacs in your lungs (alveoli) and the blood vessels around them. This makes it harder for you to move oxygen out of your lungs and into your body.
@@ -42,6 +40,14 @@ Have had chest radiation.
 How serious is interstitial lung disease?
 
 Since there are many kinds of interstitial lung diseases, any one case could be mild or very serious. Most kinds of ILD cause irreversible lung damage. The most serious ILDs are progressive, where your condition continues to worsen over time.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

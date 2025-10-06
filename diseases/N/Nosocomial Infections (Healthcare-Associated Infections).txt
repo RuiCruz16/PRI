@@ -32,6 +32,14 @@ MRSA (methicillin-resistant Staphylococcus aureus): MRSA is one of the most comm
 Surgical site infection (SSI): About 22% of all HAIs are surgical site infections. SSIs can affect incision wounds. They can also affect deeper tissues, organs and even surgical implants (like pacemakers or artificial joints).
 Ventilator-associated pneumonia (VAP): Ventilator-associated pneumonia accounts for 15% of all HAIs. This condition can develop in people who need mechanical ventilation — a type of treatment that breathes for you when you can’t breathe on your own. Infection happens if germs enter the lungs through a breathing tube.
 
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 What are the symptoms of nosocomial infections?

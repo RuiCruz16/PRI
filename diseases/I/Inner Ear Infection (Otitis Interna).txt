@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24240-inner-ear-infection-otitis-
 
 Overview
 --------
-Inner ear infections happen with certain parts of your inner ear — such as your vestibular nerve — become inflamed.
-
 What is an inner ear infection?
 
 The term “inner ear infection” may refer to any condition that causes inflammation in your inner ear. Colds and flu can cause inflammation. Or it can develop when an infection in your middle ear spreads to your inner ear. Many people with inner ear infections experience problems with hearing and balance. The medical term for an inner ear infection is “otitis interna.”
@@ -24,6 +22,14 @@ Labyrinthitis is an infection of the labyrinth, which is the part of your inner 
 Vestibular neuritis
 
 Vestibular neuritis is an infection of the vestibular nerve, which is the part of your inner ear that controls balance and eye movement. Vestibular neuritis often develops before or alongside a viral infection.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21052-microvascular-coronary-dise
 
 Overview
 --------
-Microvascular Coronary Disease.
-
 What is coronary microvascular disease (small vessel disease)?
 
 Microvascular disease affects arteries that branch off from your heart’s main blood vessels (coronary microvasculature).
@@ -43,6 +41,14 @@ High cholesterol.
 Rheumatologic disorders, such as lupus or rheumatoid arthritis.
 Sedentary lifestyle with low levels of physical activity.
 Smoking.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

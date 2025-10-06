@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21855-osteopenia
 
 Overview
 --------
-Osteopenia is reduced bone density that can become osteoporosis if it’s not treated.
-
 What is osteopenia?
 
 Osteopenia is a loss of bone density. Having reduced bone density means your bones don’t have as much mineral content as they should. This can make them weaker and increase your risk of bone fractures (broken bones).
@@ -24,6 +22,14 @@ If it’s not treated, osteopenia can become osteoporosis. Osteoporosis silently
 How common is osteopenia?
 
 Experts estimate that more than 40 million Americans have osteopenia. They think around one-third of adults older than 50 have some degree of bone density loss.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

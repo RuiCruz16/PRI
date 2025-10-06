@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22217-insulinoma
 
 Overview
 --------
-Insulinomas release excess insulin. This is the hormone that helps control your blood sugar level.
-
 What is insulinoma?
 
 Insulinoma is a rare tumor in your pancreas that releases excess insulin. Insulin is the hormone that helps keep your blood sugar (glucose) at healthy levels.
@@ -20,6 +18,14 @@ Insulinomas release insulin. If you have insulinoma, it typically floods your bo
 Your symptoms should improve if you consume something that has sugar (carbohydrates). This could include apple juice, regular soda or a banana.
 
 Experiencing low blood sugar can be scary, especially when you don’t know why it’s happening or when it’ll strike again. Keep snacks on hand and see your healthcare provider as soon as possible.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -137,20 +143,10 @@ The 10-year survival rate for metastatic insulinomas was 33%. It’s important t
 
 Prevention
 ----------
-In the time leading up to surgery (or if surgery isn’t possible), it’s important to prevent and treat low blood sugar episodes. Your provider may recommend getting a continuous glucose monitoring (CGM) system. A CGM can help you catch low blood sugar episodes before they get too severe, especially during the night.
-
-It’s important to remember that you shouldn’t use a CGM to diagnose insulinoma or other low blood sugar conditions. They’re for monitoring conditions after a diagnosis.
-
-Your provider may recommend one or more of the following treatments for low blood sugar:
-
-Advertisement
-
 Dietary changes. Regular meals or snacks rich in complex carbohydrates can help prevent low blood sugar. A bedtime or late-night meal may also help.
 IV glucose. If you experience frequent severe episodes of hypoglycemia, you may need to receive IV glucose.
 Diazoxide. This medication can help control how much insulin your pancreas releases. It may also increase how much glucagon your liver releases. Glucagon raises your blood sugar.
 Octreotide and lanreotide. These medications may help reduce the release of insulin from certain types of insulinoma tumors.
-
-It’s important to wear medical identification that states that you experience low blood sugar. This way, someone can get you help as soon as possible if you have a severe episode. Also, tell people close to you about your low blood sugar episodes and how they can help.
 
 Living With
 -----------

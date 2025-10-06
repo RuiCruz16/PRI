@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/16470-hemolytic-uremic-syndrome
 
 Overview
 --------
-Hemolytic uremic syndrome typically causes abdominal symptoms, including diarrhea. Severe HUS can damage your kidneys.
-
 What is hemolytic uremic syndrome?
 
 Hemolytic uremic syndrome (hee-mah-lit-ick yer-ee-mik sin-drohm) is a condition that blocks the small blood vessels in your kidneys. The blockage destroys your red blood cells (hemolytic anemia) and reduces the number of platelets (thrombocytopenia) in your blood.
@@ -36,6 +34,14 @@ Atypical hemolytic uremic syndrome is usually a genetic disorder. That means bio
 How common is hemolytic uremic syndrome?
 
 Hemolytic uremic syndrome affects between 5% and 15% of people who have E. coli diarrhea. aHUS is very rare, occurring in less than 1 person in 1 million people.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

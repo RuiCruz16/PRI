@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23921-hypercholesterolemia
 
 Overview
 --------
-Hypercholesterolemia means you have too much bad cholesterol (LDL) in your blood.
-
 What is hypercholesterolemia?
 
 Hypercholesterolemia is a lipid disorder in which your low-density lipoprotein (LDL), or bad cholesterol, is too high. This makes fat collect in your arteries (atherosclerosis), which puts you at a higher risk of heart attack and stroke. Atherosclerosis is the main cause of cardiovascular disease, which is the reason for more deaths than anything else in the world.
@@ -51,6 +49,14 @@ Hypercholesterolemia can lead to cardiovascular issues, such as:
 Stroke.
 Coronary artery disease.
 Peripheral artery disease.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

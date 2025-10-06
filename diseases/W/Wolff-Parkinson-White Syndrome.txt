@@ -5,6 +5,20 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Wolff-Parkinson-White (WPW) syndrome is a condition where you have an extra electrical pathway for signals to move through your heart. Having this pathway makes you more likely to develop an abnormal heartbeat like supraventricular tachycardia (SVT) or atrial fibrillation (AFib). Treatment can manage symptoms of these arrhythmias and lower your risk for complications.
+
+Normally, signals take a predictable route through your heart to control your heart rate and rhythm. But with WPW syndrome, you’re born with one or more extra or “accessory” pathways that take signals on a different route — a bit like a shortcut. This makes the signals reach your heart’s lower chambers (ventricles) too soon.
+
+As a result, your ventricles contract sooner than they should. This is called preexcitation. And it’s why you might also hear WPW syndrome called a preexcitation syndrome. Normally, your ventricles have to wait for signals to travel their usual route — including through an area called the AV node that slows them down a bit. The extra pathway detours around the AV node. So, signals travel through your heart too quickly.
+
+WPW syndrome affects 1 to 3 in every 1,000 people in the U.S. It’s more common among people with a heart defect called Ebstein’s anomaly. About 100 to 340 in every 1,000 people with Ebstein’s anomaly are also born with WPW syndrome.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of Wolff-Parkinson-White syndrome

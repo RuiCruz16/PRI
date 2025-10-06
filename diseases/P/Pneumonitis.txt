@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24810-pneumonitis
 
 Overview
 --------
-Pneumonitis causes inflammation in the alveoli in your lungs. Causes may include fumes, bacteria, animal dander, dust or certain therapies.
-
 What is pneumonitis?
 
 Pneumonitis (noo-MOHN-eye-tus) is general inflammation in your lungs that can affect how well you breathe and cause other bodily symptoms. It occurs when a foreign substance (irritant) inflames the small air sacs in your lungs (alveoli).
@@ -26,6 +24,14 @@ Acute interstitial pneumonitis. Acute interstitial pneumonitis develops suddenly
 Chemical pneumonitis. Chemical pneumonitis develops after inhaling chemicals that appear in household or workplace products (inhalants), such as chemicals in imaging tests, chlorine gas, pesticides, gasoline and smoke.
 Hypersensitivity pneumonitis. Hypersensitivity pneumonitis is a type of allergy that develops when you breathe in (inhale) antigens, including bacteria, dust, molds or tiny scales from animal skin, hair or feathers (dander).
 Radiation pneumonitis. Radiation pneumonitis may occur after radiation therapy to treat cancer.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

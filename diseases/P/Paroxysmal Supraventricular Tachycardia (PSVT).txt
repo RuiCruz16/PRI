@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22232-paroxysmal-supraventricular
 
 Overview
 --------
-In PSVT, electrical signals travel in a circular pattern that causes the atria to contract and make your heart beat faster.
-
 What is paroxysmal supraventricular tachycardia?
 
 Paroxysmal supraventricular tachycardia (PSVT) is a general term used to describe a type of arrhythmia (irregular heartbeat). Tachycardias are faster-than-normal heartbeats. If you have this condition, your heart may suddenly beat more quickly. Just as suddenly, your heart may slow down and beat at a normal rate. These episodes (also called paroxysms) are triggered by rapid heartbeats originating from the top chambers of your heart called the atria. The two bottom chambers are the ventricles. These four chambers work together to pump blood through your heart and to the rest of your body.
@@ -33,6 +31,14 @@ How common is PSVT?
 Heart arrhythmias are very common. Millions of people in the United States live with some type of arrhythmia.
 
 Supraventricular tachycardias are the most common type of arrhythmias in children and babies. They’re more common among children who have heart disease.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

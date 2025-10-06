@@ -5,6 +5,42 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+Hypertension, or high blood pressure, means the force of blood pushing against your artery walls is too high. This makes your heart work harder to pump blood through your body. Over time, hypertension damages your arteries and heart. It can lead to serious complications, like a heart attack or stroke. Because high blood pressure usually doesn’t cause symptoms, it’s often known as a “silent killer.”
+
+Healthcare providers measure blood pressure (BP) in millimeters of mercury (mmHg). Your reading has two numbers:
+
+Systolic blood pressure: This is the top number. It’s the pressure on your artery walls when your heart contracts.
+Diastolic blood pressure: This is the bottom number. It’s the pressure between beats when your heart relaxes.
+
+What’s considered high blood pressure varies slightly based on where you live. In the U.S., healthcare providers define it as:
+
+A top number (systolic BP) of 130 mmHg or higher, OR
+A bottom number (diastolic BP) of 80 mmHg or higher
+
+In Europe, providers define hypertension as a top number of 140 or higher, or a bottom number of 90 or higher.
+
+High blood pressure is very common. It affects nearly half of all adults in the U.S. It’s a major risk factor for cardiovascular disease.
+
+Types of hypertension
+
+There are two main types of high blood pressure, based on what’s causing it:
+
+Primary hypertension: This means your genetics, family history and age are the primary causes of your high blood pressure.
+Secondary hypertension: This means there’s an identifiable cause, like a medical condition, medication or addictive substance, that is making your blood pressure high.
+
+You might also hear about high blood pressure that occurs in certain situations. These types are:
+
+White coat hypertension: Your BP is normal at home, but high in a healthcare setting.
+Masked hypertension: Your BP is normal in a healthcare setting but high at home.
+Sustained hypertension: Your BP is high no matter where you are.
+Nocturnal hypertension: Your BP goes up when you sleep.
+
+What are
+--------
+(Not available)
+
 Symptoms and Causes
 -------------------
 Symptoms of high blood pressure
@@ -60,8 +96,6 @@ Stroke: A sudden lack of blood flow to your brain that can cause long-term neuro
 
 Diagnosis and Tests
 -------------------
-High blood pressure means your top number is at least 130 or your bottom number is at least 80. Stage 2 is more severe than stage 1.
-
 How doctors diagnose this condition
 
 Healthcare providers measure your blood pressure at your yearly check-ups and other appointments. This lets them see if it’s normal or too high. They’ll diagnose you with hypertension if your numbers are high at two separate visits (with at least two readings taken each time).

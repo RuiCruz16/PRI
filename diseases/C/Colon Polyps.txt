@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15370-colon-polyps
 
 Overview
 --------
-Colon polyps are tiny growths that protrude from the inner lining of your colon.
-
 What are colon polyps?
 
 Colon polyps are growths on the inside lining of your colon (large intestine). They’re a type of tumor, a cluster or mass of abnormal cells. Polyps are tumors that grow out of the mucous lining inside your hollow organs, like your gastrointestinal tract, your nose or female reproductive organs.
@@ -55,6 +53,14 @@ What percentage of colon polyps are cancerous?
 Most colon polyps have the potential to become cancerous, which is why healthcare providers remove them during a colonoscopy. But very few of them actually do turn into cancer, and it takes a long time for them to do so. Routine colonoscopies remove polyps before they have the chance to become cancer. 
 
 Around 75% of colorectal cancers start from adenomatous polyps, and about 80% of all colon polyps are adenomas. But only about 5% of adenomas are actually malignant. The risk of a random, average-size colon polyp becoming cancerous is estimated to be 8% over 10 years and 24% over 20 years.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

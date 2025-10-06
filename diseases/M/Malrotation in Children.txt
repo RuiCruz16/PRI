@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/10029-malrotation
 
 Overview
 --------
-Malrotation means your child’s intestines aren’t properly positioned within their abdomen. Volvulus is the main complication.
-
 What is malrotation in children?
 
 Malrotation is a congenital (present at birth) condition that affects the positioning of a baby’s small and large intestines within their abdomen (belly). The intestines form early in fetal development. As part of that process, the intestines coil and rotate until they reach the proper position and attach to the abdominal wall. But in some cases, they don’t coil and rotate properly. This is called intestinal malrotation.
@@ -26,6 +24,14 @@ Bowel perforation.
 Peritonitis.
 Sepsis.
 Shock.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

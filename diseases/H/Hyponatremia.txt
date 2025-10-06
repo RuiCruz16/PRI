@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/17762-hyponatremia
 
 Overview
 --------
-Symptoms of hyponatremia (low sodium) can come on suddenly or slowly, over time.
-
 What is hyponatremia?
 
 Hyponatremia is when your blood sodium (salt) level is lower than it should be. Healthcare providers consider sodium (Na+) levels below 135 milliequivalents/liter (mEq/L) to be lower than normal.
@@ -24,6 +22,14 @@ Hypervolemic hyponatremia. This is when the amount of water and sodium in your b
 Hypovolemic hyponatremia. This is when the amount of water and sodium in your body both decrease, but the amount of sodium decreases more.
 
 Knowing which type of hyponatremia you have helps your healthcare provider diagnose the cause and determine treatment.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

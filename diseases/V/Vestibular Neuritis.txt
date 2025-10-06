@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15227-vestibular-neuritis
 
 Overview
 --------
-Vestibular neuritis develops when the vestibular nerve in your inner ear becomes inflamed or swollen.
-
 What is vestibular neuritis?
 
 Vestibular neuritis is a disorder that affects the vestibulocochlear nerve of your inner ear. This nerve sends information about your balance and head position from your inner ear to your brain. When this nerve becomes inflamed or swollen, it interrupts the way your brain reads information. This results in dizziness, vertigo and other balance-related symptoms.
@@ -14,6 +12,14 @@ How rare is vestibular neuritis?
 Vestibular neuritis affects around 4 out of every 100,000 people in the United States. It’s the third most common cause of peripheral vertigo. People with peripheral (inner ear) vertigo have balance issues but can typically still walk.
 
 Vestibular neuritis can occur in people of all ages, but it’s less common in children.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

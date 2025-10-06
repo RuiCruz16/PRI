@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/25135-black-lung-disease
 
 Overview
 --------
-Complicated black lung disease with severe scarring (right) vs. a healthy lung (left).
-
 What is black lung disease?
 
 Black lung disease — also known as coal workers’ pneumoconiosis or coal miners’ lung — is inflammation (swelling and irritation) and fibrosis (thickening or scarring) in lung tissue brought about by inhaling dust particles in and around coal mines.
@@ -20,6 +18,14 @@ Complicated: Your scarring is severe and covers more of your lung. While healthc
 How common is this condition?
 
 Black lung disease is a form of interstitial lung disease, which itself is rare. But only people who work in coal mines develop black lung disease. Among people who work in coal mines, black lung disease is somewhat common. Even after decades of knowing that coal mine dust can cause disease, black lung disease still affects about 16% of coal workers. And these rates are increasing.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

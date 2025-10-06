@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/10349-gastritis
 
 Overview
 --------
-Gastritis is inflammation in your stomach lining.
-
 What is gastritis?
 
 Gastritis is inflammation in the lining of your stomach. This lining (a soft tissue called mucosa) protects your stomach from the acids, enzymes and microorganisms that pass through it every day. Gastritis happens when your immune system detects a threat to this barrier. Your immune system triggers inflammation in the tissues to help fight infections and promote healing.
@@ -32,6 +30,14 @@ Eosinophilic gastritis.
 How common is gastritis?
 
 It’s very common. In the U.S., acute gastritis affects about 8 out of every 1,000 people. It’s usually related to common short-term infections, alcohol and medication use. Chronic gastritis affects about 2 out of every 10,000 people in the U.S. But worldwide, as much as half of the population has chronic gastritis associated with a widespread, chronic bacterial infection called H. pylori.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

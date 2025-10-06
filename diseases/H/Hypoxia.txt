@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23063-hypoxia
 
 Overview
 --------
-If you are experiencing any symptoms of hypoxia, especially if you have an underlying heart or lung condition, call your healthcare provider or go to the nearest ER.
-
 What is hypoxia?
 
 Hypoxia is when the tissues of your body don’t have enough oxygen. When you breathe, you take oxygen into your lungs, where it travels through your airways out into small sacks called alveoli. From there, it gets picked up by your blood in small vessels that travel close to the alveoli (capillaries). Finally, it travels through your blood out to other tissues.
@@ -26,6 +24,14 @@ Any condition that reduces the amount of oxygen in your blood or restricts blood
 What is hypoxia and what does it do to the body?
 
 Your cells need oxygen to produce energy and help your organs and tissues to do their jobs. While some of your tissues can adjust to temporary dips in oxygen levels, prolonged hypoxia can cause organ damage. Brain and heart damage are particularly dangerous and can lead to death. Lack of oxygen to your brain is called cerebral hypoxia.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

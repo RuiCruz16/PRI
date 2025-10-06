@@ -5,6 +5,28 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+(Not available)
+
+What are
+--------
+Pancreatic neuroendocrine tumors (pancreatic NETs, also called islet cell tumors) are rare tumors that start in your pancreas’ endocrine cells. They’re a type of neuroendocrine tumor.
+
+Your pancreas is a flat pear-shaped gland tucked beside your stomach and small intestine. Endocrine cells in your pancreas make hormones that manage digestion and blood sugar levels.
+
+These tumors can be cancerous (malignant) or benign (noncancerous). Without treatment, malignant tumors may spread to other areas of your body.
+
+Types of pancreatic neuroendocrine tumors
+
+There are several types of pancreatic NETs, each with different characteristics:
+
+Insulinomas are the most common type of functioning pancreatic NET. About 10% of insulinomas are cancerous. Insulinomas release insulin, the hormone that keeps your blood sugar from getting too high.
+Gastrinomas affect cells that release gastrin, which triggers your stomach to produce gastric acid. About 60% of gastrinomas are cancerous.
+Glucagonomas are often cancerous. They affect the cells that release glucagon, the hormone that keeps your blood sugar from getting too low.
+VIPomas can be cancerous. “VIP” stands for “vasoactive intestinal peptide.” This hormone relaxes the muscles in your stomach and bowels and manages the balance of sugar, salt and water in your digestive tract.
+Somatostatinomas are slow-growing cancerous tumors that release somatostatin. This hormone manages several bodily functions.
+
 Symptoms and Causes
 -------------------
 Symptoms of pancreatic neuroendocrine tumors

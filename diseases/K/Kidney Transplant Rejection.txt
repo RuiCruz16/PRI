@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21134-kidney-transplant-rejection
 
 Overview
 --------
-Rejection and Signs of Rejection for Your New Kidney
-
 What is a kidney transplant rejection?
 
 A rejection is your immune system’s way of protecting your body from your new kidney, which it perceives as a threat because it’s not your own. Even when your kidney donor is a good match, your body essentially recognizes the kidney as being “new” and reacts by trying to destroy it. The immune system reacting to a kidney that’s been transplanted into your body is called rejection.
@@ -32,6 +30,14 @@ You can also have a cellular rejection which means T lymphocytes, a specific typ
 How common is kidney transplant rejection?
 
 Some degree of rejection is very common. About 15% to 20% of people who receive a new kidney will experience some type of rejection. The severity of the rejection varies.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/10855-smallpox
 
 Overview
 --------
-Smallpox caused a hard, blistering rash over most of your body that left disfiguring scars.
-
 What is smallpox?
 
 Smallpox was a serious illness that killed hundreds of millions before its eradication. It caused a hard, blistering rash that often led to disfiguring scars. About 1 in 3 people who got smallpox died from it.
@@ -24,6 +22,14 @@ It was easy to identify. Everyone who had smallpox had symptoms, including a cha
 It spread relatively slowly. Smallpox usually wasn’t contagious until an infected person was too sick to be around many other people. It typically spread among people living in the same house.
 Ring vaccination contained outbreaks. Because it spread only among close contacts, health officials could contain smallpox outbreaks with “ring vaccinations.” This meant vaccinating just those who had been around an infected person recently (a “ring” of contacts).
 It had been around for thousands of years.Survivors of smallpox already had immunity. This meant that fewer people needed to be vaccinated to stop the spread.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -88,11 +94,21 @@ Blood loss and organ failure from hemorrhagic smallpox.
 
 Diagnosis and Tests
 -------------------
-(Not available)
+How was smallpox diagnosed?
+
+Providers used the appearance of your rash and pattern of symptoms to diagnose smallpox. Providers can also test samples of your blood or tissue from your skin. They send the samples to a lab to look for viral DNA or antibodies to smallpox. The last diagnosed case of smallpox was in 1978.
 
 Management and Treatment
 ------------------------
-(Not available)
+Are there treatments for smallpox?
+
+There are a few antiviral medications approved for smallpox. They include:
+
+Tecovirimat (TPOXX®).
+Brincidofovir (TEMBEXA®).
+Cidofovir (Vistide®).
+
+They were developed after smallpox was eradicated, so they’ve not been tested in people with a smallpox infection. But based on other kinds of testing, experts think they could be an option to treat smallpox if there’s another outbreak. They’ve been tested for safety in humans.
 
 Outlook / Prognosis
 -------------------
@@ -138,20 +154,6 @@ Living With
 
 Additional Common Questions
 ---------------------------
-Are there treatments for smallpox?
-
-There are a few antiviral medications approved for smallpox. They include:
-
-Tecovirimat (TPOXX®).
-Brincidofovir (TEMBEXA®).
-Cidofovir (Vistide®).
-
-They were developed after smallpox was eradicated, so they’ve not been tested in people with a smallpox infection. But based on other kinds of testing, experts think they could be an option to treat smallpox if there’s another outbreak. They’ve been tested for safety in humans.
-
-How was smallpox diagnosed?
-
-Providers used the appearance of your rash and pattern of symptoms to diagnose smallpox. Providers can also test samples of your blood or tissue from your skin. They send the samples to a lab to look for viral DNA or antibodies to smallpox. The last diagnosed case of smallpox was in 1978.
-
 What’s the difference between smallpox, mpox and chickenpox?
 
 The viruses that cause smallpox and mpox both belong to the same genus (grouping) of viruses called orthopoxvirus. They share similar features, but mpox causes less severe illness than smallpox. Vaccination with vaccinia can provide protection against both.

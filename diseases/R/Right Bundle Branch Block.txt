@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21692-right-bundle-branch-block
 
 Overview
 --------
-Heartbeat signal blocked in right bundle branch
-
 What is right bundle branch block?
 
 Right bundle branch block is an obstacle in your right bundle branch that makes your heartbeat signal late and out of sync with the left bundle branch, creating an irregular heartbeat.
@@ -20,6 +18,14 @@ Right bundle branch block can be complete or incomplete. Unlike complete right b
 Who does right bundle branch block affect?
 
 Right bundle branch block can happen in healthy people. It’s more likely to happen in older people.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

@@ -5,6 +5,24 @@ Overview
 --------
 (Not available)
 
+What is
+-------
+(Not available)
+
+What are
+--------
+Estrogen-dependent cancers use the female estrogen hormone to grow and possibly spread. Estrogen doesn’t cause cancer. But it can make some cancerous cells grow more quickly. This happens when estrogen attaches to proteins (receptors) in cancerous cells.
+
+Breast, ovarian and uterine (endometrial) cancers are examples of estrogen-dependent cancers. Oncologists treat these cancers with hormone therapy that keeps estrogen away from cancerous cells.
+
+Breast cancer is the most common example. Estrogen plays a role in several types, including:
+
+ER-positive (ER+) breast cancer
+HR positive (HR+) breast cancer
+Luminal A breast cancer
+Luminal B breast cancer
+Triple positive breast cancer
+
 Symptoms and Causes
 -------------------
 What causes estrogen-dependent cancer?
@@ -30,14 +48,12 @@ Rarely, taking the cancer drug tamoxifen for breast cancer may increase your ris
 
 Diagnosis and Tests
 -------------------
-(Not available)
-
-Management and Treatment
-------------------------
 How doctors diagnose this condition
 
 Your healthcare provider or oncologist will do a biopsy to get tissue samples. A lab checks the samples for hormone receptors. A hormone receptor-positive (HR+) result means estrogen, progesterone or both hormones are helping cancer to grow.
 
+Management and Treatment
+------------------------
 Treatment
 
 Hormone therapy for cancer is a common treatment for estrogen-dependent cancer. It works by:

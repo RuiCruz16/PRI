@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/21656-hyperlipidemia
 
 Overview
 --------
-Bad cholesterol (LDL) and plaque in an artery.
-
 What is hyperlipidemia?
 
 Hyperlipidemia, also known as dyslipidemia or high cholesterol, means you have too many lipids (fats) in your blood. Your liver creates cholesterol to help you digest food and make things like hormones. But you also eat cholesterol in foods from the meat and dairy aisles. As your liver can make as much cholesterol as you need, the cholesterol in foods you eat is extra.
@@ -48,6 +46,14 @@ Carotid artery disease.
 Sudden cardiac arrest.
 Peripheral artery disease.
 Microvascular disease.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

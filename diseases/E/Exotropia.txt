@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/23440-exotropia
 
 Overview
 --------
-Exotropia is a form of strabismus, a misalignment of the eyes, in which one or both of your eyes turn outward (toward your ears).
-
 What is exotropia?
 
 Exotropia is a form of strabismus, a misalignment of the eyes. If you have exotropia, one or both of your eyes turn outward (toward your ears). In monocular exotropia, the turning involves one eye. In bilateral exotropia, the turning affects both eyes.
@@ -23,6 +21,14 @@ Infantile or congenital exotropia: Infantile or congenital exotropia means the c
 Sensory exotropia: This type occurs in an eye that already doesn’t see well. The eye with poor vision turns outward because it isn’t able to work with the other eye.
 Alternating exotropia: This kind happens in each eye at different times. This is different from unilateral exotropia, which means the deviation happens only in the same eye all the time.
 Consecutive (secondary) exotropia: This type is a misalignment that happens after surgery to treat esotropia.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

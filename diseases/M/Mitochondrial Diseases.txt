@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/15612-mitochondrial-diseases
 
 Overview
 --------
-Mitochondrial diseases are genetic conditions that affect how mitochondria function in your body.
-
 What is mitochondrial disease?
 
 Mitochondrial diseases are a group of conditions that affect how mitochondria work in your body. Mitochondria make energy in your cells. When mitochondria aren’t able to produce enough energy that your body needs, it affects how your organs function.
@@ -36,6 +34,14 @@ Myoclonic epilepsy and ragged-red fiber disease (MERRF).
 How common is mitochondrial disease?
 
 An estimated 1 in 5,000 people has a genetic mitochondrial disease. It’s common for mitochondrial diseases to receive a misdiagnosis due to the number and type of symptoms and organ systems involved, so this number may be underestimated.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

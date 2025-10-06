@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/4375-lung-cancer
 
 Overview
 --------
-Lung cancer usually starts in the airways (bronchi or bronchioles) or small air sacs (alveoli) of your lungs. It can then spread to other organs.
-
 What is lung cancer?
 
 Lung cancer is a disease caused by uncontrolled cell division in your lungs. Your cells divide and make more copies of themselves as a part of their normal function. But sometimes, they get changes (mutations) that cause them to keep making more of themselves when they shouldn’t. Damaged cells dividing uncontrollably create masses, or tumors, of tissue that eventually keep your organs from working properly.
@@ -53,6 +51,14 @@ Metastatic lung cancer is cancer that starts in one lung but spreads to the othe
 How common is lung cancer?
 
 Lung cancer is the third most common cancer in the U.S. Health systems report over 200,000 new cases of lung cancer each year.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

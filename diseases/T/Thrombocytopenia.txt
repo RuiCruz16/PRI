@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/14430-thrombocytopenia
 
 Overview
 --------
-Thrombocytopenia happens when your bone marrow doesn’t make enough platelets (bottom), the blood cells that help stop bleeding.
-
 What is thrombocytopenia?
 
 Thrombocytopenia (pronounced “THROM-bo-sigh-toe-PEE-ne-ah”) occurs when your bone marrow doesn’t make enough platelets. Platelets are blood cells that form blood clots to help stop bleeding. If you have thrombocytopenia, you may bleed a lot, and the bleeding may be hard to stop.
@@ -29,6 +27,14 @@ A normal platelet count or level in adults ranges from 150,000 to 450,000 platel
 Mild thrombocytopenia: Platelet levels between 101,000 and 140,000 per microliter of blood.
 Moderate thrombocytopenia: Platelet levels between 51,000 and 100,000 per microliter of blood.
 Severe thrombocytopenia: Platelet levels between 51,000 and 21,000 microliters of blood.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

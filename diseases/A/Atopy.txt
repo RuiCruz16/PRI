@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/atopy
 
 Overview
 --------
-People with atopy tend to have asthma, allergies, eczema and other conditions that have common triggers.
-
 What is atopy?
 
 Atopy is a tendency to develop various types of allergic conditions. Atopy means “out of place,” so atopic conditions are your body’s overreaction to something it shouldn’t react to. It causes your immune system to respond to environmental triggers (like pollen or dust mites) with asthma, skin rashes and allergies.
@@ -27,6 +25,14 @@ What’s the difference between atopy and allergies?
 Atopy is a bit like having allergic reactions that affect different parts of your body. For instance, allergic rhinitis — what people often think of as “allergies” — is one type of atopic reaction, but it’s not the only one.
 
 The same things that cause allergies — your body overreacting to environmental triggers — can trigger other atopic conditions. But they can also be triggered by nonallergic causes, like cold air and stress.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

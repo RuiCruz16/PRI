@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22401-bird-flu
 
 Overview
 --------
-Bird flu symptoms are sometimes mild, but many people develop severe respiratory complications.
-
 What is bird flu?
 
 Bird flu (avian influenza) is an infection from a type of influenza (flu) virus that usually spreads in birds and other animals. Sometimes, humans can get bird flu from infected animals. Like the versions of flu that people usually get, bird flu can make you severely ill. It’s extremely rare for it to spread from person to person.
@@ -14,6 +12,14 @@ You might hear about bird flu when there’s an outbreak affecting large numbers
 Types of bird flu
 
 There are many subtypes of avian flu. The recent cases in humans in the U.S. are influenza A(H5). The most common subtypes that have spread to humans in the past have been influenza A(H5N1) and influenza A(H7N9). The types of proteins on the surface of the virus determine the names of these subtypes.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

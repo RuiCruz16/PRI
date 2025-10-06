@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/22938-bundle-branch-block
 
 Overview
 --------
-A bundle branch block disrupts the electrical signals, making your heartbeat irregular.
-
 What is a bundle branch block?
 
 A bundle branch block (BBB) is when something blocks or disrupts the electrical signal that causes your heart to beat. This block leads to an abnormal heart rhythm.
@@ -36,6 +34,14 @@ Bundle branches form part of your heart conduction system, which controls your h
 Right bundle branch block: If you have RBBB, the blockage is in the bundle branch that carries the electrical impulse to your right ventricle. This problem causes your left ventricle to contract before your right ventricle.
 Left bundle branch block: If you have LBBB, the blockage is in the bundle branch that carries the electrical impulse to your left ventricle. This problem causes your right ventricle to contract before your left ventricle, making it harder for your heart to pump blood efficiently. A diagnosis of left bundle branch block often means that you have an underlying heart condition.
 Left and right bundle branch blocks: If you have blockages in both bundle branches, the electrical impulse from the upper to lower chambers of your heart will be completely blocked. This can result in a slower heart rate and other serious health problems.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

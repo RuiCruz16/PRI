@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/keloid-scar
 
 Overview
 --------
-A keloid scar is a raised scar that is larger than the injury that caused it.
-
 What is a keloid scar?
 
 A keloid scar (keloid) is a raised scar that grows larger than the wound that caused it. These scars tend to grow slowly — they can take months to years to develop after a skin injury. 
@@ -21,6 +19,14 @@ Chest.
 Ear.
 Jaw.
 Shoulder.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------

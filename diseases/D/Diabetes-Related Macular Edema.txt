@@ -3,8 +3,6 @@ https://my.clevelandclinic.org/health/diseases/24733-diabetes-related-macular-ed
 
 Overview
 --------
-Diabetes-related macular edema refers to swelling of your retina’s macula, with related complications of hemorrhages, hard exudates and ‘cotton wool’ spots in your eye.
-
 What is diabetes-related macular edema?
 
 Diabetes-related macular edema (DME) is swelling in the macula, or central, part of the retina of your eye. Your retina is in the back of the eye and is the part of your eye that houses the light-sensing cells. Your macula lets you see fine details.
@@ -14,6 +12,14 @@ You can get DME if you have diabetes-related retina disease (diabetes-related re
 How common is diabetes-related macular edema?
 
 About 1 in 14 people with diabetes develop diabetes-related macular edema. In the U.S., more than 37 million adults have diabetes currently.
+
+What is
+-------
+(Not available)
+
+What are
+--------
+(Not available)
 
 Symptoms and Causes
 -------------------
@@ -120,8 +126,6 @@ Getting regular physical activity.
 
 Living With
 -----------
-Learn how nutrition can help slow the progression of diabetes-related macular edema.
-
 How do I take care of myself if I have diabetes-related macular edema?
 
 Although DME is a condition that affects your eyes, you can help yourself by taking care of your entire body.
