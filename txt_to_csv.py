@@ -36,6 +36,22 @@ SECTION_HEADERS = [
 # Regex to detect a top-level section header followed by hyphens
 SECTION_PATTERN = re.compile(r"(?m)^(?P<title>[^\n\r]+)\n[-]{2,}\n")
 
+def clean_field(v):
+    """
+    Normalize field values:
+    - treat None as empty
+    - remove any occurrence of "(Not available)" (case-insensitive)
+    - collapse whitespace
+    """
+    if v is None:
+        return ""
+    v = str(v).strip()
+    # Remove occurrences like "(Not available)" or "Not available" anywhere in the text
+    v = re.sub(r"\(?\s*Not\s+available\s*\)?", "", v, flags=re.IGNORECASE)
+    # Collapse whitespace/newlines to a single space and strip again
+    v = re.sub(r"\s+", " ", v).strip()
+    return v
+
 def split_sections(text: str):
     """
     Return an ordered list of (title, content) for top-level sections.
@@ -77,7 +93,7 @@ def extract_symptoms_and_causes(symptoms_and_causes_text: str):
         r"\bSymptoms\b",
     ]
     causes_starts = [
-        r"\bWhat causes\b",
+        r"\bWhat cause\b",
         r"^Causes\b",
         r"\bCauses\b",
         r"\bCause\b",
@@ -107,7 +123,7 @@ def extract_symptoms_and_causes(symptoms_and_causes_text: str):
         causes_text = s[s_cause_start:].strip()
     else:
         # Fallback: split on the first plain 'Causes' if present; else put all in symptoms.
-        m = re.search(r"\bCauses?\b", s, flags=re.IGNORECASE)
+        m = re.search(r"\bCause?\b", s, flags=re.IGNORECASE)
         if m:
             symptoms_text = s[:m.start()].strip()
             causes_text = s[m.start():].strip()
@@ -145,6 +161,19 @@ def parse_file(path: str):
     additional = section_map["Additional Common Questions"]
     suggestion = section_map["A note from Cleveland Clinic"]
 
+    overview = clean_field(overview)
+    sc_text = clean_field(sc_text)
+    symptoms = clean_field(symptoms)
+    causes = clean_field(causes)
+    diagnosis = clean_field(diagnosis)
+    management = clean_field(management)
+    prevention = clean_field(prevention)
+    living = clean_field(living)
+    additional = clean_field(additional)
+    suggestion = clean_field(suggestion)
+    
+
+
     return {
         "disease name": disease_name,
         "overview": overview,
@@ -175,6 +204,7 @@ def main(input_dir: str, output_csv: str):
         for row in rows:
             for col in COLUMNS:
                 row.setdefault(col, "")
+                row[col] = clean_field(row[col])
             writer.writerow(row)
 
     print(f"Wrote {len(rows)} rows to {output_csv}")
