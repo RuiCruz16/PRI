@@ -118,7 +118,7 @@ Allergic Conjunctivitis:https://my.clevelandclinic.org/health/diseases/allergic-
 Allergic Rhinitis (Hay Fever):https://my.clevelandclinic.org/health/diseases/8622-allergic-rhinitis-hay-fever
 Allergic Shiners:https://my.clevelandclinic.org/health/diseases/allergic-shiners
 Allergies:https://my.clevelandclinic.org/health/diseases/8610-allergies
-Allergies: Shellfish:https://my.clevelandclinic.org/health/diseases/11319-allergies-shellfish
+Allergies Shellfish:https://my.clevelandclinic.org/health/diseases/11319-allergies-shellfish
 Alopecia Areata:https://my.clevelandclinic.org/health/diseases/12423-alopecia-areata
 Alpers Disease:https://my.clevelandclinic.org/health/diseases/22026-alpers-disease
 Alpha-1 Antitrypsin Deficiency:https://my.clevelandclinic.org/health/diseases/21175-alpha-1-antitrypsin-deficiency

@@ -8,13 +8,13 @@ import pandas as pd
 # Primary columns we care about (only these count toward "missing" for the audit)
 PRIMARY_COLS = [
     "overview",
-    "symptoms",
-    "causes",
+    "symptoms and causes",
     "diagnosis and tests",
     "management and treatment",
     "outlook / prognosis",
     "prevention",
     "living with",
+    "source url",
 ]
 
 

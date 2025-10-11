@@ -1,7 +1,7 @@
 C. diff (Clostridioides difficile) Infection:https://my.clevelandclinic.org/health/diseases/15548-c-diff-infection
 Cachexia (Wasting Syndrome):https://my.clevelandclinic.org/health/diseases/cachexia-wasting-syndrome
 Cacophobia (Fear of Ugliness):https://my.clevelandclinic.org/health/diseases/22554-cacophobia-fear-of-ugliness
-CAD: Bifurcation Blockage:https://my.clevelandclinic.org/health/diseases/16781-cad-bifurcation-blockage
+CAD Bifurcation Blockage:https://my.clevelandclinic.org/health/diseases/16781-cad-bifurcation-blockage
 Café-au-Lait Spots:https://my.clevelandclinic.org/health/diseases/22627-cafe-au-lait-spots
 Caffeine Overdose:https://my.clevelandclinic.org/health/diseases/caffeine-overdose
 Calcaneus Fracture (Broken Heel):https://my.clevelandclinic.org/health/diseases/calcaneus-fracture
@@ -46,8 +46,8 @@ Cardiogenic Shock:https://my.clevelandclinic.org/health/diseases/17837-cardiogen
 Cardiomyopathy:https://my.clevelandclinic.org/health/diseases/16841-cardiomyopathy
 Cardiophobia:https://my.clevelandclinic.org/health/diseases/cardiophobia
 Cardiorenal Syndrome:https://my.clevelandclinic.org/health/diseases/25240-cardiorenal-syndrome
-Cardiotoxicity: Cancer Treatment & the Heart:https://my.clevelandclinic.org/health/diseases/16828-cardiotoxicity-cancer-treatment--the-heart
-Cardiotoxicity: Cancer Treatment and the Heart:https://my.clevelandclinic.org/health/diseases/16858-chemotherapy--the-heart-cardiotoxicity
+Cardiotoxicity Cancer Treatment & the Heart:https://my.clevelandclinic.org/health/diseases/16828-cardiotoxicity-cancer-treatment--the-heart
+Cardiotoxicity Cancer Treatment and the Heart:https://my.clevelandclinic.org/health/diseases/16858-chemotherapy--the-heart-cardiotoxicity
 Cardiovascular Disease:https://my.clevelandclinic.org/health/diseases/21493-cardiovascular-disease
 Cardiovascular Disease in Women:https://my.clevelandclinic.org/health/diseases/17645-women--cardiovascular-disease
 Cardiovascular-Kidney-Metabolic (CKM) Syndrome:https://my.clevelandclinic.org/health/diseases/cardiovascular-kidney-metabolic-syndrome

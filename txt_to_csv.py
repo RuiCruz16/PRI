@@ -9,8 +9,7 @@ COLUMNS = [
     "id",
     "disease name",
     "overview",
-    "symptoms",
-    "causes",
+    "symptoms and causes",
     "diagnosis and tests",
     "management and treatment",
     "outlook / prognosis",
@@ -18,6 +17,7 @@ COLUMNS = [
     "living with",
     "additional common questions",
     "suggestions",
+    "source url",
 ]
 
 # All possible top-level section headers found in the files
@@ -38,6 +38,53 @@ SECTION_HEADERS = [
 # Regex to detect a top-level section header followed by hyphens
 SECTION_PATTERN = re.compile(r"(?m)^(?P<title>[^\n\r]+)\n[-]{2,}\n")
 
+def _normalize_name(s: str) -> str:
+    """Normalize disease names for lookup (lowercase, collapse whitespace)."""
+    if not s:
+        return ""
+    return re.sub(r"\s+", " ", s.strip().lower())
+
+def build_link_map(input_dir: str):
+    """
+    Read mapping files named like 'diseases_*.txt' in input_dir (non-recursive)
+    and return dict normalized_name -> url.
+    Each line expected as: Disease Name:URL
+    """
+    link_map = {}
+    pattern = os.path.join(input_dir, "diseases_*.txt")
+    for path in glob.glob(pattern):
+        try:
+            with open(path, "r", encoding="utf-8") as fh:
+                for ln in fh:
+                    ln = ln.strip()
+                    if not ln or ":" not in ln:
+                        continue
+                    name, url = ln.split(":", 1)
+                    name = name.strip()
+                    url = url.strip()
+                    if name and url:
+                        link_map[_normalize_name(name)] = url
+        except Exception:
+            # be tolerant of corrupt files; skip on error
+            continue
+    return link_map
+
+def clean_field(v):
+    """
+    Normalize field values:
+    - treat None as empty
+    - remove any occurrence of "(Not available)" (case-insensitive)
+    - collapse whitespace
+    """
+    if v is None:
+        return ""
+    v = str(v).strip()
+    # Remove occurrences like "(Not available)" or "Not available" anywhere in the text
+    v = re.sub(r"\(?\s*Not\s+available\s*\)?", "", v, flags=re.IGNORECASE)
+    # Collapse whitespace/newlines to a single space and strip again
+    v = re.sub(r"\s+", " ", v).strip()
+    return v
+
 def split_sections(text: str):
     """
     Return an ordered list of (title, content) for top-level sections.
@@ -52,72 +99,6 @@ def split_sections(text: str):
         content = text[start:end].strip()
         sections.append((title, content))
     return sections
-
-def extract_symptoms_and_causes(symptoms_and_causes_text: str):
-    """
-    Heuristic split of the combined "Symptoms and Causes" section into
-    two strings: (symptoms, causes).
-    Works with different phrasings like 'What are the symptoms...' and
-    'What causes...'.
-    """
-    s = symptoms_and_causes_text
-
-    def find_first(patterns):
-        idxs = []
-        for p in patterns:
-            m = re.search(p, s, flags=re.IGNORECASE | re.DOTALL)
-            if m:
-                idxs.append(m.start())
-        return min(idxs) if idxs else None
-
-    symptoms_starts = [
-        r"\bSymptoms of\b",
-        r"\bSigns and symptoms\b",
-        r"\bWhat are the signs and symptoms\b",
-        r"\bWhat are the symptoms\b",
-        r"\bSymptoms include\b",
-        r"\bSymptoms\b",
-    ]
-    causes_starts = [
-        r"\bWhat causes\b",
-        r"^Causes\b",
-        r"\bCauses\b",
-        r"\bCause\b",
-        r"\bWhy .* (happen|occur)\b",
-    ]
-    symptoms_end_markers = causes_starts + [
-        r"\bRisk factors\b",
-        r"\bStages\b",
-        r"\bComplications\b",
-    ]
-
-    s_sym_start = find_first(symptoms_starts) or 0
-    s_cause_start = find_first(causes_starts)
-
-    s_sym_end = None
-    for p in symptoms_end_markers:
-        m = re.search(p, s, flags=re.IGNORECASE | re.DOTALL)
-        if m:
-            cand = m.start()
-            if cand > s_sym_start and (s_sym_end is None or cand < s_sym_end):
-                s_sym_end = cand
-    if s_sym_end is None:
-        s_sym_end = len(s)
-
-    if s_cause_start is not None:
-        symptoms_text = s[s_sym_start:s_sym_end].strip()
-        causes_text = s[s_cause_start:].strip()
-    else:
-        # Fallback: split on the first plain 'Causes' if present; else put all in symptoms.
-        m = re.search(r"\bCauses?\b", s, flags=re.IGNORECASE)
-        if m:
-            symptoms_text = s[:m.start()].strip()
-            causes_text = s[m.start():].strip()
-        else:
-            symptoms_text = s.strip()
-            causes_text = ""
-
-    return symptoms_text, causes_text
 
 def parse_file(path: str):
     with open(path, "r", encoding="utf-8") as f:
@@ -146,8 +127,7 @@ def parse_file(path: str):
             if what_are and what_are != "(Not available)":
                 overview = what_are
     
-    sc_text = section_map["Symptoms and Causes"]
-    symptoms, causes = extract_symptoms_and_causes(sc_text) if sc_text else ("", "")
+    symptoms_causes = section_map["Symptoms and Causes"]
     diagnosis = section_map["Diagnosis and Tests"]
     management = section_map["Management and Treatment"]
     outlook = section_map["Outlook / Prognosis"]
@@ -156,11 +136,19 @@ def parse_file(path: str):
     additional = section_map["Additional Common Questions"]
     suggestion = section_map["A note from Cleveland Clinic"]
 
+    overview = clean_field(overview)
+    symptoms_causes = clean_field(symptoms_causes)
+    diagnosis = clean_field(diagnosis)
+    management = clean_field(management)
+    prevention = clean_field(prevention)
+    living = clean_field(living)
+    additional = clean_field(additional)
+    suggestion = clean_field(suggestion)
+
     return {
         "disease name": disease_name,
         "overview": overview,
-        "symptoms": symptoms,
-        "causes": causes,
+        "symptoms and causes": symptoms_causes,
         "diagnosis and tests": diagnosis,
         "management and treatment": management,
         "outlook / prognosis": outlook,
@@ -171,12 +159,20 @@ def parse_file(path: str):
     }
 
 def main(input_dir: str, output_csv: str):
+    # build mapping from the summary files first
+    link_map = build_link_map(input_dir)
+    mapping_files = set(os.path.abspath(p) for p in glob.glob(os.path.join(input_dir, "diseases_*.txt")))
+
     files = sorted(glob.glob(os.path.join(input_dir, "**", "*.txt"), recursive=True))
+
+    files = [f for f in files if os.path.abspath(f) not in mapping_files]
+
     rows = []
     for i, path in enumerate(files, start=1):
         data = parse_file(path)
         row = {"id": i}
         row.update(data)
+        row["source url"] = link_map.get(_normalize_name(data.get("disease name", "")), "")
         rows.append(row)
 
     # Write CSV
@@ -186,6 +182,7 @@ def main(input_dir: str, output_csv: str):
         for row in rows:
             for col in COLUMNS:
                 row.setdefault(col, "")
+                row[col] = clean_field(row[col])
             writer.writerow(row)
 
     print(f"Wrote {len(rows)} rows to {output_csv}")

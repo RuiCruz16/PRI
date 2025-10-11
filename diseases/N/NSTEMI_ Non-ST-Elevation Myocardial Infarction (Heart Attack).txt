@@ -1,4 +1,4 @@
-NSTEMI: Non-ST-Elevation Myocardial Infarction (Heart Attack)
+NSTEMI Non-ST-Elevation Myocardial Infarction (Heart Attack)
 https://my.clevelandclinic.org/health/diseases/22233-nstemi-heart-attack
 
 Overview

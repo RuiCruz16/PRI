@@ -15,7 +15,7 @@ Ranula:https://my.clevelandclinic.org/health/diseases/23451-ranula
 Rape Trauma Syndrome:https://my.clevelandclinic.org/health/diseases/rape-trauma-syndrome
 Rapunzel Syndrome:https://my.clevelandclinic.org/health/diseases/rapunzel-syndrome
 Rare and Orphan Diseases:https://my.clevelandclinic.org/health/diseases/rare-and-orphan-diseases
-Rare Brain Tumors: Gangliocytoma & Pineocytoma:https://my.clevelandclinic.org/health/diseases/22800-rare-brain-tumors-gangliocytoma-pineocytoma
+Rare Brain Tumors Gangliocytoma & Pineocytoma:https://my.clevelandclinic.org/health/diseases/22800-rare-brain-tumors-gangliocytoma-pineocytoma
 Rare Lung Diseases:https://my.clevelandclinic.org/health/diseases/21684-rare-lung-diseases
 Rasmussen’s Encephalitis:https://my.clevelandclinic.org/health/diseases/6092-rasmussens-encephalitis
 Rat Lungworm:https://my.clevelandclinic.org/health/diseases/25096-rat-lungworm
