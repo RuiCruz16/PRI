@@ -1,0 +1,10 @@
+{
+  "query": "(death* OR fatal* OR mortal* OR \"high mortality\"~2 OR \"death rate\"~2 OR lethal OR deadly OR terminal OR \"poor prognosis\"~2 OR \"low survival\"~2 OR incurable) OR (\"heart disease\"~2 OR \"ischemic heart\"~2 OR cancer OR stroke OR \"respiratory disease\"~2 OR alzheimer* OR diabetes OR \"kidney disease\"~2 OR tuberculosis OR sepsis OR \"organ failure\"~2)",
+  "params": {
+    "defType": "edismax",
+    "qf": "outlook_prognosis^5 overview^3 disease_name^2 symptoms_and_causes^1.5",
+    "mm": "3"
+  },
+  "fields": "*,score",
+  "limit": 20
+}
