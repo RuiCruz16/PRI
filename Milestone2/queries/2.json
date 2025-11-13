@@ -1,0 +1,9 @@
+{
+  "query": "(elderly^4 aging^3 seniors^3 geriatric^3 \"older adults\"~3^3 \"age-related\"^3 \"over 65\"^2 \"retirement age\"^2) AND (chronic^5 persistent^4 long-term^4 \"daily living\"~3^3 \"quality of life\"^3 disability^2 \"functional impairment\"^2) AND (exercise^4 diet^4 lifestyle^3 \"physical therapy\"^3 \"non-pharmaceutical\"^3 \"self-management\"^2 counseling^2) -rare -acute -\"single episode\"~2 -\"childhood onset\"~3",
+  "params": {
+    "defType": "edismax",
+    "qf": "overview^3 symptoms_and_causes^2 management_and_treatment^4 living_with^3 prevention^2 outlook_prognosis^2"
+  },
+  "fields": "*,score",
+  "limit": 30
+}
