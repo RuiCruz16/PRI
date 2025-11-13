@@ -1,0 +1,10 @@
+{
+  "query": "children^5 infant*^4 bab*^4 pediatric^3 childhood^3 newborn^2",
+  "params": {
+    "defType": "edismax",
+    "qf": "overview^3 symptoms_and_causes^2",
+    "mm": "2"
+  },
+  "fields": "*,score",
+  "limit": 20
+}
