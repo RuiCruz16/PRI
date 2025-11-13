@@ -1,8 +1,12 @@
 {
-  "query": "-disease_name:Influenza AND disease_name:pnumonia~1 AND symptoms_and_causes:/c(o|a)u[gh]+ing?/",
+  "query": "loss^2 losing vision^3 vis*^3",
   "params": {
-    "defType": "lucene"
+    "defType": "edismax",
+    "qf": "symptoms_and_causes^5 disease_name^3 overview^2 _text_",
+    "pf": "symptoms_and_causes^20",
+    "ps": 5,
+    "mm": "2"
   },
   "fields": "disease_name, symptoms_and_causes, score",
-  "limit": 20
+  "limit": 30
 }
