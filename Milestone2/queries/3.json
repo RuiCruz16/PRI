@@ -1,0 +1,12 @@
+{
+  "query": "kidney failure",
+  "params": {
+    "defType": "edismax",
+    "qf": "disease_name^10 symptoms_and_causes^5 overview^3 _text_^0.5",
+    "pf": "disease_name^20 overview^10",
+    "ps": 3,
+    "mm": "100%" 
+  },
+  "fields": "id,disease_name, overview, score",
+  "limit": 50
+}

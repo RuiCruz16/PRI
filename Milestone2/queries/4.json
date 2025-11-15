@@ -1,0 +1,12 @@
+{
+  "query": "loss^2 losing vision^3 vis*^3",
+  "params": {
+    "defType": "edismax",
+    "qf": "symptoms_and_causes^5 disease_name^3 overview^2 _text_",
+    "pf": "symptoms_and_causes^20",
+    "ps": 5,
+    "mm": "2"
+  },
+  "fields": "id,disease_name, symptoms_and_causes, score",
+  "limit": 30
+}
