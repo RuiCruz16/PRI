@@ -6,5 +6,5 @@
     "mm": "3"
   },
   "fields": "*,score",
-  "limit": 20
+  "limit": 40
 }

@@ -7,6 +7,6 @@
     "ps": 3,
     "mm": "100%" 
   },
-  "fields": "disease_name, overview, score",
+  "fields": "id,disease_name, overview, score",
   "limit": 50
 }
