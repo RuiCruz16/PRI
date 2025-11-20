@@ -3,7 +3,7 @@
   "params": {
     "defType": "edismax",
     "qf": "overview^3 symptoms_and_causes^2",
-    "mm": "2"
+    "mm": "3"
   },
   "fields": "*,score",
   "limit": 40
