@@ -1,0 +1,368 @@
+:root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+    "Segoe UI", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light;
+  color: #111827;
+  background-color: #f3f4f6;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #f3f4f6 !important;
+  color: #111827;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Links */
+a {
+  font-weight: 500;
+  color: #2563eb;
+  text-decoration: none;
+}
+a:hover {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+
+/* ---------- Layout shell ---------- */
+
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 2.5rem 1rem;
+  background: radial-gradient(circle at top left, #eff6ff 0, #f3f4f6 40%, #f9fafb 100%);
+}
+
+.search-container {
+  width: 100%;
+  max-width: 960px;
+  background-color: #ffffff;
+  border-radius: 1.25rem;
+  box-shadow:
+    0 20px 25px -5px rgba(15, 23, 42, 0.08),
+    0 10px 10px -5px rgba(15, 23, 42, 0.04);
+  padding: 2rem 2.25rem 2.5rem;
+  box-sizing: border-box;
+}
+
+.search-header {
+  margin-bottom: 1.75rem;
+}
+
+.header-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header-title-badge {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  background-color: #e5f3ff;
+  color: #1d4ed8;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.header-subtitle {
+  margin-top: 0.3rem;
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+/* ---------- Search bar ---------- */
+
+.search-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+@media (min-width: 640px) {
+  .search-bar {
+    flex-direction: row;
+    align-items: center;
+  }
+}
+
+.search-input-wrapper {
+  position: relative;
+  flex: 1;
+}
+
+/* This class existed in your code already, kept and refined */
+.query-input {
+  width: 85%;
+  padding: 0.9rem 1.1rem 0.9rem 2.8rem;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-radius: 9999px;
+  outline: none;
+  transition: all 150ms ease-in-out;
+  font-size: 1rem;
+  box-shadow:
+    0 1px 2px rgba(15, 23, 42, 0.05),
+    0 1px 1px rgba(15, 23, 42, 0.03);
+  color: #111827;
+  background-color: #ffffff;
+}
+
+.query-input:focus {
+  box-shadow: 0 0 0 3px rgba(191, 219, 254, 0.9);
+  border-color: #3b82f6;
+}
+
+/* Placeholder color */
+input::placeholder {
+  color: #9ca3af !important;
+  opacity: 1;
+}
+
+/* Submit button (existing, slightly tuned) */
+.submit-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem 1.5rem;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: #ffffff;
+  font-weight: 600;
+  border-radius: 9999px;
+  border: none;
+  box-shadow:
+    0 10px 15px -3px rgba(37, 99, 235, 0.4),
+    0 4px 6px -4px rgba(37, 99, 235, 0.3);
+  transition: transform 120ms ease, box-shadow 120ms ease, opacity 120ms ease;
+  font-size: 0.95rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.submit-btn:hover {
+  transform: translateY(-1px);
+  box-shadow:
+    0 15px 25px -5px rgba(37, 99, 235, 0.45),
+    0 8px 10px -6px rgba(37, 99, 235, 0.35);
+}
+
+.submit-btn:active {
+  transform: translateY(0);
+  box-shadow:
+    0 8px 12px -6px rgba(37, 99, 235, 0.5),
+    0 4px 6px -4px rgba(37, 99, 235, 0.4);
+}
+
+.submit-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+/* ---------- State & meta info ---------- */
+
+.results-meta {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.results-meta-query {
+  font-weight: 500;
+  color: #4b5563;
+}
+
+/* Loading state */
+.loading-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem 0;
+}
+
+.loading-spinner {
+  animation: spin 1s linear infinite;
+  border-radius: 9999px;
+  height: 2rem;
+  width: 2rem;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #bfdbfe;
+  border-top-color: #2563eb;
+  margin-right: 0.75rem;
+}
+
+.loading-text {
+  font-size: 1rem;
+  color: #6b7280;
+}
+
+/* Error / empty / initial */
+.message-container {
+  text-align: center;
+  padding: 2.5rem 0;
+}
+
+.message-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.message-subtitle {
+  color: #6b7280;
+  font-size: 0.95rem;
+  margin-top: 0.35rem;
+}
+
+.initial-state-container {
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.initial-state-text {
+  font-size: 1.15rem;
+  font-weight: 300;
+  color: #9ca3af;
+}
+
+/* ---------- Result cards (your old styles, refined) ---------- */
+
+.results-list {
+  margin-top: 0.5rem;
+}
+
+.result-card {
+  padding: 1rem 1.1rem;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.9rem;
+  box-shadow:
+    0 1px 2px rgba(15, 23, 42, 0.06),
+    0 1px 1px rgba(15, 23, 42, 0.03);
+  transition: box-shadow 180ms ease, transform 120ms ease, border-color 180ms ease;
+  margin-bottom: 0.9rem;
+}
+
+.result-card:hover {
+  box-shadow:
+    0 10px 25px -8px rgba(15, 23, 42, 0.25),
+    0 6px 8px -6px rgba(15, 23, 42, 0.3);
+  border-color: #bfdbfe;
+  transform: translateY(-1px);
+}
+
+/* URL */
+.result-url {
+  font-size: 0.8rem;
+  color: #047857;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.2rem;
+  text-decoration: none;
+}
+.result-url:hover {
+  text-decoration: underline;
+}
+
+/* Title */
+.result-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #1e40af;
+  transition: color 150ms ease-in-out;
+  cursor: pointer;
+  display: block;
+}
+.result-title:hover {
+  color: #4f46e5;
+}
+
+/* Snippet */
+.result-snippet {
+  color: #4b5563;
+  margin-top: 0.4rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+/* ---------- Pagination ---------- */
+
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.pagination-info {
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.pagination-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.pagination-button {
+  min-width: 2.1rem;
+  height: 2.1rem;
+  padding: 0 0.5rem;
+  border-radius: 999px;
+  border: 1px solid #d1d5db;
+  background-color: #ffffff;
+  font-size: 0.85rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 120ms ease, border-color 120ms ease, transform 100ms ease;
+}
+
+.pagination-button:hover:not(:disabled) {
+  background-color: #eff6ff;
+  border-color: #3b82f6;
+  transform: translateY(-0.5px);
+}
+
+.pagination-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.pagination-button--active {
+  border-color: #2563eb;
+  background-color: #2563eb;
+  color: #ffffff;
+}
+
+/* ---------- Animations ---------- */
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
