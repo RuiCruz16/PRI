@@ -1,0 +1,10 @@
+{
+  "query": "(fatal OR incurable OR \"poor prognosis\")",
+  "params": {
+    "defType": "edismax",
+    "qf": "outlook_prognosis^5 overview^3 disease_name^2 symptoms_and_causes^1.5",
+    "mm": "1" 
+  },
+  "fields": "*,score",
+  "limit": 40
+}

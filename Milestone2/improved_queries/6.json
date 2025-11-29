@@ -1,0 +1,10 @@
+{
+  "query": "(children OR infant OR newborn OR congenital)",
+  "params": {
+    "defType": "edismax",
+    "qf": "overview^3 symptoms_and_causes^2 disease_name^2 prevention^1",
+    "mm": "2"
+  },
+  "fields": "*,score",
+  "limit": 40
+}

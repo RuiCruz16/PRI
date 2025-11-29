@@ -1,0 +1,10 @@
+{
+  "query": "((contagious OR \"spreads easily\") AND (viral OR bacterial OR infection)) -fear -phobia",
+  "params": {
+    "defType": "edismax",
+    "qf": "symptoms_and_causes^5 overview^3 prevention^3",
+    "mm": "100%"
+  },
+  "fields": "*,score",
+  "limit": 20
+}
