@@ -30,3 +30,5 @@ Then run it
 ~~~
 npm run dev
 ~~~
+
+![application view](image.png)
