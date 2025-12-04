@@ -1,15 +1,9 @@
-
 import { Link as LinkIcon } from 'lucide-react';
 
 const SearchResultItem = ({ result }) => (
   <article className="result-card">
     {result.url && result.url !== '#' && (
-      <a
-        href={result.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="result-url"
-      >
+      <a href={result.url} target="_blank" rel="noopener noreferrer" className="result-url">
         <LinkIcon style={{ width: 14, height: 14, marginRight: 6 }} />
         <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
           {result.url}
@@ -22,14 +16,14 @@ const SearchResultItem = ({ result }) => (
       target={result.url && result.url !== '#' ? '_blank' : undefined}
       rel={result.url && result.url !== '#' ? 'noopener noreferrer' : undefined}
       className="result-title"
-    >
-      {result.title || 'Untitled document'}
-    </a>
+      dangerouslySetInnerHTML={{ __html: result.title }} 
+    />
 
     {result.snippet && (
-      <p className="result-snippet">
-        {result.snippet}
-      </p>
+      <p 
+        className="result-snippet"
+        dangerouslySetInnerHTML={{ __html: result.snippet }}
+      />
     )}
 
     {result.meta && (

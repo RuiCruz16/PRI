@@ -366,3 +366,176 @@ input::placeholder {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+/* ---------- Layout Changes for Sidebar ---------- */
+
+.search-results-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+@media (min-width: 768px) {
+  .search-results-layout {
+    flex-direction: row;
+  }
+}
+
+/* Sidebar Styles */
+.filters-sidebar {
+  width: 100%;
+  flex-shrink: 0;
+  background-color: #f9fafb;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+}
+
+@media (min-width: 768px) {
+  .filters-sidebar {
+    width: 250px;
+    position: sticky;
+    top: 1rem;
+  }
+}
+
+.filters-heading {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #111827;
+}
+
+.filter-group {
+  margin-bottom: 1.5rem;
+}
+
+.filter-title {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.filter-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.filter-checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  color: #374151;
+  cursor: pointer;
+}
+
+.filter-checkbox-label:hover {
+  color: #111827;
+}
+
+.filter-count {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  margin-left: auto;
+}
+
+/* Main Content Area */
+.results-main {
+  flex: 1;
+  width: 100%;
+}
+
+/* ---------- Highlighting ---------- */
+
+/* Solr will return <em class="highlight">match</em> */
+em.highlight {
+  font-style: normal;
+  font-weight: 600;
+  background-color: #fef08a; /* Yellow highlight */
+  color: #854d0e;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+/* Add to your existing index.css */
+
+/* ---------- Filter Bar (Chips) ---------- */
+.filter-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@media (min-width: 640px) {
+  .filter-bar {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+.filter-label {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-right: 0.5rem;
+}
+
+.filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.filter-chip {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 999px; /* Pill shape */
+  padding: 0.35rem 0.85rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #4b5563;
+  cursor: pointer;
+  transition: all 150ms ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.filter-chip:hover:not(:disabled) {
+  background-color: #f3f4f6;
+  border-color: #d1d5db;
+}
+
+/* Active State (Blue Pill) */
+.filter-chip--active {
+  background-color: #e0f2fe; /* Light Blue BG */
+  border-color: #3b82f6;     /* Blue Border */
+  color: #0369a1;            /* Dark Blue Text */
+}
+
+.chip-count {
+  background-color: rgba(0,0,0,0.06);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+}
+
+/* ---------- Text Highlighting ---------- */
+
+/* Solr returns this class */
+em.highlight {
+  font-style: normal;
+  font-weight: 600;
+  color: #1a202c;
+  background-color: #fef08a; /* Yellow highlight like Google */
+  padding: 0 1px;
+  border-radius: 2px;
+}
