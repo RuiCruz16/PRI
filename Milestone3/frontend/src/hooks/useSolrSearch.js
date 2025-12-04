@@ -1,10 +1,10 @@
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback } from 'react';
 
+// Point to the Python Backend
 const BACKEND_URL = 'http://localhost:8000/search';
 
 export const useSolrSearch = ({ pageSize = 10 } = {}) => {
   const [results, setResults] = useState([]);
-  const [facets, setFacets] = useState({});
   const [selectedFilters, setSelectedFilters] = useState({});
   const [total, setTotal] = useState(0);
   const [page, setPage] = useState(1);
@@ -12,7 +12,7 @@ export const useSolrSearch = ({ pageSize = 10 } = {}) => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
-  // 1. Toggle Filter Logic
+  // 1. Toggle Filter (Multi-select logic - kept for future use)
   const toggleFilter = (field, value) => {
     setSelectedFilters(prev => {
       const current = prev[field] || [];
@@ -24,43 +24,35 @@ export const useSolrSearch = ({ pageSize = 10 } = {}) => {
     });
   };
 
-  // 2. Fetch Initial Facets (Load categories on mount)
-  useEffect(() => {
-    const fetchFacets = async () => {
-      try {
-        // We make a dummy call just to get facets
-        const res = await fetch(`${BACKEND_URL}?q=*:*&rows=0`);
-        const data = await res.json();
-        setFacets(data.facets || {});
-      } catch (e) {
-        console.error("Failed to load facets", e);
-      }
-    };
-    fetchFacets();
-  }, []);
+  // 2. Set Filter (Single-select logic - USED FOR TABS)
+  const setFilter = (field, value) => {
+    setSelectedFilters(prev => ({
+      ...prev,
+      [field]: value === null ? [] : [value] // Replace array with just this one value
+    }));
+  };
 
   // 3. Search Function
   const search = useCallback(
     async (query, requestedPage = 1, currentFilters = selectedFilters) => {
-      if (!query && !currentFilters) return;
+      // Allow searching with empty query if filters are present, or vice versa
+      if (!query && Object.keys(currentFilters).length === 0) return;
 
       setLoading(true);
       setError('');
       setHasSearched(true);
 
       try {
-        // Construct URL Params for FastAPI
         const params = new URLSearchParams({
-          q: query.trim() || '*:*',
+          q: query?.trim() || '*:*',
           page: String(requestedPage),
           rows: String(pageSize),
         });
 
-        Object.entries(currentFilters).forEach(([field, values]) => {
-          values.forEach(val => {
-            params.append(field, val);
-          });
-        });
+        // Check specifically for 'topic' filter
+        if (currentFilters['topic'] && currentFilters['topic'].length > 0) {
+            params.append('topic', currentFilters['topic'][0]);
+        }
 
         const response = await fetch(`${BACKEND_URL}?${params.toString()}`);
         
@@ -70,18 +62,8 @@ export const useSolrSearch = ({ pageSize = 10 } = {}) => {
 
         const data = await response.json();
 
-        // The Backend now returns clean data, so we just map it simply
-        const mapped = (data.results || []).map(doc => ({
-            id: doc.id,
-            title: Array.isArray(doc.title) ? doc.title[0] : (doc.title || 'Untitled'),
-            snippet: doc.snippet || doc.abstract || '',
-            url: doc.url || '#',
-            meta: doc.icd_code ? `ICD: ${doc.icd_code}` : null
-        }));
-
-        setResults(mapped);
-        setTotal(data.total);
-        if (data.facets) setFacets(data.facets);
+        setResults(data.results || []);
+        setTotal(data.total || 0);
         setPage(requestedPage);
 
       } catch (err) {
@@ -97,9 +79,9 @@ export const useSolrSearch = ({ pageSize = 10 } = {}) => {
 
   return {
     results,
-    facets,
     selectedFilters,
     toggleFilter,
+    setFilter, // Exporting the new function
     total,
     page,
     pageSize,

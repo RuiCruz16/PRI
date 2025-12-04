@@ -1,33 +1,38 @@
-import React from 'react';
+// Must match Python TOPIC_MAPPING keys
+const FILTERS = [
+  { label: 'All', value: null },
+  { label: 'Heart & Blood', value: 'Cardiovascular' },
+  { label: 'Lungs & Breathing', value: 'Respiratory' },
+  { label: 'Brain & Nerves', value: 'Neurological' },
+  { label: 'Stomach & Digestion', value: 'Gastrointestinal' },
+  { label: 'Skin', value: 'Dermatological' },
+];
 
-const FilterBar = ({ facets, selectedFilters, onToggle, disabled }) => {
-  // We assume 'category' is the main field you want to filter by.
-  // Adjust 'category' to match your actual Solr field name (e.g., 'doc_type')
-  const categories = facets['category'] || [];
-
-  if (categories.length === 0) return null;
+const FilterBar = ({ selectedFilters, onToggle, disabled }) => {
+  // Get the current selected topic (safe check)
+  const currentTopic = selectedFilters['topic'] && selectedFilters['topic'].length > 0 
+      ? selectedFilters['topic'][0] 
+      : null;
 
   return (
     <div className="filter-bar">
-      <span className="filter-label">Filter by:</span>
+      <span className="filter-label">Filter by System:</span>
       <div className="filter-chips">
-        {categories.map((item) => {
-          const isSelected = selectedFilters['category']?.includes(item.val);
+        {FILTERS.map((f) => {
+          const isActive = currentTopic === f.value || (f.value === null && !currentTopic);
           return (
             <button
-              key={item.val}
+              key={f.label}
               type="button"
               disabled={disabled}
-              className={`filter-chip ${isSelected ? 'filter-chip--active' : ''}`}
-              onClick={() => onToggle('category', item.val)}
+              className={`filter-chip ${isActive ? 'filter-chip--active' : ''}`}
+              onClick={() => onToggle('topic', f.value)}
             >
-              {item.val}
-              {/* Optional: Show count if useful, or hide for cleaner UI */}
-              {/* <span className="chip-count">{item.count}</span> */}
+              {f.label}
             </button>
           );
         })}
-      </div>
+        </div>
     </div>
   );
 };
