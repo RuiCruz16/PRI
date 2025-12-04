@@ -41,9 +41,7 @@
                         "words": "lang/stopwords_en.txt",
                         "ignoreCase": true
                     },
-                    {
-                        "class": "solr.KStemFilterFactory"
-                    },
+                    {"class": "solr.EnglishMinimalStemFilterFactory"},
                     {
                         "class": "solr.RemoveDuplicatesTokenFilterFactory"
                     }
@@ -78,9 +76,7 @@
                         "words": "lang/stopwords_en.txt",
                         "ignoreCase": true
                     },
-                    {
-                        "class": "solr.KStemFilterFactory"
-                    }
+                    {"class": "solr.EnglishMinimalStemFilterFactory"}
                 ]
             }
         }
