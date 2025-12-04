@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: medical_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - SOLR_URL=http://host.docker.internal:8984/solr/diseases/select
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:8000/search
+    depends_on:
+      - backend

@@ -2,7 +2,7 @@ from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import httpx
 import traceback
-
+import os
 app = FastAPI()
 
 app.add_middleware(
@@ -14,7 +14,7 @@ app.add_middleware(
 )
 
 # CORRECT URL based on your previous messages
-SOLR_CORE_URL = "http://localhost:8984/solr/diseases/select"
+SOLR_CORE_URL = os.getenv("SOLR_URL", "http://localhost:8984/solr/diseases/select")
 
 def merge_highlighting(doc, highlights):
     """

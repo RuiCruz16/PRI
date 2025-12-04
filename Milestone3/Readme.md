@@ -31,4 +31,9 @@ Then run it
 npm run dev
 ~~~
 
+you can run using docker by running:
+~~~
+docker-compose up --build
+~~~
+
 ![application view](image.png)
