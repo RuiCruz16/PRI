@@ -1,5 +1,5 @@
 {
-  "query": "(death* OR fatal* OR mortal* OR \"high mortality\"~2 OR \"death rate\"~2 OR lethal OR deadly OR terminal OR \"poor prognosis\"~2 OR \"low survival\"~2 OR incurable)",
+  "query": "(death OR fatal OR mortal OR \"high mortality\"~2^5 OR \"fatal disease\"^5 OR \"death rate\"~2 OR lethal OR deadly OR terminal OR \"poor prognosis\"~2 OR \"low survival\"~2 OR incurable) -\"rarely fatal\"",
   "params": {
     "defType": "edismax",
     "qf": "outlook_prognosis^5 overview^3 disease_name^2 symptoms_and_causes^1.5",
