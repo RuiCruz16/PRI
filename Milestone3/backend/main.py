@@ -9,6 +9,15 @@ app = FastAPI()
 
 # Configuration
 SOLR_CORE_URL = "http://localhost:8983/solr/your_core_name/select"
+MAX_SEMANTIC_RESULTS = 500
+
+TOPIC_MAPPING = {
+    "Cardiovascular": "heart cardiac artery vein blood pressure stroke pulse",
+    "Respiratory": "lung pulmonary breath airway asthma pneumonia bronchitis",
+    "Neurological": "brain nerve mental memory alzheimer dementia headache seizure",
+    "Gastrointestinal": "stomach gut intestine digestion bowel liver abdomen",
+    "Dermatological": "skin rash itch hair nail dermis eczema acne",
+}
 
 app = FastAPI()
 
@@ -83,16 +92,15 @@ async def autocomplete(q: str = Query(..., min_length=1)):
             response = await client.get(SOLR_CORE_URL, params=params, timeout=5.0)
             
         data = response.json()
-        print(data)
         docs = data.get("response", {}).get("docs", [])
         
         # Extract names and remove duplicates
         suggestions = []
         seen = set()
         for doc in docs:
-            name = doc.get("disease_name")[0]
-            if name and name[0] not in seen:
-                suggestions.append(name-80)
+            name = doc.get("disease_name")
+            if name and name not in seen:
+                suggestions.append(name)
                 seen.add(name)
                 
         return suggestions
@@ -101,14 +109,6 @@ async def autocomplete(q: str = Query(..., min_length=1)):
         print(f"Autocomplete Error: {e}")
         return [] # Return empty list on error so UI doesn't break
 
-
-TOPIC_MAPPING = {
-    "Cardiovascular": "heart cardiac artery vein blood pressure stroke pulse",
-    "Respiratory": "lung pulmonary breath airway asthma pneumonia bronchitis",
-    "Neurological": "brain nerve mental memory alzheimer dementia headache seizure",
-    "Gastrointestinal": "stomach gut intestine digestion bowel liver abdomen",
-    "Dermatological": "skin rash itch hair nail dermis eczema acne",
-}
 
 @app.get("/semantic_search")
 async def semantic_search(
@@ -126,17 +126,27 @@ async def semantic_search(
             "start": start,
             "wt": "json",
             "fl": "id,disease_name,source_url,overview,score", 
-            "fq": [] 
+            "fq": [],
+            "hl": "true",
+            "hl.fl": "overview,symptoms_and_causes", 
+            "hl.method": "original", # 'original' is often more reliable for hl.q overrides than 'unified'
+            "hl.tag.pre": "<mark>", 
+            "hl.tag.post": "</mark>",
+            "hl.simple.pre": "<mark>",
+            "hl.simple.post": "</mark>",
+            "hl.requireFieldMatch": "false"
         }
 
         # --- LOGIC: Vector Search vs Standard Search ---
         if q and q != "*:*" and q != "*":
             # 1. Generate Vector
             vector = utils.text_to_embedding(q)
-            
+            current_request_depth = start + rows
+            top_k = max(MAX_SEMANTIC_RESULTS, current_request_depth)
             # 2. Use Solr's KNN Query Parser
             # CHANGED: 'f=semantic_vector' to match your schema
-            params["q"] = f"{{!knn f=semantic_vector topK={rows}}}{vector}"
+            params["q"] = f"{{!knn f=semantic_vector topK={top_k}}}{vector}"
+            params["hl.q"] = q
         else:
             # Fallback to standard match-all
             params["q"] = "*:*"
@@ -170,20 +180,29 @@ async def semantic_search(
             raise HTTPException(status_code=500, detail=f"Solr Error: {response.text}")
 
         data = response.json()
-        
+        print(data)
         # Parse Solr Response Structure
         raw_docs = data.get("response", {}).get("docs", [])
         total_found = data.get("response", {}).get("numFound", 0)
-        
+        highlighting = data.get("highlighting", {})
+
         clean_results = []
         
         for doc in raw_docs:
             doc_id = doc.get("id", doc.get("source_url"))
             
-            # Create a snippet from overview (since vector search doesn't return highlighting by default)
-            full_overview = doc.get("overview", "")
-            if isinstance(full_overview, list): full_overview = " ".join(full_overview)
-            snippet = full_overview[:200] + "..." if len(full_overview) > 200 else full_overview
+            snippet = ""
+            doc_highlights = highlighting.get(doc_id, {})
+            
+            if doc_highlights.get("overview"):
+                snippet = doc_highlights["overview"][0]
+            elif doc_highlights.get("symptoms_and_causes"):
+                snippet = doc_highlights["symptoms_and_causes"][0]
+            else:
+                # Fallback to raw text if no keywords matched for highlighting
+                full_overview = doc.get("overview", "")
+                if isinstance(full_overview, list): full_overview = " ".join(full_overview)
+                snippet = full_overview[:200] + "..." if len(full_overview) > 200 else full_overview
 
             clean_results.append({
                 "id": doc_id,
@@ -271,11 +290,10 @@ async def search_index(
             "hl": "on",
             # Highlight in the most descriptive fields
             "hl.fl": "overview,symptoms_and_causes,management_and_treatment,diagnosis_and_tests",
-            "hl.simple.pre": '<em class="highlight">',
-            "hl.simple.post": "</em>",
-            "hl.snippets": 1,
-            "hl.fragsize": 160, # Slightly longer snippets for better context
-            
+            "hl.tag.pre": "<mark>", 
+            "hl.tag.post": "</mark>",
+            "hl.simple.pre": "<mark>",
+            "hl.simple.post": "</mark>",
             "fq": [] # Filter Queries container
         }
 

@@ -90,7 +90,6 @@ const SearchPage = () => {
             <span className="results-meta-query">
               Results for "{query}"
             </span>
-            <span>{total.toLocaleString()} found</span>
           </div>
 
           {results.length > 0 ? (
