@@ -1,7 +1,7 @@
 import { useState, useCallback } from 'react';
 
 // Point to the Python Backend
-const BACKEND_URL = 'http://localhost:8000/search';
+const BACKEND_URL = 'http://localhost:8000/semantic_search';
 
 export const useSolrSearch = ({ pageSize = 10 } = {}) => {
   const [results, setResults] = useState([]);

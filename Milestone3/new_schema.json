@@ -1,0 +1,138 @@
+{
+    "add-field-type": [
+      {
+        "name": "medicalText",
+        "class": "solr.TextField",
+        "indexAnalyzer": { 
+          "tokenizer": {
+            "class": "solr.StandardTokenizerFactory"
+          },
+          "filters": [
+            {
+              "class": "solr.WordDelimiterGraphFilterFactory",
+              "generateWordParts": 1,
+              "generateNumberParts": 1,
+              "catenateWords": 1,
+              "catenateNumbers": 1,
+              "splitOnCaseChange": 1
+            },
+            {"class": "solr.LowerCaseFilterFactory"},
+            {"class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": true},
+            {"class": "solr.StopFilterFactory", "words": "lang/stopwords_en.txt", "ignoreCase": true},
+            {"class": "solr.EnglishMinimalStemFilterFactory"}
+          ]
+        },
+        "queryAnalyzer": {
+          "tokenizer": {
+            "class": "solr.StandardTokenizerFactory"
+          },
+          "filters": [
+            {
+              "class": "solr.WordDelimiterGraphFilterFactory",
+              "generateWordParts": 1,
+              "generateNumberParts": 1,
+              "catenateWords": 1,
+              "catenateNumbers": 1,
+              "splitOnCaseChange": 1
+            },
+            {"class": "solr.LowerCaseFilterFactory"},
+            {"class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": true},
+            {"class": "solr.StopFilterFactory", "words": "lang/stopwords_en.txt", "ignoreCase": true},
+            {"class": "solr.EnglishMinimalStemFilterFactory"}
+          ]
+        }
+      },
+      {
+        "name": "semanticVector",
+        "class": "solr.DenseVectorField",
+        "vectorDimension": 384,
+        "similarityFunction": "cosine",
+        "knnAlgorithm": "hnsw"
+      }
+    ],
+    "add-field": [
+      {
+        "name": "disease_name",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "overview",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "symptoms_and_causes",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "diagnosis_and_tests",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "management_and_treatment",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "outlook_prognosis",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "prevention",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "living_with",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "additional_common_questions",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "suggestions",
+        "type": "medicalText",
+        "indexed": true,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "source_url",
+        "type": "string",
+        "indexed": false,
+        "stored": true,
+        "multiValued": false
+      },
+      {
+        "name": "semantic_vector",
+        "type": "semanticVector",
+        "indexed": true,
+        "stored": true
+      }
+    ]
+  }
