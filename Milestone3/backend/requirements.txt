@@ -1,3 +1,4 @@
 uvicorn
 fastapi
 httpx
+sentence_transformers
