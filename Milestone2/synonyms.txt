@@ -1,0 +1,709 @@
+# --- General Medical Terms and Abbreviations ---
+heart attack, myocardial infarction
+stroke, cva, cerebrovascular accident
+high blood pressure, hypertension
+flu, influenza
+cancer, carcinoma, neoplasm, tumor
+belly pain, stomach ache, abdominal pain
+shortness of breath, dyspnea
+swelling, edema
+kidney stone, renal lithiasis, nephrolithiasis
+ent, ear nose throat, otorhinolaryngology
+doctor, physician, specialist, md
+meds, medication, drugs, pharmaceutical
+er, emergency room, a&e
+uti, urinary tract infection
+std, sti, sexually transmitted disease, sexually transmitted infection
+gerd, acid reflux, gastroesophageal reflux disease
+als, lou gehrig's disease, amyotrophic lateral sclerosis
+
+# --- Scientific Names vs. Common Aliases ---
+1918 Influenza Pandemic, Spanish Flu
+47XYY Syndrome, Jacobs Syndrome
+AL Amyloidosis, Primary Amyloidosis
+ALD, Adrenoleukodystrophy
+ATTR-CM, Transthyretin Amyloid Cardiomyopathy
+Abrasion, Scrape
+Achalasia, Cardiospasm
+Acrophobia, Fear of Heights
+Acute Disseminated Encephalomyelitis, ADEM
+Acute Lymphoblastic Leukemia, ALL
+Acute Myeloid Leukemia, AML
+Acute Respiratory Distress Syndrome, ARDS
+Adenoid Cystic Carcinoma, ACC
+Adie Syndrome, Tonic Pupil
+Adnexal Mass, Tumors
+Adult-Onset Still's Disease, AOSD
+Aerophobia, Fear of Flying
+Agenesis of the Corpus Callosum, ACC
+Ageusia, Loss of Taste
+Ailurophobia, Fear of Cats
+Alektorophobia, Fear of Chickens or Hens
+Algophobia, Fear of Pain
+Allergic Rhinitis, Hay Fever
+Altered Mental Status, AMS
+Amaxophobia, Fear of Driving
+Amblyopia, Lazy Eye
+Amebiasis, Amoebic Dysentery
+Amniotic Fluid Embolism, Anaphylactic Syndrome of Pregnancy
+Amplified Musculoskeletal Pain Syndrome, AMPS
+Amyotrophic Lateral Sclerosis, ALS
+Anal Itching, Pruritus Ani
+Anaplastic Thyroid Cancer, ATC
+Aneurysmal Bone Cyst, ABC
+Anginophobia, Fear of Chest Pain
+Angiodysplasia of Gastrointestinal, GI
+Angioimmunoblastic T-cell Lymphoma, AITL
+Anhidrosis, Lack of Sweat
+Aniridia, Absence of Iris
+Anosmia, Loss of Sense of Smell
+Anthophobia, Fear of Flowers
+Anthropophobia, Fear of People
+Antisocial Personality Disorder, ASPD
+Aphonia, Loss of Voice
+Aquaphobia, Fear of Water
+Arachnophobia, Fear of Spiders
+Arginine Vasopressin Disorders, Diabetes Insipidus
+Arithmophobia, Fear of Numbers
+Asteatotic Eczema, Eczema Craquelé, Xerotic Eczema
+Astraphobia, Fear of Thunder and Lightning
+Ataxophobia, Fear of Untidiness, Disorder
+Atelophobia, Fear of Imperfection
+Athlete’s Foot, Tinea Pedis
+Atrial Fibrillation, AFib
+Atrioventricular Nodal Reentrant Tachycardia, AVNRT
+Attention-Deficit/Hyperactivity Disorder, ADHD
+Atychiphobia, Fear of Failure
+Atypical, Walking
+Atypical Genitalia, Formerly Known as Ambiguous Genitalia
+Atypical Teratoid/Rhabdoid Tumor, AT/RT
+Auditory Processing Disorder, APD
+Autoimmune Lymphoproliferative Syndrome, ALPS
+Autonomic Dysreflexia, AD
+Autophobia, Fear of Being Alone
+Avascular Necrosis, Osteonecrosis
+Avoidant/Restrictive Food Intake Disorder, ARFID
+BIID, Body Integrity Identity Disorder
+Bad Breath, Halitosis
+Baker Cyst, Popliteal Cyst
+Bankart Lesion, Glenoid Labrum Tear
+Bannayan-Riley-Ruvalcaba Syndrome, BRRS
+Barophobia, Fear of Gravity
+Bathmophobia, Fear of Stairs
+Becker Muscular Dystrophy, BMD
+Bedsores, Pressure Injuries
+Benign Paroxysmal Positional Vertigo, BPPV
+Bibliophobia, Fear of Books
+Binocular Vision Dysfunction, BVD
+Bird Flu, Avian Influenza
+Black Lung Disease, Coal Workers’ Pneumoconiosis
+Bladder Inflammation, Cystitis
+Blastocystis Hominis Infection, Blastocystosis
+Blocked Tear Duct, Nasolacrimal Duct Obstruction
+Blood Clotting Disorders, Hypercoagulable States
+Body-Focused Repetitive Behavior, BFRB
+Bone Bruise, Bone Contusion
+Bone Island, Enostosis
+Bone Spur, Osteophyte
+Borderline Personality Disorder, BPD
+Botanophobia, Fear of Plants
+Botulism, Clostridium Botulinum
+Brain Bleed Hemorrhage, Intracranial Hemorrhage
+Brain Cancer, Brain Tumor
+Breast Implant-Associated Anaplastic Large Cell Lymphoma, BIA-ALCL
+Breast Pain, Mastalgia
+Broken Ankle, Fractured Ankle
+Broken Arm, Fractured Arm
+Broken Foot, Fractured Foot
+Broken Jaw, Fractured Jaw
+Broken Toe, Fractured Toe
+Broken Wrist, Wrist Fracture
+Bruises, Ecchymosis
+Bruxism, Teeth Grinding
+Buccal Mucosa Cancer, Inner Cheek Cancer
+Buckle Fracture, Impacted Fracture
+Bunions, Hallux Valgus
+C. diff, Clostridioides difficile
+CIDP, Chronic Inflammatory Demyelinating Polyneuropathy
+CNS, Central Nervous System
+COVID-19, Coronavirus
+CPTSD, Complex PTSD
+Cachexia, Wasting Syndrome
+Cacophobia, Fear of Ugliness
+Calcaneus Fracture, Broken Heel
+Calf Strain, Pulled Calf Muscle
+Cannabis Hyperemesis Syndrome, CHS
+Carbapenem-Resistant Enterobacterales, CREs
+Cardiovascular-Kidney-Metabolic, CKM
+Carotid Artery Disease, Carotid Artery Stenosis
+Cataracts, Age-Related
+Catathrenia, Nocturnal Groaning
+Cavernous Malformation, Cavernoma
+Central Cord Syndrome, CCS
+Central Diabetes Insipidus, CDI
+Central Pontine Myelinolysis, Osmotic Demyelination Syndrome
+Cerebral Edema, Brain Swelling
+Cerebrospinal Fluid, CSF
+Cervical Myelopathy, Cervical Spondylotic Myelopathy
+Cervical Radiculopathy, Pinched Nerve
+Chagas Disease, American Trypanosomiasis
+Chancroid, Soft Chancre
+Charcot-Marie-Tooth Disease, CMT
+Charles Bonnet Syndrome, Visual Release Hallucinations
+Chauffeur Fracture, Radial Styloid Fracture
+Chemotherapy Brain Fog, Chemo Brain
+Chilblains, Pernio
+Chionophobia, Fear of Snow
+Cholangiocarcinoma, Bile Duct Cancer
+Cholecystitis, Gallbladder Inflammation
+Chromophobia, Fear of Colors
+Chronic Granulomatous Disease, CGD
+Chronic Hives, Chronic Idiopathic Urticaria
+Chronic Lymphocytic Leukemia, CLL
+Chronic Myeloid Leukemia, CML
+Chronic Obstructive Pulmonary Disease, COPD
+Chronic Thromboembolic Pulmonary Hypertension, CTEPH
+Chronic Traumatic Encephalopathy, CTE
+Chronic Venous Insufficiency, CVI
+Chronophobia, Fear of Time
+Class III Obesity, Formerly Known as Morbid Obesity
+Claustrophobia, Fear of Enclosed Spaces
+Clavicle Fracture, Broken Collarbone
+Clinical Depression, Major Depressive Disorder
+Colorectal, Colon
+Common Variable Immunodeficiency, CVID
+Complement 3 Glomerulopathy, C3G
+Complex Lymphatic Anomalies, Lymphangiomatosis
+Complex Regional Pain Syndrome, CRPS
+Congenital Central Hypoventilation Syndrome, CCHS
+Congenital Muscular Dystrophy, CMD
+Cor Pulmonale, Right-Sided Heart Failure
+Cording, Axillary Web Syndrome
+Cortical Visual Impairment, CVI
+Coulrophobia, Fear of Clowns
+Cracked Nipples, Nipple Fissures
+Cracked Tooth, Fractured Tooth
+Craniodiaphyseal Dysplasia, CDD
+Creutzfeldt-Jakob Disease, CJD
+Crow's Feet, Lateral Canthal Lines
+Cutaneous T-Cell Lymphoma, CTCL
+Cyberphobia, Fear of Computers
+Cynophobia, Fear of Dogs
+Cystocele, Fallen Bladder
+Cytokine Release Syndrome, CRS
+Cytomegalovirus, CMV
+Dacryoadenitis, Lacrimal Gland Inflammation
+Daytime Wetting, Urinary Incontinence
+Deep Vein Thrombosis, DVT
+Demodex, Face Mites
+Dendrophobia, Fear of Trees
+Dentophobia, Fear of Dentists
+Dermatillomania, Skin Picking
+Dermatofibrosarcoma Protuberans, DFSP
+Desmoplastic Small Round Cell Tumor, DSRCT
+Diabetes-Related Ketoacidosis, DKA
+Diaper Rash, Diaper Dermatitis
+Diffuse Idiopathic Skeletal Hyperostosis, DISH
+Diplopia, Double Vision
+Dislocated Kneecap, Patella Dislocation
+Disorders of Sexual Development, DSDs
+Disruptive Mood Dysregulation Disorder, DMDD
+Disseminated Intravascular Coagulation, DIC
+Dissociative Identity Disorder, Multiple Personality Disorder
+Distichiasis, Double Eyelashes
+Dry Mouth, Xerostomia
+Duchenne Muscular Dystrophy, DMD
+Ductal Carcinoma in Situ, DCIS
+Duplex Kidney, Duplicated Ureters
+Dural Arteriovenous Fistula, dAVF
+Dwarfism, Skeletal Dysplasia
+Dyshidrotic Eczema, Dyshidrosis
+Dysmenorrhea, Menstrual Cramps
+Dyspareunia, Painful Intercourse
+Dysphoric Milk Ejection Reflex, D-MER
+Dysplastic Nevus, Atypical Moles
+Dystychiphobia, Fear of Accidents
+Ear Barotrauma, Airplane Ear
+Ear Infection, Otitis Media
+Early-Onset Breast Cancer, Breast Cancer in Young Women
+Eastern Equine Encephalitis, EEE
+Ebstein's Anomaly, Adults
+Eczema on the Lips, Eczematous Cheilitis
+Edwards Syndrome, Trisomy 18
+Eisoptrophobia, Fear of Mirrors
+Elbow, Olecranon
+Emetophobia, Fear of Vomiting
+Empty Sella Syndrome, ESS
+Encopresis, Soiling
+Enlarged Heart, Cardiomegaly
+Enterocele, Small Bowel Prolapse
+Entomophobia, Fear of Insects
+Eosinophilic Granulomatosis With Polyangiitis, EGPA formerly Churg-Strauss Syndrome
+Ephebiphobia, Fear of Teenagers
+Epidermal Inclusion Cyst, Sometimes Called Sebaceous Cyst
+Epiphora, Watery Eyes
+Equinophobia, Fear of Horses
+Esophageal Dysmotility, Esophageal Motility Disorders
+Esophageal Perforation, Esophageal Rupture
+Estrogen Receptor-Positive Breast Cancer, ER+
+Exocrine Pancreatic Insufficiency, EPI
+Exploding Head Syndrome, EHS
+Eye Freckle, Nevus
+FSHD, Facioscapulohumeral Muscular Dystrophy
+Factitious Disorder Imposed on Another, FDIA
+Factitious Disorder Imposed on Self, Formerly Known as Munchausen Syndrome
+Familial Adenomatous Polyposis, FAP
+Fanconi Anemia, FA
+Fecal, Bowel
+Fibromuscular Dysplasia, FMD
+Flat Feet, Pes Planus
+Flu, Influenza
+Focal Segmental Glomerulosclerosis, FSGS
+Food Protein-Induced Enterocolitis Syndrome, FPIES
+Fourth Nerve Palsy, Trochlear Nerve Palsy
+Fractured Spine, Vertebrae
+Fragile X Syndrome, FXS
+Frenulum Breve, Short Frenulum
+Friedreich’s Ataxia, FA
+Frozen Shoulder, Adhesive Capsulitis
+Functional Neurological Disorder, Formerly Conversion Disorder
+Fungal Ear Infection, Otomycosis
+Fungal Infections, Mycosis
+Gambling Disorder, Gambling Addiction
+Gamophobia, Fear of Commitment
+Gastrointestinal, GI
+Gastrointestinal Neuroendocrine Tumors, GI NET
+Gastrointestinal Stromal Tumor, GIST
+Generalized Anxiety Disorder, GAD
+Genuphobia, Fear of Knees
+Giant Cell Arteritis, Formerly Temporal Arteritis
+Glioblastoma, GBM
+Glomerulonephritis, GN
+Glossopharyngeal Neuralgia, GPN
+Glycogen Storage Disease, GSD
+Golfer’s Elbow, Medial Epicondylitis
+Goodpasture Syndrome, Anti-GBM Disease
+Grade 3 Astrocytoma, Formerly Known as Anaplastic Astrocytoma
+Granuloma Inguinale, Donovanosis
+Granulomatosis with Polyangiitis, formerly Wegener’s Granulomatosis
+Growth Hormone Deficiency, GHD
+Guinea Worm Disease, Dracunculiasis
+HACE, High-Altitude Cerebral Edema
+HPV, Human Papillomavirus
+Hairy Ear, Ear Hair
+Haphephobia, Fear of Being Touched
+Heart Inflammation, Carditis
+Heat-Related Illness, Hyperthermia
+Heavy Metal Poisoning, Toxicity
+Hemarthrosis, Joint Bleeding
+Hemifacial Spasm, Face Twitching
+Hemochromatosis, Iron Overload
+Hepatocellular Carcinoma, HCC
+Hepatorenal Syndrome, HRS
+Hereditary Diffuse Gastric Cancer, HDGC
+Hereditary Hemorrhagic Telangiectasia, HHT
+Hereditary Multiple Osteochondromas, Multiple Hereditary Exostoses
+Hereditary Nonpolyposis Colorectal Cancer, HNPCC
+Herniated Disk, Slipped or Bulging Disk
+Herpes Simplex Virus, HSV
+High Arch Feet, Pes Cavus
+High Blood Pressure, Hypertension
+High-Altitude Pulmonary Edema, HAPE
+Hip Fracture, Broken Hip
+Hip Impingement, Femoroacetabular Impingement or FAI
+Holoprosencephaly, HPE
+Human Metapneumovirus, HMPV
+Human Parechovirus, PeV
+Hyperglycemia, High Blood Sugar
+Hyperkalemia, High Potassium
+Hyperopia, Farsightedness
+Hyperosmolar Hyperglycemic State, HHS
+Hyperpituitarism, Overactive Pituitary Gland
+Hypertension, High Blood Pressure
+Hyperuricemia, High Uric Acid Level
+Hypodontia, Missing Teeth
+Hypoglycemia, Low Blood Sugar
+Hypoplastic Left Heart Syndrome, HLHS
+Hypothalamic Obesity, HyOb
+Hypothyroidism, Underactive Thyroid
+Hypoxic-Ischemic Encephalopathy, HIE
+Iatrophobia, Fear of Doctors
+Ice Pick Headache, Primary Stabbing Headache
+Illness Anxiety Disorder, Hypochondria, Hypochondriasis
+Immunocompromised, Immunosuppressed
+Inborn Errors of Metabolism, IEM
+Increased Intracranial Pressure, ICP
+Infantile Neuroaxonal Dystrophy, INAD
+Inflammatory Bowel Disease, IBD
+Inguinal Hernia, Groin Hernia
+Inner Ear Infection, Otitis Interna
+Intraductal Papillary Mucinous Neoplasm, IPMN
+Invasive Candidiasis, Systemic Candidiasis
+Invasive Lobular Carcinoma, ILC
+Irritable Bowel Syndrome, IBS
+Isthmocele, Cesarean Scar Defect
+Jammed Finger, Sprained Finger
+Jeavons Syndrome, Epilepsy With Eyelid Myoclonia
+Jock Itch, Tinea Cruris
+Juvenile Idiopathic Arthritis, JIA
+Juvenile Nasopharyngeal Angiofibroma, JNA
+Juvenile Polyposis Syndrome, JPS
+Kidney Infection, Pyelonephritis
+Klatskin Tumor, Hilar Cholangiocarcinoma
+Klippel-Feil Syndrome, KFS
+Krabbe Disease, Globoid Cell Leukodystrophy
+Lacunar Stroke, Lacunar Infarct
+Lamb-Shaffer Syndrome, LAMSHF
+Lambert-Eaton Myasthenic Syndrome, LEMS
+Landau-Kleffner Syndrome, LKS
+Laryngopharyngeal Reflux, LPR
+Latent Autoimmune Diabetes in Adults, LADA
+Leber Hereditary Optic Neuropathy, LHON
+Leber’s Congenital Amaurosis, LCA
+Leigh Syndrome, Leigh’s Disease
+Lennox-Gastaut Syndrome, LGS
+Leprosy, Hansen’s Disease
+Leukophobia, Fear of the Color White
+Lilapsophobia, Fear of Tornadoes or Hurricanes
+Limb-Girdle Muscular Dystrophy, LGMD
+Lobular Carcinoma in Situ, LCIS
+Local Anesthetic Systemic Toxicity, LAST
+Locked-in Syndrome, LiS
+Loeys-Dietz Syndrome, LDS
+Long QT Syndrome, LQTS
+Lordosis, Swayback
+Low Blood Pressure, Hypotension
+Low Libido, Low Sex Drive
+Low Protein in Blood, Hypoproteinemia
+Low Testosterone, Male Hypogonadism
+Low White Blood Cell Count, Leukopenia
+Lupus, Systemic Lupus Erythematosus
+Lymphangioleiomyomatosis, LAM
+Lymphatic Filariasis, Elephantiasis
+Lymphogranuloma Venereum, LGV
+MCA, Middle Cerebral Artery
+MRSA, Methicillin-resistant Staphylococcus aureus
+MS, Multiple Sclerosis
+MUTYH-Associated Polyposis, MAP
+Mageirocophobia, Fear of Cooking
+Mal de Débarquement Syndrome, MdDS
+Malassezia, Pityrosporum
+Male Pattern Baldness, Androgenic Alopecia
+Malignant Peripheral Nerve Sheath Tumor, MPNST
+Marginal Zone Lymphoma, MZL
+Marijuana, Weed
+McArdle Disease, GSD5
+Measles, Rubeola
+Median Arcuate Ligament Syndrome, MALS
+Medullary Sponge Kidney, Cacchi-Ricci Disease
+Megalencephaly, Macrencephaly
+Melkersson-Rosenthal Syndrome, MRS
+Menorrhagia, Heavy Menstrual Bleeding
+Menstrual Migraines, Hormone Headaches
+Metabolic Dysfunction-Associated Steatohepatitis, MASH
+Metabolic Dysfunction-Associated Steatotic Liver Disease, MASLD
+Metastasis, Metastatic Cancer
+Metopic Craniosynostosis, Trigonocephaly
+Microphobia, Fear of Small Things
+Microscopic Polyangiitis, MPA
+Microvascular Coronary Disease, Small Vessel Disease
+Middle East Respiratory Syndrome, MERS
+Migraine Hangover, Postdrome
+Mixed Connective Tissue Disease, MCTD
+Monoclonal Gammopathy of Renal Significance, MGRS
+Monoclonal Gammopathy of Undetermined Significance, MGUS
+Motor Neuron Disease, MND
+Multifocal Motor Neuropathy, MMN
+Multiple Endocrine Neoplasia, MEN
+Multiple Sclerosis, MS
+Multisystem Inflammatory Syndrome in Children, MIS-C
+Muscle Spasms, Muscle Cramps
+Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, ME/CFS
+Myasthenia Gravis, MG
+Mycoplasma Genitalium, Mgen
+Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease, MOGAD
+Myelodysplastic Syndrome, Myelodysplasia
+Myelosuppression, Bone Marrow Suppression
+Myopia, Nearsightedness
+Myopic Degeneration, Degenerative Myopia
+Mysophobia, Germophobia
+NSTEMI Non-ST-Elevation Myocardial Infarction, Heart Attack
+Nail Infection, Paronychia
+Nasolabial Folds, Smile Lines
+Necrotizing Enterocolitis, NEC
+Necrotizing Fasciitis, Flesh-Eating Disease
+Neural Tube Defects, NTD
+Neurofibromatosis Type 1, NF1
+Neurofibromatosis Type 2, NF2
+Neuromyelitis Optica, NMO
+New Daily Persistent Headache, NDPH
+Nicotine Dependence, Tobacco Use Disorder
+Night Eating Syndrome, NES
+Noise-Induced Hearing Loss, NIHL
+Nonrelapsing Secondary Progressive MS, nrSPMS
+Nonspecific Interstitial Pneumonia, NSIP
+Normal Pressure Hydrocephalus, NPH
+Nosebleed, Epistaxis
+Nosocomephobia, Fear of Hospitals
+Nosocomial Infections, Healthcare-Associated Infections
+Nosophobia, Fear of Disease
+Nyctophobia, Fear of the Dark
+OEIS Syndrome, Cloacal Exstrophy
+Obesophobia, Fear of Gaining Weight
+Obsessive-Compulsive Disorder, OCD
+Obsessive-Compulsive Personality Disorder, OCPD
+Octophobia, Fear of the Number 8
+Ocular Herpes, Eye Herpes
+Oliguria, Low Urine Output
+Ombrophobia, Fear of Rain
+Onchocerciasis, River Blindness
+Ophidiophobia, Fear of Snakes
+Oppositional Defiant Disorder, ODD
+Optic Nerve Hypoplasia, Includes Septo-Optic Dysplasia
+Ornithophobia, Fear of Birds
+Oropharyngeal Human Papillomavirus, HPV
+Osteitis Fibrosa Cystica, OFC
+Osteogenesis Imperfecta, Brittle Bone Disease
+Osteomyelitis, Bone Infection
+Osteonecrosis of the Jaw, ONJ
+Osteoradionecrosis, ORN
+Osteosarcoma, Osteogenic Sarcoma
+Ovarian Endometrioma, Chocolate Cyst
+Ovarian Hyperstimulation Syndrome, OHSS
+PASH, Pseudoangiomatous Stromal Hyperplasia
+PTSD, Post-Traumatic Stress Disorder
+Paget's Disease of the Bone, Osteitis Deformans
+Papillary Thyroid Cancer, PTC
+Papyrophobia, Fear of Paper
+Parainfluenza, Human Parainfluenza Viruses
+Paroxysmal Supraventricular Tachycardia, PSVT
+Patellar Tendinitis, Jumper’s Knee
+Patellofemoral Pain Syndrome, PFPS
+Patent Ductus Arteriosus, PDA
+Patent Foramen Ovale, PFO
+Pedophobia, Fear of Children
+Periodic Limb Movements of Sleep, PLMS
+Periodontal Disease, Gum Disease
+Periorbital, Preseptal
+Peripheral T-Cell Lymphoma, PTCL
+Periventricular Leukomalacia, PVL
+Persistent Depressive Disorder, PDD
+Persistent Pulmonary Hypertension in the Neonate, PPHN
+Phantosmia, Olfactory Hallucinations
+Phenylketonuria, PKU
+Philophobia, Fear of Falling in Love
+Phobophobia, Fear of Fear
+Phthisis Bulbi, End-Stage Eye
+Pierre Robin Syndrome, Pierre Robin Sequence
+Pigeon Toes, Intoeing
+Pilon Fracture, Tibial Plafond Fracture
+Pink Eye, Conjunctivitis
+Pitt-Hopkins Syndrome, PTHS
+Plagiocephaly, Flat Head Syndrome
+Plantar Fibromatosis, Ledderhose Disease
+Pneumothorax, Collapsed Lung
+Podophobia, Fear of Feet
+Pogonophobia, Fear of Beards
+Polyarteritis Nodosa, PAN
+Polycystic Ovary Syndrome, PCOS
+Polydactyly, Extra Fingers or Toes
+Polymorphous Light Eruption, PMLE
+Polymyalgia Rheumatica, PMR
+Popcorn Lung, Bronchiolitis Obliterans
+Popliteal Artery Entrapment Syndrome, PAES
+Porphyrophobia, Fear of Purple
+Post-Intensive Care Syndrome, PICS
+Post-Transplant Lymphoproliferative Disorders, PTLD
+Posterior Cruciate Ligament, PCL
+Postural Orthostatic Tachycardia Syndrome, POTS
+Pott's Disease, Spinal Tuberculosis
+Premenstrual Dysphoric Disorder, PMDD
+Prepatellar Bursitis, Knee Bursitis
+Presbycusis, Age-Related Hearing Loss
+Presumed Ocular Histoplasmosis Syndrome, POHS
+Pretibial Myxedema, Graves' Dermopathy
+Primary Aldosteronism, Conn’s Syndrome
+Primary Biliary Cholangitis, PBC
+Primary Hypertension, Formerly Known as Essential Hypertension
+Primary Progressive Aphasia, PPA
+Primary Progressive Multiple Sclerosis, PPMS
+Progressive Multifocal Leukoencephalopathy, PML
+Prolonged Labor, Failure to Progress
+Proptosis, Bulging Eyes
+Prosopagnosia, Face Blindness
+Pruritus, Itchy Skin
+Pseudoachondroplasia, Dwarfism
+Pseudobulbar Affect, PBA
+Pseudogout, Chondrocalcinosis, CPPD
+Pseudomyxoma Peritonei, PMP Cancer
+Psoriasis on the Hands and Feet, Palmoplantar Psoriasis
+Psychogenic Nonepileptic Seizure, PNES
+Pteridophobia, Fear of Ferns
+Pterygium, Surfer's Eye
+Ptosis, Droopy Eyelid
+Pubic Lice, Crabs
+Pulmonary Hypertension, PH
+Pure Red Cell Aplasia, PRCA
+Pyloric Stenosis, HPS
+Pyrophobia, Fear of Fire
+REM Sleep Behavior Disorder, RBD
+RSV, Respiratory Syncytial Virus
+Ranidaphobia, Fear of Frogs
+Reactive Arthritis, Reiter's Syndrome
+Reactive Attachment Disorder, RAD
+Rejection Sensitive Dysphoria, RSD
+Relapsing-Remitting Multiple Sclerosis, RRMS
+Respiratory Depression, Hypoventilation
+Retinal Vein Occlusion, RVO
+Rothmund-Thomson Syndrome, RTS
+Rubella, German Measles
+SARS, Severe Acute Respiratory Syndrome
+SIBO, Small Intestinal Bacterial Overgrowth
+SIDS, Sudden Infant Death Syndrome
+SIRS, Systemic Inflammatory Response Syndrome
+Salivary Stones, Sialolithiasis
+Salter-Harris Fracture, Growth Plate Fracture
+Samhainophobia, Fear of Halloween
+Scaphocephaly, Sagittal Craniosynostosis
+Scolionophobia, Fear of School
+Seasonal Depression, Seasonal Affective Disorder
+Secondary Progressive Multiple Sclerosis, SPMS
+Selenophobia, Fear of the Moon
+Self-Harm, Nonsuicidal Self-Injury Disorder
+Sensory Processing Disorder, SPD
+Severe Combined Immunodeficiency, SCID
+Sever’s Disease, Calcaneal Apophysitis
+Sexually Transmitted Fungal Infection, TMVII
+Shift Work Sleep Disorder, SWSD
+Shigellosis, Shigella Infection
+Short Q-T Syndrome, SQTS
+Short Sleeper Syndrome, SSS
+Shoulder Impingement Syndrome, Rotator Cuff Tendinitis
+Shwachman-Diamond syndrome, SDS
+Shy Bladder Syndrome, Paruresis
+Silent Migraine, Typical Aura Without Headache
+Sinus Infection, Sinusitis
+Skin Tags, Acrochordons
+Slipped Capital Femoral Epiphysis, SCFE
+Smoldering Multiple Myeloma, SMM
+Social Anxiety Disorder, Social Phobia
+Somniphobia, Fear of Sleep
+Sore Throat, Pharyngitis
+Speech Impairment, Speech Disorder
+Spinal Arteriovenous Malformation, AVM
+Spinal Muscular Atrophy, SMA
+Spondyloarthritis, Spondyloarthropathy
+Spontaneous Coronary Artery Dissection, SCAD
+Squamous Intraepithelial Lesion, SIL
+Steatotic, Fatty
+Strabismus, Eye Misalignment
+Strep C, Group C Strep
+Subacute Cutaneous Lupus, SCLE
+Subarachnoid Hemorrhage, SAH
+Substance Use Disorder, SUD
+Sudden Cardiac Death, Sudden Cardiac Arrest
+Sun-damaged Skin, Photoaging
+Superior Mesenteric Artery, SMA
+Supraventricular Tachycardia, SVT
+Swimmer’s Ear, Otitis Externa
+Swimmer’s Itch, Cercarial Dermatitis
+Swine Flu, H1N1
+Swollen Uvula, Uvulitis
+Swyer Syndrome, XY Gonadal Dysgenesis
+Symbrachydactyly, Short Joined Fingers
+Syncope, Fainting
+Syndactyly, Webbed Toes or Fingers
+Synechiae, Eye
+Tachophobia, Fear of Speed
+Tailbone Pain, Coccydynia
+Tailor's Bunion, Bunionette
+Temporal Lobe Epilepsy, TLE
+Temporomandibular Joint, TMJ
+Tennis Elbow, Lateral Epicondylitis
+Tetanus, Lockjaw
+Thanatophobia, Fear of Death
+Thymoma, Thymic Carcinoma
+Thyroid Eye Disease, Graves’ Eye Disease
+Tick-Borne Encephalitis, TBE
+Tokophobia, Fear of Childbirth
+Tongue-Tie, Ankyloglossia
+Tonic-Clonic, Grand Mal
+Tortuous Colon, Redundant Colon
+Torus Mandibularis, Mandibular Tori
+Torus Palatinus, Palatal Tori
+Toxic Epidermal Necrolysis, TEN
+Toxic Hepatitis, Liver Toxicity
+Tracheobronchomalacia, TBM
+Transfusion-Associated Circulatory Overload, TACO
+Transfusion-Related Acute Lung Injury, TRALI
+Transient Ischemic Attack, TIA
+Transient Lingual Papillitis, Lie Bumps
+Transient Neonatal Pustular Melanosis, TNPM
+Transthyretin Amyloidosis, ATTR-CM
+Transverse Myelitis, TM
+Triangular Fibrocartilage Complex Tear, TFCC
+Trichinosis, Trichinellosis
+Trimethylaminuria, Fish Odor Syndrome
+Trisomy 13, Patau Syndrome
+Trypanophobia, Fear of Needles
+UCL, Tommy John
+Unilateral Hearing Loss, Single-Sided Deafness
+Upper Respiratory Infection, URI
+Urinary Tract Infection, UTI
+Urothelial Carcinoma, Transitional Carcinoma
+Uterine Cancer, Endometrial Cancer
+VATER Syndrome, VACTERL Association
+VIPoma, Vasoactive Intestinal Peptide Secreting
+Varicella-Zoster Virus, VZV
+Vascular Disease, Vasculopathy
+Velopharyngeal Insufficiency, VPI
+Ventricular Septal Defect, VSD
+Vitamin D Toxicity, Hypervitaminosis D
+Vocal Cord Dysfunction, Inducible Laryngeal Obstruction
+von Hippel-Lindau Disease, VHL
+Watermelon Stomach, Gastric Antral Vascular Ectasis
+Webbed Penis, Penoscrotal Webbing
+Wernicke's Aphasia, Receptive Aphasia
+Whiplash, Neck Strain
+Whipworm, Trichuris Trichiura
+Whooping Cough, Pertussis
+XLH, X-Linked Hypophosphatemia
+Xeroderma Pigmentosum, XP
+Zoophobia, Fear of Animals
+
+# --- First Query ---
+death, deadly, fatal, fatality, lethal, mortality, mortal, terminal, life threatening, dying
+incurable, no cure, untreatable, not curable, treatment resistant
+poor prognosis, bad outlook, low survival, grim prognosis, unfavorable prognosis, short life expectancy, limited life expectancy
+
+# --- Second Query ---
+elderly, seniors, older adults, geriatric, aging, over 65, older people, the aged, retirement age, age related
+chronic, persistent, long term, lifelong, ongoing, recurring, constant
+daily living, adl, activities of daily living, quality of life, functional impairment, disability, independence, mobility
+lifestyle, lifestyle changes, healthy habits, self management, self care, non pharmaceutical, conservative treatment, home remedies, coping
+diet, nutrition, dietary, eating habits
+exercise, physical activity, fitness, active living
+physical therapy, physiotherapy, rehabilitation, rehab, occupational therapy, counseling, support group
+
+# --- Third Query ---
+kidney, renal
+kidney failure, renal failure, renal insufficiency, renal dysfunction
+kidney stones, nephrolithiasis, renal calculi
+dialysis, hemodialysis
+
+# --- Fourth Query ---
+vision, visual, sight, eyesight, optic
+blindness, blind, vision loss, loss of vision, losing vision, no vision
+double vision, diplopia
+blurred vision, blurry vision, clouding of lens
+
+# --- Fifth Query ---
+contagious, infectious, communicable, transmissible, catchable
+spreads easily, highly contagious, rapid spread, person to person, airborne
+viral infection, virus, bacterial infection, bacteria
+
+# --- Sixth Query ---
+children, child, childhood, kids, pediatric, paediatric, juvenile
+infant, infancy, baby, babies, newborn, neonate, neonatal
+adolescent, teen, teenager, youth
+birth defect, congenital, inborn

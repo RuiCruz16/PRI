@@ -7,6 +7,7 @@ chmod +x scripts/qrels2trec.py
 chmod +x scripts/query_solr.py
 chmod +x scripts/solr2trec.py
 
+# Change from queries (the second one) to improved_queries to evaluate the new/refined queries
 ./scripts/query_solr.py \
     --queries queries \
     --uri http://localhost:8984/solr \

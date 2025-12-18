@@ -1,5 +1,5 @@
 {
-  "query": "contagious^5 \"highly contagious\"~2^5 (viral infection*)~3^3 (spread* eas*)~4^3 -fear -phobia -genetic -autoimmune -vascular -syndrome",
+  "query": "contagious^5 \"highly contagious\"~2^5 (viral infection*)~3^3 (spread* eas*)~4^3 (transmiss* OR spread OR infect* OR contagious) -fear -phobia -genetic -autoimmune -vascular -syndrome",
   "params": {
     "defType": "edismax",
     "qf": "symptoms_and_causes^4 overview^3 prevention^3",

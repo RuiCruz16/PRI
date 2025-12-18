@@ -1,0 +1,10 @@
+{
+  "query": "(elderly AND (chronic OR \"daily living\") AND (lifestyle OR diet OR exercise OR \"physical therapy\"))",
+  "params": {
+    "defType": "edismax",
+    "qf": "management_and_treatment^5 living_with^4 overview^2 symptoms_and_causes^1",
+    "mm": "2"
+  },
+  "fields": "*,score",
+  "limit": 30
+}
